@@ -1,0 +1,479 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+/* Tokens. Dark (ocean night) is the default; light is opt-in via the toggle. */
+:root,
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --page: #06101c;
+  --surface: #0c1929;
+  --surface-2: #12233a;
+  --surface-3: #1a2f4b;
+  --line: rgba(255, 255, 255, 0.09);
+  --line-strong: rgba(255, 255, 255, 0.18);
+  --ink: #e8eef6;
+  --ink-2: #a9b8cb;
+  --ink-3: #7d8ca0;
+  --grid: #1b2b41;
+  --axis: #2e4260;
+  --accent: #4ea1ff;
+  --accent-ink: #06101c;
+  /* categorical (validated on --surface, dark) */
+  --s1: #3987e5;
+  --s2: #d95926;
+  --s3: #199e70;
+  --s4: #c98500;
+  --s5: #d55181;
+  --s6: #008300;
+  --s7: #9085e9;
+  --s8: #e66767;
+  /* diverging: cold / neutral / warm */
+  --cold-2: #6da7ec;
+  --cold: #3987e5;
+  --neutral: #4a5566;
+  --warm: #e66767;
+  --warm-2: #f0a0a0;
+  --band: rgba(255, 255, 255, 0.05);
+  /* status */
+  --good: #0ca30c;
+  --warning: #fab219;
+  --serious: #ec835a;
+  /* status colours double as text colours: all >= 4.5:1 on --surface */
+  --critical: #ea5a5a;
+  --extreme: #e45c93;
+  --good-ink: #3fcf5a;
+  --stale: #fab219;
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+  --page: #eef2f7;
+  --surface: #ffffff;
+  --surface-2: #f4f6f9;
+  --surface-3: #e7ecf3;
+  --line: rgba(11, 24, 44, 0.1);
+  --line-strong: rgba(11, 24, 44, 0.2);
+  --ink: #0b1626;
+  --ink-2: #44526a;
+  --ink-3: #5b6a7e;
+  --grid: #e6e9ee;
+  --axis: #c3c9d3;
+  --accent: #1d66c2;
+  --accent-ink: #ffffff;
+  --s1: #2a78d6;
+  --s2: #eb6834;
+  --s3: #1baf7a;
+  --s4: #eda100;
+  --s5: #e87ba4;
+  --s6: #008300;
+  --s7: #4a3aa7;
+  --s8: #e34948;
+  --cold-2: #184f95;
+  --cold: #2a78d6;
+  --neutral: #b8bcc2;
+  --warm: #e34948;
+  --warm-2: #a51f1f;
+  --band: rgba(11, 24, 44, 0.05);
+  /* darker status tones on light backgrounds (WCAG AA as text) */
+  --good: #157015;
+  --warning: #8f5c00;
+  --serious: #a84b1a;
+  --critical: #c62f2f;
+  --extreme: #b0245e;
+  --good-ink: #006300;
+  --stale: #8f5c00;
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-warm: var(--warm);
+  --color-cold: var(--cold);
+  --color-good: var(--good);
+  --color-good-ink: var(--good-ink);
+  --color-warning: var(--warning);
+  --color-serious: var(--serious);
+  --color-critical: var(--critical);
+  --color-stale: var(--stale);
+  --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  color: inherit;
+}
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+.link {
+  color: var(--accent);
+  /* a link inside prose must not rely on colour alone (WCAG 1.4.1; Lighthouse a11y 96 -> 100,
+     QA 24 Sep 2026): a light underline, stronger on hover */
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--accent) 45%, transparent);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  /* inline links get a >= 24 px tall hit box (WCAG 2.5.8) without changing the line layout */
+  padding-block: 5px;
+}
+/* links that are a whole list item: let the hit box take real space so neighbours never overlap */
+li > .link {
+  display: inline-block;
+}
+.link:hover {
+  text-decoration-color: var(--accent);
+}
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: 999px;
+  padding: 1px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 18px;
+  border: 1px solid var(--line-strong);
+  white-space: nowrap;
+  max-width: 100%;
+}
+/* .chip is unlayered CSS, so Tailwind's whitespace-normal utility cannot override it: opt-in wrap */
+.chip.whitespace-normal {
+  white-space: normal;
+  text-align: left;
+}
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  border: 1px solid var(--line-strong);
+  background: var(--surface-2);
+  color: var(--ink);
+  cursor: pointer;
+}
+.btn:hover {
+  background: var(--surface-3);
+}
+.btn:disabled {
+  opacity: 0.55;
+  cursor: progress;
+}
+.btn-primary {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-color: transparent;
+}
+.btn-primary:hover {
+  background: var(--accent);
+  filter: brightness(1.08);
+}
+.seg {
+  display: inline-flex;
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.seg > button {
+  padding: 4px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-2);
+  background: transparent;
+  cursor: pointer;
+}
+.seg > button + button {
+  border-left: 1px solid var(--line-strong);
+}
+.seg > button[aria-pressed='true'] {
+  background: var(--surface-3);
+  color: var(--ink);
+}
+.input {
+  background: var(--surface-2);
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 13px;
+  color: var(--ink);
+}
+.input:focus,
+.btn:focus-visible,
+.seg > button:focus-visible,
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+select:focus-visible,
+input:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+.skip-link {
+  position: absolute;
+  left: 8px;
+  top: -40px;
+  z-index: 50;
+  background: var(--accent);
+  color: var(--accent-ink);
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.skip-link:focus {
+  top: 8px;
+}
+.spin {
+  width: 14px;
+  height: 14px;
+  border: 2px solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.skeleton {
+  background: linear-gradient(90deg, var(--surface-2), var(--surface-3), var(--surface-2));
+  background-size: 200% 100%;
+  animation: sk 1.4s ease-in-out infinite;
+  border-radius: 6px;
+}
+@keyframes sk {
+  to {
+    background-position: -200% 0;
+  }
+}
+
+/* Recharts chrome */
+.recharts-cartesian-grid line {
+  stroke: var(--grid);
+}
+.recharts-cartesian-axis-tick-value {
+  fill: var(--ink-3);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+.recharts-cartesian-axis-line,
+.recharts-cartesian-axis-tick-line {
+  stroke: var(--axis);
+}
+.recharts-tooltip-cursor {
+  stroke: var(--line-strong);
+}
+
+/* MapLibre popups in theme */
+.maplibregl-popup-content {
+  background: var(--surface) !important;
+  color: var(--ink) !important;
+  border: 1px solid var(--line-strong);
+  border-radius: 8px !important;
+  padding: 10px 12px !important;
+  font-size: 12px;
+  line-height: 1.45;
+  max-width: min(300px, calc(100vw - 48px));
+  overflow-wrap: anywhere;
+}
+.maplibregl-popup {
+  max-width: min(300px, calc(100vw - 32px)) !important;
+}
+.maplibregl-popup-tip {
+  border-top-color: var(--surface) !important;
+  border-bottom-color: var(--surface) !important;
+}
+.maplibregl-popup-close-button {
+  color: var(--ink-2);
+  font-size: 20px;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+}
+.maplibregl-popup-content .popup-list {
+  max-height: 220px;
+  overflow-y: auto;
+  margin: 0 -4px;
+  padding: 0 4px;
+}
+.maplibregl-ctrl-attrib {
+  font-size: 10px;
+}
+
+@media print {
+  :root {
+    --page: #fff;
+    --surface: #fff;
+    --surface-2: #fff;
+    --surface-3: #eee;
+    --ink: #000;
+    --ink-2: #222;
+    --ink-3: #444;
+    --line: #bbb;
+    --line-strong: #888;
+    color-scheme: light;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  body {
+    background: #fff;
+  }
+  .card {
+    break-inside: avoid;
+    border-color: #999;
+  }
+  main {
+    overflow: visible !important;
+    padding: 0 !important;
+  }
+  a[href^='http']::after {
+    content: ' (' attr(href) ')';
+    font-size: 9px;
+    color: #444;
+    word-break: break-all;
+  }
+}
+.print-only {
+  display: none;
+}
+
+/* DOM map labels */
+.map-label {
+  pointer-events: none;
+  font-size: 11px;
+  font-weight: 600;
+  white-space: nowrap;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: rgba(6, 16, 28, 0.72);
+  color: #e8eef6;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+.map-label-nino {
+  color: #f6c1c1;
+}
+.map-label-dry {
+  color: #f3c46b;
+  font-weight: 500;
+  font-size: 10px;
+}
+.map-label-wet {
+  color: #9ec5f4;
+  font-weight: 500;
+  font-size: 10px;
+}
+.map-label-home {
+  color: #cde2fb;
+}
+.map-label-home:empty {
+  display: none;
+}
+
+/* Filter chips (toggle buttons). >= 40 px tall on phones for touch. */
+.fchip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 40px;
+  border-radius: 999px;
+  padding: 2px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  border: 1px solid var(--line-strong);
+  background: var(--surface-2);
+  color: var(--ink-2);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.fchip:hover {
+  background: var(--surface-3);
+  color: var(--ink);
+}
+.fchip[aria-pressed='true'],
+.fchip[aria-checked='true'] {
+  background: color-mix(in srgb, var(--accent) 18%, var(--surface-2));
+  border-color: var(--accent);
+  color: var(--ink);
+}
+.fchip-n {
+  font-weight: 500;
+  color: var(--ink-3);
+}
+.fchip[aria-pressed='true'] .fchip-n,
+.fchip[aria-checked='true'] .fchip-n {
+  color: var(--ink-2);
+}
+@media (min-width: 640px) {
+  .fchip {
+    min-height: 30px;
+    padding: 1px 10px;
+  }
+}
+/* Touch devices at any width keep 40 px targets */
+@media (pointer: coarse) {
+  .fchip,
+  .btn,
+  .seg > button {
+    min-height: 40px;
+  }
+}
+/* Small "?" help buttons: a 24 px button around the 16 px dot, plus a 40 px invisible hit area */
+.help-hit {
+  position: relative;
+}
+.help-hit::before {
+  content: '';
+  position: absolute;
+  inset: -8px;
+}
+.help-hit:hover > span {
+  border-color: currentColor;
+}
+@media (max-width: 639px) {
+  /* legibility on phones: the smallest labels read at 12 px */
+  .text-\[10px\],
+  .text-\[11px\],
+  .maplibregl-ctrl-attrib {
+    font-size: 12px;
+  }
+  .btn {
+    min-height: 40px;
+  }
+  .seg > button {
+    min-height: 40px;
+  }
+}

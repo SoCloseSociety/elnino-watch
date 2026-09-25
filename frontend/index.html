@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#07111f" />
+    <meta name="color-scheme" content="dark light" />
+    <meta name="application-name" content="El Nino Watch" />
+    <meta name="apple-mobile-web-app-title" content="El Nino Watch" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/icon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/icon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <!-- Dev-server defaults: in production the backend (app/seo.py) rewrites the title
+         and description per route, adds canonical / Open Graph / JSON-LD, and fills #root
+         with a crawler summary of the live data. -->
+    <title>El Nino Watch: live El Nino 2026-27 tracker</title>
+    <meta name="description" content="Live El Nino 2026-27 tracker: NOAA ONI and RONI, weekly Nino 3.4 anomaly, IRI and CPC forecasts, a hazards map and a Koh Samui (Thailand) risk watch, updated hourly." />
+    <script>
+      try { var t = localStorage.getItem('theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+    </script>
+    <style>
+      /* Server-rendered summary (#prerender): what crawlers and no-JS visitors read; React
+         replaces it on mount. Uses the theme tokens of index.css so both themes look right. */
+      #prerender { max-width: 76ch; margin: 0 auto; padding: 24px 16px 40px; font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink, #e8eef6); }
+      #prerender .brand { margin: 0; font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3, #7d8ca0); }
+      #prerender h1 { font-size: 24px; line-height: 1.2; margin: .2em 0 .4em; }
+      #prerender h2 { font-size: 18px; margin: 1.4em 0 .4em; }
+      #prerender h3 { font-size: 15px; margin: 1em 0 .3em; }
+      #prerender p, #prerender li { color: var(--ink-2, #a9b8cb); }
+      #prerender a { color: var(--accent, #4ea1ff); }
+      #prerender dt { font-weight: 600; margin-top: .7em; }
+      #prerender dd { margin: 0 0 .2em; color: var(--ink-2, #a9b8cb); }
+      #prerender table { border-collapse: collapse; width: 100%; font-size: 13px; display: block; overflow-x: auto; }
+      #prerender th, #prerender td { text-align: left; padding: 4px 8px; border-bottom: 1px solid var(--line, rgba(255,255,255,.09)); vertical-align: top; }
+      #prerender nav ul { display: flex; flex-wrap: wrap; gap: 6px 12px; list-style: none; padding: 0; margin: 1.5em 0; }
+      #prerender footer { border-top: 1px solid var(--line, rgba(255,255,255,.09)); padding-top: 12px; font-size: 13px; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

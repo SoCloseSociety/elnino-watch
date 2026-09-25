@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Monthly Report</title>
+    <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/</link>
+    <atom:link href="https://www.ncei.noaa.gov/access/monitoring/monthly-report/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>NOAA's National Centers for Environmental Information monthly report on the state of the climate</description>
+    <managingEditor>NCEI.Monitoring.Info@noaa.gov (NCEI Monitoring Info)</managingEditor>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Sep 2026 11:00:00 -0400</lastBuildDate>
+    <item>
+      <title>August 2026 Monthly National Climate Report</title>
+      <category>national</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/national/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/national/202608</guid>
+      <description>The August contiguous U.S. average temperature was 75.58 degrees Fahrenheit, 3.5 degrees Fahrenheit above the 1901-2000 average. The precipitation total was 2.30 inches, 0.32 inches (12.2%) below the 1901-2000 mean.</description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Global Climate Report</title>
+      <category>global</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/global/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/global/202608</guid>
+      <description>The combined average temperature over global land and ocean surfaces for August was 1.32 degrees C (2.38 degrees Fahrenheit) above the 1901-2000 average of 15.5 degrees C (59.9 degrees Fahrenheit). The precipitation total was 85.66 mm, 1.14 mm (1.3%) above the 1979-2000 average.</description>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Global Drought Narrative</title>
+      <category>global</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/global-drought/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/global-drought/202608</guid>
+      <description>This report synthesizes data from the following sources: NOAA National Centers for Environmental Information (NCEI): Global temperature data (1850-2026). European Centre for Medium-Range Weather Forecast (ECMWF) ERA5 Reanalysis: Global precipitation data (1940-2026), as well as temperature data for Australia. </description>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Upper Air Report</title>
+      <category>global</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/upper-air/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/upper-air/202608</guid>
+      <description>August Mid-troposphere temperature anomalies: 0.857 degrees C (NESDIS STAR). Lower Stratosphere temperature anomalies: -0.160 degrees C (NESDIS STAR).</description>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Tropical Cyclones Report</title>
+      <category>global</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/tropical-cyclones/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/tropical-cyclones/202608</guid>
+      <description>Nineteen named storms occurred across the globe in August, which was above the 1991-2020 average of 14.7. Five of those reached tropical cyclone strength (greater than or equal to 74 mph), and four reached major tropical cyclone strength (greater than or equal to 111 mph). The global accumulated cyclone energy (ACE: an integrated metric of the strength, frequency, and duration of tropical storms) was 114.3x10^4kt^2 or about 95% of the 1991-2020 average for August.</description>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Tornadoes Report</title>
+      <category>national</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/tornadoes/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/tornadoes/202608</guid>
+      <description>The most favorable region for tornadic development during August is along the northern tier states, where the late summer jet stream is typically positioned. Gulf and Atlantic Coast states also experience an elevated incidence of tornadoes during August due to tropical cyclone activity. According to data from NOAA's Storm Prediction Center (SPC), there were 98 preliminary tornado reports during August, representing approximately 121% of the 1991-2020 August average of 81 tornadoes.</description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Synoptic Discussion</title>
+      <category>national</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/synoptic/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/synoptic/202608</guid>
+      <description>Note: WPO and EPO plots have been omitted from this report due to incomplete data.</description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Global Snow and Ice Report</title>
+      <category>global</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/global-snow/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/global-snow/202608</guid>
+      <description>During August, Global Sea Ice Extent was 22.02 million square km (8.50 million square miles), 9.27% below the 1991-2020 average.</description>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Wildfires Report</title>
+      <category>national</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/fire/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/fire/202608</guid>
+      <description>For August, 8249 fires (12th most since 2000) burned 3420034 acres (2nd most on record), which is 414.6 acres burned/fire (2nd most). For June - August, 21741 fires (14th least) burned 5827566 acres (5th most), which is 268.04 acres burned/fire (6th most). For January - August, 52253 fires (10th most) burned 8238284 acres (most), which is 157.66 acres burned/fire (5th most).</description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Monthly Drought Report</title>
+      <category>national</category>
+      <link>https://www.ncei.noaa.gov/access/monitoring/monthly-report/drought/202608</link>
+      <guid isPermaLink="true">https://www.ncei.noaa.gov/access/monitoring/monthly-report/drought/202608</guid>
+      <description>As of August 25th, 56.61% of the Contiguous U.S. was experiencing drought conditions, 31.59% was in severe drought, 11.76% extreme, and 1.75% exceptional.</description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

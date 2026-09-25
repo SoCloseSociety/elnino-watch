@@ -1,0 +1,1 @@
+{"error":["Product seasonal_system5_standard_rain not available --> ('valid_time 2099-01-01T00:00:00Z is not available for this base_time 2026-09-01T00:00:00Z', \"Current available valid_time ['2026-10-02T00:00:00Z', '2026-11-02T00:00:00Z', '2026-12-02T00:00:00Z', '2027-01-02T00:00:00Z']\")"],"tracker":"tracker-604364b5fe294743bec9974cbd2c9026","uid":""}

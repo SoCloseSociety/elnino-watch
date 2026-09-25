@@ -1,0 +1,329 @@
+{
+ "generated_at": "2026-09-25T13:06:21+00:00",
+ "items": [
+  {
+   "id": "no-rain",
+   "question": "Does El Nino mean no rain on Samui?",
+   "answer": "No. El Nino tilts the odds towards less rain, it does not switch rain off. The TMD found that in El Nino years rain in Thailand is usually below normal, mostly in the hot season and early rainy season, while the effect in the middle and late rainy season is unclear.\n\nSamui's main rain comes from the northeast monsoon (October-January). It still comes in El Nino years, and it can still flood. The worry is a weaker monsoon that leaves the reservoirs short before the February-April dry season.",
+   "answer_text": "No. El Nino tilts the odds towards less rain, it does not switch rain off. The TMD found that in El Nino years rain in Thailand is usually below normal, mostly in the hot season and early rainy season, while the effect in the middle and late rainy season is unclear.\n\nSamui's main rain comes from the northeast monsoon (October-January). It still comes in El Nino years, and it can still flood. The worry is a weaker monsoon that leaves the reservoirs short before the February-April dry season.",
+   "topics": [
+    {
+     "id": "el_nino_thailand",
+     "title": "Why El Nino affects Thailand"
+    },
+    {
+     "id": "samui_seasons",
+     "title": "Koh Samui's seasons"
+    }
+   ]
+  },
+  {
+   "id": "prepare-fine-weather",
+   "question": "Why is the risk level \"Prepare\" when the weather is fine?",
+   "answer": "Because the El Nino factor looks at the season ahead, not at today. A strong El Nino (ONI of +1.5 °C or more) gives that factor level 2 (Prepare), and by rule R1 the overall level takes the highest factor.\n\n\"Prepare\" here means: use the calm weeks to get ready for a likely hard dry season (water stock, tank, a plan if ferries stop). It does not mean danger today. The El Nino factor can never push the level above Prepare on its own.",
+   "answer_text": "Because the El Nino factor looks at the season ahead, not at today. A strong El Nino (ONI of +1.5 °C or more) gives that factor level 2 (Prepare), and by rule R1 the overall level takes the highest factor.\n\n\"Prepare\" here means: use the calm weeks to get ready for a likely hard dry season (water stock, tank, a plan if ferries stop). It does not mean danger today. The El Nino factor can never push the level above Prepare on its own.",
+   "topics": [
+    {
+     "id": "factor_enso",
+     "title": "Factor: El Nino (event strength)"
+    },
+    {
+     "id": "risk_rules",
+     "title": "How the overall level is decided (rules R1-R4)"
+    }
+   ]
+  },
+  {
+   "id": "weekly-number",
+   "question": "Which number should I watch every week?",
+   "answer": "Three things, in this order:\n\n- **The Samui level and its headline** (Samui page): it already combines everything.\n- **The water factor**: rain over the last 90 days as % of normal. During October-December, this is the key signal for the 2027 dry season.\n- **The weekly Nino 3.4 anomaly** (Overview): whether El Nino is still growing or starting to fade.\n\nOnce a month, when NOAA publishes its update (second Thursday), look at the CPC status and the IRI probabilities.",
+   "answer_text": "Three things, in this order:\n\n- The Samui level and its headline (Samui page): it already combines everything.\n- The water factor: rain over the last 90 days as % of normal. During October-December, this is the key signal for the 2027 dry season.\n- The weekly Nino 3.4 anomaly (Overview): whether El Nino is still growing or starting to fade.\n\nOnce a month, when NOAA publishes its update (second Thursday), look at the CPC status and the IRI probabilities.",
+   "topics": [
+    {
+     "id": "risk_levels",
+     "title": "Koh Samui risk levels (0-4)"
+    },
+    {
+     "id": "factor_water",
+     "title": "Factor: rain deficit / water shortage"
+    },
+    {
+     "id": "nino34",
+     "title": "Nino 3.4"
+    },
+    {
+     "id": "cpc_alert_system",
+     "title": "NOAA ENSO Alert System (Watch, Advisory)"
+    }
+   ]
+  },
+  {
+   "id": "reliable-6-months",
+   "question": "How reliable are forecasts 6 months ahead?",
+   "answer": "For El Nino itself, forecasts made now (September) for the winter peak are fairly reliable: after the northern spring, models capture about three-quarters of the winter ups and downs. Forecasts that reach through next spring (for when El Nino ends) are much less reliable: that is the \"spring predictability barrier\".\n\nFor local weather on Samui 6 months ahead, forecasts only give tendencies (drier or wetter than normal), not events. Weather forecasts for specific days are useful for about a week, best for 2-3 days.",
+   "answer_text": "For El Nino itself, forecasts made now (September) for the winter peak are fairly reliable: after the northern spring, models capture about three-quarters of the winter ups and downs. Forecasts that reach through next spring (for when El Nino ends) are much less reliable: that is the \"spring predictability barrier\".\n\nFor local weather on Samui 6 months ahead, forecasts only give tendencies (drier or wetter than normal), not events. Weather forecasts for specific days are useful for about a week, best for 2-3 days.",
+   "topics": [
+    {
+     "id": "forecast_uncertainty",
+     "title": "Forecast uncertainty and the spring barrier"
+    },
+    {
+     "id": "iri_plume",
+     "title": "IRI ENSO forecast (plume and probabilities)"
+    },
+    {
+     "id": "seasonal_outlook",
+     "title": "Seasonal outlook for Samui (ECMWF SEAS5)"
+    }
+   ]
+  },
+  {
+   "id": "water-danger-period",
+   "question": "When is the dangerous period for water?",
+   "answer": "February to April 2027. That is the dry season right after the expected El Nino peak, when the water stored during the northeast monsoon is used up and heat raises demand.\n\nThe warning sign comes earlier: if October-December 2026 rain is well below normal, the reservoirs will not refill, and the dry season starts with a deficit. The water system was already rationed from 3 August 2026.",
+   "answer_text": "February to April 2027. That is the dry season right after the expected El Nino peak, when the water stored during the northeast monsoon is used up and heat raises demand.\n\nThe warning sign comes earlier: if October-December 2026 rain is well below normal, the reservoirs will not refill, and the dry season starts with a deficit. The water system was already rationed from 3 August 2026.",
+   "topics": [
+    {
+     "id": "samui_water_supply",
+     "title": "Samui's water supply"
+    },
+    {
+     "id": "factor_water",
+     "title": "Factor: rain deficit / water shortage"
+    },
+    {
+     "id": "samui_seasons",
+     "title": "Koh Samui's seasons"
+    }
+   ]
+  },
+  {
+   "id": "what-is-anomaly",
+   "question": "What does \"+1.8 °C\" mean? Is the sea 1.8 °C?",
+   "answer": "No. It is an anomaly: the difference from normal. \"+1.8 °C\" means the Nino 3.4 region of the Pacific is 1.8 °C warmer than its usual temperature for that time of year (which is around 27-28 °C), averaged over three months.",
+   "answer_text": "No. It is an anomaly: the difference from normal. \"+1.8 °C\" means the Nino 3.4 region of the Pacific is 1.8 °C warmer than its usual temperature for that time of year (which is around 27-28 °C), averaged over three months.",
+   "topics": [
+    {
+     "id": "anomaly",
+     "title": "Anomaly"
+    },
+    {
+     "id": "oni",
+     "title": "ONI (Oceanic Nino Index)"
+    }
+   ]
+  },
+  {
+   "id": "oni-vs-roni",
+   "question": "Why do ONI and RONI show different numbers? Which is right?",
+   "answer": "Both are correct measurements of different things. ONI compares the Nino 3.4 region with its own 30-year normal. RONI compares it with the rest of the tropical ocean, which has been warming. Since 1 February 2026 NOAA uses RONI officially, because the contrast with the rest of the tropics is what moves the rain.\n\nThis year RONI is lower (June-August 2026: ONI +1.80, RONI +1.36). The app's El Nino factor still uses ONI and the weekly Nino 3.4 value.",
+   "answer_text": "Both are correct measurements of different things. ONI compares the Nino 3.4 region with its own 30-year normal. RONI compares it with the rest of the tropical ocean, which has been warming. Since 1 February 2026 NOAA uses RONI officially, because the contrast with the rest of the tropics is what moves the rain.\n\nThis year RONI is lower (June-August 2026: ONI +1.80, RONI +1.36). The app's El Nino factor still uses ONI and the weekly Nino 3.4 value.",
+   "topics": [
+    {
+     "id": "roni",
+     "title": "RONI (Relative Oceanic Nino Index)"
+    },
+    {
+     "id": "oni",
+     "title": "ONI (Oceanic Nino Index)"
+    }
+   ]
+  },
+  {
+   "id": "soi-negative",
+   "question": "The SOI is negative. Is that bad?",
+   "answer": "A negative SOI means the air pressure is higher than usual at Darwin and lower at Tahiti, which is the atmosphere's El Nino signature. Several negative months in a row confirm that ocean and atmosphere are both in El Nino mode. It is a confirmation, not an extra danger. Careful: the Australian (BoM) SOI uses a scale about 10 times larger than NOAA's.",
+   "answer_text": "A negative SOI means the air pressure is higher than usual at Darwin and lower at Tahiti, which is the atmosphere's El Nino signature. Several negative months in a row confirm that ocean and atmosphere are both in El Nino mode. It is a confirmation, not an extra danger. Careful: the Australian (BoM) SOI uses a scale about 10 times larger than NOAA's.",
+   "topics": [
+    {
+     "id": "soi",
+     "title": "SOI (Southern Oscillation Index, NOAA CPC)"
+    },
+    {
+     "id": "bom_soi",
+     "title": "SOI (Australian Bureau of Meteorology, Troup)"
+    }
+   ]
+  },
+  {
+   "id": "super-el-nino",
+   "question": "Is this a \"super El Nino\"?",
+   "answer": "\"Super\" is a media word, not an official category. NOAA said in September 2026 that there is a greater than 90% chance of a very strong event in late 2026 and early 2027, and a 75% chance of a historic one (RONI +2.5 °C or more in October-December). Stronger events make the usual impacts more likely, not certain.",
+   "answer_text": "\"Super\" is a media word, not an official category. NOAA said in September 2026 that there is a greater than 90% chance of a very strong event in late 2026 and early 2027, and a 75% chance of a historic one (RONI +2.5 °C or more in October-December). Stronger events make the usual impacts more likely, not certain.",
+   "topics": [
+    {
+     "id": "strength_categories",
+     "title": "Weak, moderate, strong and \"super\" El Nino"
+    },
+    {
+     "id": "event_2026",
+     "title": "The 2026 El Nino"
+    }
+   ]
+  },
+  {
+   "id": "floods-el-nino",
+   "question": "Can Samui flood during an El Nino?",
+   "answer": "Yes. El Nino shifts the seasonal odds, but single storms and monsoon surges still happen. The northeast monsoon brings Samui's heaviest rain in October-December every year. That is why the flood factor and the sea state factor are watched closely even now.",
+   "answer_text": "Yes. El Nino shifts the seasonal odds, but single storms and monsoon surges still happen. The northeast monsoon brings Samui's heaviest rain in October-December every year. That is why the flood factor and the sea state factor are watched closely even now.",
+   "topics": [
+    {
+     "id": "factor_flood",
+     "title": "Factor: heavy rain / flooding"
+    },
+    {
+     "id": "samui_seasons",
+     "title": "Koh Samui's seasons"
+    }
+   ]
+  },
+  {
+   "id": "unknown",
+   "question": "The level says \"Unknown\". Is something broken?",
+   "answer": "One of the critical data sources (El Nino, water, heat, flood, cyclone/wind, sea state) has no current data. The app refuses to say \"Normal\" without it. Act on the \"at least ...\" level shown, check the TMD and the ferry operators yourself, and look at the Sources page to see what is failing.",
+   "answer_text": "One of the critical data sources (El Nino, water, heat, flood, cyclone/wind, sea state) has no current data. The app refuses to say \"Normal\" without it. Act on the \"at least ...\" level shown, check the TMD and the ferry operators yourself, and look at the Sources page to see what is failing.",
+   "topics": [
+    {
+     "id": "unknown_level",
+     "title": "Unknown level (\"at least ...\")"
+    },
+    {
+     "id": "data_coverage",
+     "title": "Data coverage"
+    },
+    {
+     "id": "sources_page",
+     "title": "The Sources page and source states"
+    }
+   ]
+  },
+  {
+   "id": "official",
+   "question": "Is this an official warning?",
+   "answer": "No. It is a personal monitoring tool that gathers public data and explains it. Official warnings come from the Thai Meteorological Department (TMD, 1182), and evacuation orders from the DDPM (1784) and the province. If they say something different, follow them.",
+   "answer_text": "No. It is a personal monitoring tool that gathers public data and explains it. Official warnings come from the Thai Meteorological Department (TMD, 1182), and evacuation orders from the DDPM (1784) and the province. If they say something different, follow them.",
+   "topics": [
+    {
+     "id": "limitations",
+     "title": "Limitations and disclaimer"
+    },
+    {
+     "id": "tmd_warnings",
+     "title": "TMD weather warnings"
+    }
+   ]
+  },
+  {
+   "id": "ferries",
+   "question": "How do I know if the ferries will run?",
+   "answer": "The exit plan's departure windows grade each of the next 7 days from forecast waves, gusts, TMD Gulf wave bulletins and nearby cyclones. Around 2 m waves, small boats are told to stay ashore and fast boats are cancelled first; at 3 m the car ferries are likely suspended. Always confirm on the day with the operator or at the pier.",
+   "answer_text": "The exit plan's departure windows grade each of the next 7 days from forecast waves, gusts, TMD Gulf wave bulletins and nearby cyclones. Around 2 m waves, small boats are told to stay ashore and fast boats are cancelled first; at 3 m the car ferries are likely suspended. Always confirm on the day with the operator or at the pier.",
+   "topics": [
+    {
+     "id": "departure_windows",
+     "title": "Departure windows"
+    },
+    {
+     "id": "wave_height",
+     "title": "Wave height and ferries"
+    },
+    {
+     "id": "exit_plan",
+     "title": "Exit plan (leaving the island)"
+    }
+   ]
+  },
+  {
+   "id": "haze",
+   "question": "Will there be haze on Samui?",
+   "answer": "Samui usually has clean air. In strong El Nino years, fires in Sumatra and Borneo (and crop burning on the mainland in the dry season) can send haze over the region, as in 2015 and 2019. Watch the air factor (PM2.5), the ASMC haze alert for southern ASEAN and the aerosol map layer.",
+   "answer_text": "Samui usually has clean air. In strong El Nino years, fires in Sumatra and Borneo (and crop burning on the mainland in the dry season) can send haze over the region, as in 2015 and 2019. Watch the air factor (PM2.5), the ASMC haze alert for southern ASEAN and the aerosol map layer.",
+   "topics": [
+    {
+     "id": "factor_air",
+     "title": "Factor: air quality (PM2.5, haze)"
+    },
+    {
+     "id": "asmc_haze",
+     "title": "ASMC haze alert levels (0-3)"
+    },
+    {
+     "id": "layer_aerosol",
+     "title": "Layer: aerosols / smoke (optical depth)"
+    }
+   ]
+  },
+  {
+   "id": "numbers-differ",
+   "question": "Why does this app show a different number from another website?",
+   "answer": "Usually a different dataset, baseline, averaging window or update time. For air quality, many apps use the US AQI while Thai authorities use the Thai AQI. For El Nino, weekly, monthly and 3-month values differ by a few tenths of a degree. Look for the common direction.",
+   "answer_text": "Usually a different dataset, baseline, averaging window or update time. For air quality, many apps use the US AQI while Thai authorities use the Thai AQI. For El Nino, weekly, monthly and 3-month values differ by a few tenths of a degree. Look for the common direction.",
+   "topics": [
+    {
+     "id": "sources_disagree",
+     "title": "Why numbers disagree between sources"
+    },
+    {
+     "id": "aqi",
+     "title": "AQI (air quality index): Thai vs US"
+    },
+    {
+     "id": "time_resolution",
+     "title": "Daily, weekly and monthly values"
+    }
+   ]
+  },
+  {
+   "id": "how-long",
+   "question": "How long will this El Nino last?",
+   "answer": "A typical El Nino lasts 9 to 12 months and fades in the following northern spring or early summer. The IRI forecast in September 2026 kept El Nino at 90% or more until April-June 2027, then 61% for May-July 2027. The end date is the least certain part of the forecast (spring barrier).",
+   "answer_text": "A typical El Nino lasts 9 to 12 months and fades in the following northern spring or early summer. The IRI forecast in September 2026 kept El Nino at 90% or more until April-June 2027, then 61% for May-July 2027. The end date is the least certain part of the forecast (spring barrier).",
+   "topics": [
+    {
+     "id": "enso_lifecycle",
+     "title": "Typical El Nino lifecycle"
+    },
+    {
+     "id": "iri_plume",
+     "title": "IRI ENSO forecast (plume and probabilities)"
+    },
+    {
+     "id": "forecast_uncertainty",
+     "title": "Forecast uncertainty and the spring barrier"
+    }
+   ]
+  },
+  {
+   "id": "why-stale",
+   "question": "What does the \"stale\" chip mean?",
+   "answer": "The newest data from that source is older than it should be for how often the source updates. The value is still shown with its date, but a stale \"all calm\" is never trusted: for the Samui level it becomes unknown.",
+   "answer_text": "The newest data from that source is older than it should be for how often the source updates. The value is still shown with its date, but a stale \"all calm\" is never trusted: for the Samui level it becomes unknown.",
+   "topics": [
+    {
+     "id": "stale_data",
+     "title": "Stale data"
+    },
+    {
+     "id": "freshness",
+     "title": "Freshness (\"as of\" dates)"
+    }
+   ]
+  },
+  {
+   "id": "la-nina-next",
+   "question": "Will La Nina follow?",
+   "answer": "Sometimes a strong El Nino is followed by La Nina, but not always. It is too early to say: forecasts through next spring are the least reliable. Watch the IRI probabilities in the first months of 2027.",
+   "answer_text": "Sometimes a strong El Nino is followed by La Nina, but not always. It is too early to say: forecasts through next spring are the least reliable. Watch the IRI probabilities in the first months of 2027.",
+   "topics": [
+    {
+     "id": "la_nina",
+     "title": "La Nina"
+    },
+    {
+     "id": "forecast_uncertainty",
+     "title": "Forecast uncertainty and the spring barrier"
+    }
+   ]
+  }
+ ]
+}

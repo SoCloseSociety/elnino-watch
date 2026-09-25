@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Carbon Brief</title>
+	<atom:link href="https://www.carbonbrief.org/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.carbonbrief.org/</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Sep 2026 11:49:05 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.carbonbrief.org/wp-content/uploads/2026/03/cropped-Carbon-Brief-Favicon-512px-32x32.png</url>
+	<title>Carbon Brief</title>
+	<link>https://www.carbonbrief.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK </title>
+		<link>https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk</link>
+		
+		<dc:creator><![CDATA[Carbon Brief Staff]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 11:49:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Fossil fuel]]></category>
+		<category><![CDATA[fuel price]]></category>
+		<category><![CDATA[petrol]]></category>
+		<category><![CDATA[Transport]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.carbonbrief.org/?p=83204</guid>
+
+					<description><![CDATA[<p>The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive&#8230;</p>
+<p>The post <a href="https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk">Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK </a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="print-share wp-block">
+                <button type="button" data-action="print" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Print article</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M20.1253 6.9375H18.5625V3.75C18.5625 3.60082 18.5032 3.45774 18.3977 3.35225C18.2923 3.24676 18.1492 3.1875 18 3.1875H6C5.85082 3.1875 5.70774 3.24676 5.60225 3.35225C5.49676 3.45774 5.4375 3.60082 5.4375 3.75V6.9375H3.87469C2.66906 6.9375 1.6875 7.86281 1.6875 9V16.5C1.6875 16.6492 1.74676 16.7923 1.85225 16.8977C1.95774 17.0032 2.10082 17.0625 2.25 17.0625H5.4375V20.25C5.4375 20.3992 5.49676 20.5423 5.60225 20.6477C5.70774 20.7532 5.85082 20.8125 6 20.8125H18C18.1492 20.8125 18.2923 20.7532 18.3977 20.6477C18.5032 20.5423 18.5625 20.3992 18.5625 20.25V17.0625H21.75C21.8992 17.0625 22.0423 17.0032 22.1477 16.8977C22.2532 16.7923 22.3125 16.6492 22.3125 16.5V9C22.3125 7.86281 21.3309 6.9375 20.1253 6.9375ZM6.5625 4.3125H17.4375V6.9375H6.5625V4.3125ZM17.4375 19.6875H6.5625V14.8125H17.4375V19.6875ZM21.1875 15.9375H18.5625V14.25C18.5625 14.1008 18.5032 13.9577 18.3977 13.8523C18.2923 13.7468 18.1492 13.6875 18 13.6875H6C5.85082 13.6875 5.70774 13.7468 5.60225 13.8523C5.49676 13.9577 5.4375 14.1008 5.4375 14.25V15.9375H2.8125V9C2.8125 8.48344 3.28875 8.0625 3.87469 8.0625H20.1253C20.7113 8.0625 21.1875 8.48344 21.1875 9V15.9375ZM18.5625 10.875C18.5625 11.0604 18.5075 11.2417 18.4045 11.3958C18.3015 11.55 18.1551 11.6702 17.9838 11.7411C17.8125 11.8121 17.624 11.8307 17.4421 11.7945C17.2602 11.7583 17.0932 11.669 16.9621 11.5379C16.831 11.4068 16.7417 11.2398 16.7055 11.0579C16.6693 10.876 16.6879 10.6875 16.7589 10.5162C16.8298 10.3449 16.95 10.1985 17.1042 10.0955C17.2583 9.99248 17.4396 9.9375 17.625 9.9375C17.8736 9.9375 18.1121 10.0363 18.2879 10.2121C18.4637 10.3879 18.5625 10.6264 18.5625 10.875Z" fill="currentColor"/>
+</svg></span></button>                <button type="button" data-action="share" data-copy-success="Link copied" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Share</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M22.1475 10.1025L14.6475 2.60249C14.5688 2.52393 14.4686 2.47043 14.3596 2.44877C14.2505 2.42711 14.1375 2.43825 14.0348 2.48078C13.9321 2.52331 13.8443 2.59533 13.7824 2.68774C13.7206 2.78016 13.6876 2.88881 13.6875 2.99999V6.95624C8.57999 7.29281 2.40092 12.1125 1.69405 18.2681C1.67109 18.4641 1.71058 18.6624 1.80688 18.8346C1.90318 19.0069 2.05138 19.1444 2.23038 19.2275C2.40937 19.3106 2.61003 19.3351 2.80377 19.2975C2.99751 19.2599 3.17444 19.1621 3.30936 19.0181C4.36499 17.8922 8.15624 14.3062 13.6875 14.0747V18C13.6876 18.1112 13.7206 18.2198 13.7824 18.3122C13.8443 18.4047 13.9321 18.4767 14.0348 18.5192C14.1375 18.5617 14.2505 18.5729 14.3596 18.5512C14.4686 18.5296 14.5688 18.4761 14.6475 18.3975L22.1475 10.8975C22.2528 10.792 22.312 10.6491 22.312 10.5C22.312 10.3509 22.2528 10.208 22.1475 10.1025ZM14.8125 16.6425V13.5C14.8125 13.3508 14.7532 13.2077 14.6477 13.1022C14.5422 12.9968 14.3992 12.9375 14.25 12.9375C11.6503 12.9375 9.11624 13.6172 6.71999 14.9578C5.32332 15.7424 4.03681 16.7086 2.89405 17.8312C3.33467 15.3412 4.78405 12.9562 7.01905 11.0559C9.23155 9.18187 11.9334 8.06249 14.25 8.06249C14.3992 8.06249 14.5422 8.00323 14.6477 7.89774C14.7532 7.79225 14.8125 7.64918 14.8125 7.49999V4.35843L20.954 10.5L14.8125 16.6425Z" fill="currentColor"/>
+</svg></span></button>    </div>
+
+
+
+<p class="wp-block-paragraph">The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive an electric vehicle (EV) than a petrol or diesel car, shows Carbon Brief analysis.</p>
+
+
+
+<p class="wp-block-paragraph">Since February, when the US first attacked <a href="https://www.carbonbrief.org/qa-what-does-the-iran-war-mean-for-the-energy-transition-and-climate-action">Iran</a>, the average price of diesel has increased by 38% to £1.96 a litre, according to Carbon Brief analysis of government figures.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Following the <a href="https://edition.cnn.com/2026/09/20/europe/moscow-ukraine-attack-russia-election">attack</a> on the Kapotnya oil refinery in Russia on 20 September and with tensions in the Middle East growing, this is <a href="https://www.bbc.co.uk/news/articles/c5y4zw9ywgyyo">expected</a> to pass a record £2 a litre.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">(Russia was the <a href="https://malaysia.news.yahoo.com/global-diesel-prices-hit-record-160201443.html">second-largest</a> exporter of diesel in the world, but its refineries have been hit every <a href="https://www.reuters.com/business/energy/half-russias-top-diesel-producing-refineries-cut-back-output-after-drone-strikes-2026-09-15/">three days</a> on average in the first six months of 2026.)</p>
+
+
+
+<p class="wp-block-paragraph">Similarly, petrol prices have surged by 31% since February to £1.72, <a href="https://www.gov.uk/government/statistics/weekly-road-fuel-prices">based</a> on government figures, with some locations reaching nearly £2 per litre, according to <a href="https://www.bbc.co.uk/news/articles/cr0qx2p587nxo">BBC News</a>.</p>
+
+
+
+<p class="wp-block-paragraph">These increases have been driven by oil prices jumping to more than <a href="https://www.bbc.co.uk/news/articles/cqlym3wye1ero">$100 per barrel</a> as the conflict between Yemen&#8217;s Houthis and Saudi Arabia escalates – a roughly 50% increase from June.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">As such, it now costs an estimated 21p per mile to drive a diesel car and 20.1p per mile for petrol, according to Carbon Brief analysis of the latest <a href="https://www.gov.uk/government/statistics/weekly-road-fuel-prices">figures</a> from the Department of Energy Security and Net Zero (DESNZ).</p>
+
+
+
+<p class="wp-block-paragraph">In contrast, it is currently nine times cheaper to drive an EV charged using an <a href="https://www.zapmap.com/ev-stats/charging-price-index">off-peak tariff</a>, at 2.3p per mile, as shown in the chart below.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="3000" height="1125" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_2-scaled.png" alt="EVs are now up to nine times cheaper per mile than diesel cars. Pence per mile. A chart shows diesel highest at around 21p, petrol at 20p, EV at price cap at 7p, and EV off peak lowest at under 2.5p. Source: Carbon Brief analysis, DESNZ, Ofgem, Zapmap. - (alt text generated by Google Gemini)EVs are now up to nine times cheaper per mile than diesel cars. Pence per mile. A chart shows diesel highest at around 21p, petrol at 20p, EV at price cap at 7p, and EV off peak lowest at under 2.5p. Source: Carbon Brief analysis, DESNZ, Ofgem, Zapmap. - (alt text generated by Google Gemini)" class="wp-image-83208" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_2-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_2-300x113.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_2-1024x384.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_2-768x288.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_2-2048x768.png 2048w" sizes="(max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Even if charging with electricity bought at the <a href="https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-and-standing-charges-explained">domestic price cap</a> – the maximum amount a supplier can <a href="https://www.carbonbrief.org/factcheck-why-expensive-gas-not-net-zero-is-keeping-uk-electricity-prices-so-high">charge</a> for a unit of energy and standing charge, set by the regulator Ofgem every three months – it still only costs around 7p per mile to drive an EV, three times cheaper than the price for petrol or diesel cars.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The price cap is set to increase in October, but almost all of the increase is for gas, with the unit rate of electricity only expected to rise by <a href="https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges">less than 1%</a> from 26.1p per unit to 26.3p.</p>
+
+
+
+<p class="wp-block-paragraph">A larger <a href="https://www.edfenergy.com/gas-and-electricity/price-cap-predictions#footnote-ofgem-typical-use-24">20% increase</a> in electricity unit rates under the price cap is expected in January 2027, as higher gas costs <a href="https://www.carbonbrief.org/qa-why-does-gas-set-the-price-of-electricity-and-is-there-an-alternative">filter through</a> to an increase in wholesale electricity prices. Nevertheless, EVs would still remain far cheaper to drive than petrol or diesel cars.</p>
+
+
+
+<p class="wp-block-paragraph">UK drivers could save around £80 by charging an EV at home, in comparison with filling up a petrol car at the pump, as shown in the figure below. This is based on comparing the cost of an average full tank of petrol with the cost of enough electricity to drive the same distance.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3000" height="1922" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-drivers-are-payin_10-scaled.png" alt="UK drivers are paying nearly £100 to fill up a family car. An EV owner would save around £80 if charging at home. UK average cost of 55 litres petrol vs enough electricity to drive the same distance, £. Line chart shows petrol costs far exceeding EV charging. Source: Carbon Brief analysis, DESNZ, Ofgem, Zapmap - (alt text generated by Google Gemini)" class="wp-image-83210" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-drivers-are-payin_10-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-drivers-are-payin_10-300x192.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-drivers-are-payin_10-1024x656.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-drivers-are-payin_10-768x492.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/uk-drivers-are-payin_10-2048x1312.png 2048w" sizes="(max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Despite their much higher running costs, petrol still dominates the UK’s roads, making up 55% of all cars on the road. <a href="https://www.zapmap.com/ev-stats/ev-market">Only 6%</a> of the roughly 35m cars on the road are fully electric battery EVs, with a further 3% being plug-in hybrids that can run on fuel or electricity.</p>
+
+
+
+<p class="wp-block-paragraph">However, sales of EVs are continuing to increase, with <a href="https://www.smmt.co.uk/vehicle-data/electric-vehicle-registrations/">around 30%</a> of new cars sold in August being battery EVs, according to the <a href="https://www.smmt.co.uk/">Society of Motor Manufacturers &amp; Traders</a> (SMMT). This is up from 26.5% in August 2025.</p>
+
+
+
+<p class="wp-block-paragraph">Separate <a href="https://www.carbonbrief.org/analysis-uks-ev-drivers-are-now-saving-1100-each-a-year-and-3bn-in-total">analysis</a> from Carbon Brief in June suggested that the UK’s EV drivers were saving £1,100 a year in fuel costs, compared to petrol car drivers. Following the latest hike in fuel prices, these savings would now be even higher at £1,200 a year.</p>
+
+
+
+<p class="wp-block-paragraph">Compared with average pump prices of £1.72 per litre of petrol or £1.96 per litre of diesel, it would cost as little as 20p&nbsp;– around nine times cheaper than petrol – for an equivalent amount of electricity using off-peak charging.</p>
+
+
+
+<p class="wp-block-paragraph">As shown in the figure below, even charging at the household price cap would only cost the equivalent of 60p per litre, making EVs still significantly cheaper to drive.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3000" height="1125" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_3-scaled.png" alt="EVs are now up to nine times cheaper to fill than petrol cars. Price per litre of petrol and diesel, or equivalent electricity for same distance travelled, £. Diesel is the most expensive near £1.80, followed by petrol, EV price cap, and EV off peak lowest. Source: Carbon Brief analysis - (alt text generated by Google Gemini)" class="wp-image-83209" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_3-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_3-300x113.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_3-1024x384.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_3-768x288.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/evs-are-now-up-to-ni_3-2048x768.png 2048w" sizes="(max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Public charging points remain significantly more expensive than domestic rates. However, the UK government estimates that around <a href="https://www.gov.uk/government/publications/electric-vehicles-costs-charging-and-infrastructure/electric-vehicles-costs-charging-and-infrastructure">90%</a> of electric car charging takes place at home.</p>
+
+
+
+<p class="wp-block-paragraph">In addition, the government plans to <a href="https://www.gov.uk/government/publications/electric-vehicle-excise-duty-eved/electric-vehicle-excise-duty-eved">introduce</a> a pay-per-mile tax on EVs from April 2028. This would add 3p per mile to the cost of driving an EV. Yet the considerably lower fuel costs mean they will remain far cheaper to drive than petrol or diesel cars.</p>
+
+
+    <section class="cards wp-block animate cards--columns-4 alignfull">
+        <div class="cards__inner">
+                            <div class="cards__header">
+                    <h2 id="related" class="cards__heading">related</h2>
+                                    </div>
+            
+            <div class="cards__items">
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/W4AMEN-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/W4AMEN-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/W4AMEN-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/W4AMEN-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/W4AMEN.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis" class="g-card__heading">Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        16.09.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/emissions" class="g-card__label">Emissions</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis" class="g-card__link" aria-label="Read more about Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/2RJEB4R-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/2RJEB4R-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/2RJEB4R-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/2RJEB4R-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/2RJEB4R.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="ccc-heathrow-expansion-could-push-flights-to-80-of-uk-emissions-by-2050" class="g-card__heading">CCC: Heathrow expansion could push flights to ‘80% of UK emissions by 2050’</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        16.09.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/emissions" class="g-card__label">Emissions</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/ccc-heathrow-expansion-could-push-flights-to-80-of-uk-emissions-by-2050" class="g-card__link" aria-label="Read more about CCC: Heathrow expansion could push flights to ‘80% of UK emissions by 2050’"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century" class="g-card__heading">El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        11.09.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/el-nino-la-nina" class="g-card__label">El Niño and La Niña</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century" class="g-card__link" aria-label="Read more about El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/R66KE9-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/R66KE9-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/R66KE9-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/R66KE9-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/R66KE9.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits" class="g-card__heading">UK aviation emissions to be 50% higher than thought by 2050, government admits</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        10.09.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/aviation-and-shipping" class="g-card__label">Aviation and shipping</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits" class="g-card__link" aria-label="Read more about UK aviation emissions to be 50% higher than thought by 2050, government admits"></a>
+    
+</article>
+                            </div>
+        </div>
+    </section>
+<p>The post <a href="https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk">Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK </a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item><item>
+		<title>Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature</title>
+		<link>https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature</link>
+		
+		<dc:creator><![CDATA[Giuliana Viglione]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 15:14:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.carbonbrief.org/?p=83080</guid>
+
+					<description><![CDATA[<p>For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans&#8230;</p>
+<p>The post <a href="https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature">Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature</a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="print-share wp-block">
+                <button type="button" data-action="print" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Print article</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M20.1253 6.9375H18.5625V3.75C18.5625 3.60082 18.5032 3.45774 18.3977 3.35225C18.2923 3.24676 18.1492 3.1875 18 3.1875H6C5.85082 3.1875 5.70774 3.24676 5.60225 3.35225C5.49676 3.45774 5.4375 3.60082 5.4375 3.75V6.9375H3.87469C2.66906 6.9375 1.6875 7.86281 1.6875 9V16.5C1.6875 16.6492 1.74676 16.7923 1.85225 16.8977C1.95774 17.0032 2.10082 17.0625 2.25 17.0625H5.4375V20.25C5.4375 20.3992 5.49676 20.5423 5.60225 20.6477C5.70774 20.7532 5.85082 20.8125 6 20.8125H18C18.1492 20.8125 18.2923 20.7532 18.3977 20.6477C18.5032 20.5423 18.5625 20.3992 18.5625 20.25V17.0625H21.75C21.8992 17.0625 22.0423 17.0032 22.1477 16.8977C22.2532 16.7923 22.3125 16.6492 22.3125 16.5V9C22.3125 7.86281 21.3309 6.9375 20.1253 6.9375ZM6.5625 4.3125H17.4375V6.9375H6.5625V4.3125ZM17.4375 19.6875H6.5625V14.8125H17.4375V19.6875ZM21.1875 15.9375H18.5625V14.25C18.5625 14.1008 18.5032 13.9577 18.3977 13.8523C18.2923 13.7468 18.1492 13.6875 18 13.6875H6C5.85082 13.6875 5.70774 13.7468 5.60225 13.8523C5.49676 13.9577 5.4375 14.1008 5.4375 14.25V15.9375H2.8125V9C2.8125 8.48344 3.28875 8.0625 3.87469 8.0625H20.1253C20.7113 8.0625 21.1875 8.48344 21.1875 9V15.9375ZM18.5625 10.875C18.5625 11.0604 18.5075 11.2417 18.4045 11.3958C18.3015 11.55 18.1551 11.6702 17.9838 11.7411C17.8125 11.8121 17.624 11.8307 17.4421 11.7945C17.2602 11.7583 17.0932 11.669 16.9621 11.5379C16.831 11.4068 16.7417 11.2398 16.7055 11.0579C16.6693 10.876 16.6879 10.6875 16.7589 10.5162C16.8298 10.3449 16.95 10.1985 17.1042 10.0955C17.2583 9.99248 17.4396 9.9375 17.625 9.9375C17.8736 9.9375 18.1121 10.0363 18.2879 10.2121C18.4637 10.3879 18.5625 10.6264 18.5625 10.875Z" fill="currentColor"/>
+</svg></span></button>                <button type="button" data-action="share" data-copy-success="Link copied" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Share</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M22.1475 10.1025L14.6475 2.60249C14.5688 2.52393 14.4686 2.47043 14.3596 2.44877C14.2505 2.42711 14.1375 2.43825 14.0348 2.48078C13.9321 2.52331 13.8443 2.59533 13.7824 2.68774C13.7206 2.78016 13.6876 2.88881 13.6875 2.99999V6.95624C8.57999 7.29281 2.40092 12.1125 1.69405 18.2681C1.67109 18.4641 1.71058 18.6624 1.80688 18.8346C1.90318 19.0069 2.05138 19.1444 2.23038 19.2275C2.40937 19.3106 2.61003 19.3351 2.80377 19.2975C2.99751 19.2599 3.17444 19.1621 3.30936 19.0181C4.36499 17.8922 8.15624 14.3062 13.6875 14.0747V18C13.6876 18.1112 13.7206 18.2198 13.7824 18.3122C13.8443 18.4047 13.9321 18.4767 14.0348 18.5192C14.1375 18.5617 14.2505 18.5729 14.3596 18.5512C14.4686 18.5296 14.5688 18.4761 14.6475 18.3975L22.1475 10.8975C22.2528 10.792 22.312 10.6491 22.312 10.5C22.312 10.3509 22.2528 10.208 22.1475 10.1025ZM14.8125 16.6425V13.5C14.8125 13.3508 14.7532 13.2077 14.6477 13.1022C14.5422 12.9968 14.3992 12.9375 14.25 12.9375C11.6503 12.9375 9.11624 13.6172 6.71999 14.9578C5.32332 15.7424 4.03681 16.7086 2.89405 17.8312C3.33467 15.3412 4.78405 12.9562 7.01905 11.0559C9.23155 9.18187 11.9334 8.06249 14.25 8.06249C14.3992 8.06249 14.5422 8.00323 14.6477 7.89774C14.7532 7.79225 14.8125 7.64918 14.8125 7.49999V4.35843L20.954 10.5L14.8125 16.6425Z" fill="currentColor"/>
+</svg></span></button>    </div>
+
+
+
+<p class="wp-block-paragraph">For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures.</p>
+
+
+
+<p class="wp-block-paragraph">The world’s oceans are <a href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-2/#2.3#2.3.3.3">currently rising</a> at a faster rate than at any time in at least the past three millennia, with human influence the “<a href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/#3.5#3.5.3.2">dominant cause</a>” of sea level rise since at least 1970.</p>
+
+
+
+<p class="wp-block-paragraph">At the UN general assembly in New York this week, world leaders are set to adopt a <a href="https://www.un.org/pga/wp-content/uploads/sites/110/2026/08/Final-SLR-Declaration-version-as-passed-silence.pdf">high-level declaration</a> on the “existential threats” posed by sea level rise.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The declaration notes: “Sea level rise is not a distant scenario, but a real and lived experience for many.”</p>
+
+
+
+<p class="wp-block-paragraph">On average, global sea levels <a href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/#9.6.1.2#9.6.1.2">rose by 20 centimetres</a> (cm) between 1901 and 2018.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">This is <a href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/#3.5#3.5.3.2">due to both</a> the <a href="https://www.carbonbrief.org/guest-post-the-challenges-in-projecting-future-global-sea-levels">melting of glaciers and ice sheets</a> and the expansion of seawater as it warms, as well as changes in <a href="https://www.carbonbrief.org/water-stored-on-land-stopped-recent-sea-level-rise-being-up-to-22-higher">land-water storage</a>.</p>
+
+
+
+<p class="wp-block-paragraph">The rate of the rise has accelerated in recent years, with <a href="https://sealevel.nasa.gov/">ocean levels rising</a> 10.6cm since 1993.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Sea level rise can vary locally due to seismic and volcanic activity, groundwater extraction and changes to the Earth’s surface resulting from ice melt.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Under a <a href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/#9.6.1.2#9.6.3.3">moderate-emissions scenario</a>, scientists predict that global average sea level will rise an additional 56cm by 2100, relative to a 1995-2014 baseline.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Here, Carbon Brief unpacks some of the key ways that sea level rise threatens both societies and ecosystems.&nbsp;</p>
+
+
+<div class="article-summary wp-block alignfull">
+
+    
+            <div class="article-summary__content">
+            <p><!-- wp:list --></p>
+<ul class="wp-block-list"><!-- wp:list-item --></p>
+<li><a href="#cities-and-coastal-communities" data-type="internal" data-id="#cities-and-coastal-communities">Cities and coastal communities</a></li>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<li><a href="#biodiversity-and-coastal-ecosystems" data-type="internal" data-id="#biodiversity-and-coastal-ecosystems">Biodiversity and coastal ecosystems</a></li>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<li><a href="#small-island-developing-states" data-type="internal" data-id="#small-island-developing-states">Small island developing states</a></li>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<li><a href="#coral-reefs" data-type="internal" data-id="#coral-reefs">Coral reefs</a></li>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<li><a href="#heritage-sites" data-type="internal" data-id="#heritage-sites">Heritage sites</a></li>
+<p><!-- /wp:list-item --></ul>
+<p><!-- /wp:list --></p>
+        </div>
+    
+</div>
+
+
+<div class="article-contents wp-block alignfull">
+
+    <div class="article-contents__inner">
+
+        <div class="article-contents__header">
+
+            <div class="article-contents__title">
+
+                <div class="article-contents__title__icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" role="img" aria-hidden="true" width="32" height="32">
+<path d="M29 6.25H20C19.2027 6.25059 18.4184 6.45185 17.7194 6.83523C17.0204 7.21861 16.4291 7.77178 16 8.44375C15.5709 7.77178 14.9796 7.21861 14.2806 6.83523C13.5816 6.45185 12.7973 6.25059 12 6.25H3C2.80109 6.25 2.61032 6.32902 2.46967 6.46967C2.32902 6.61032 2.25 6.80109 2.25 7V25C2.25 25.1989 2.32902 25.3897 2.46967 25.5303C2.61032 25.671 2.80109 25.75 3 25.75H12C12.862 25.75 13.6886 26.0924 14.2981 26.7019C14.9076 27.3114 15.25 28.138 15.25 29C15.25 29.1989 15.329 29.3897 15.4697 29.5303C15.6103 29.671 15.8011 29.75 16 29.75C16.1989 29.75 16.3897 29.671 16.5303 29.5303C16.671 29.3897 16.75 29.1989 16.75 29C16.75 28.138 17.0924 27.3114 17.7019 26.7019C18.3114 26.0924 19.138 25.75 20 25.75H29C29.1989 25.75 29.3897 25.671 29.5303 25.5303C29.671 25.3897 29.75 25.1989 29.75 25V7C29.75 6.80109 29.671 6.61032 29.5303 6.46967C29.3897 6.32902 29.1989 6.25 29 6.25ZM12 24.25H3.75V7.75H12C12.862 7.75 13.6886 8.09241 14.2981 8.7019C14.9076 9.3114 15.25 10.138 15.25 11V25.5387C14.3709 24.7101 13.2081 24.249 12 24.25ZM28.25 24.25H20C18.7917 24.2495 17.629 24.711 16.75 25.54V11C16.75 10.138 17.0924 9.3114 17.7019 8.7019C18.3114 8.09241 19.138 7.75 20 7.75H28.25V24.25ZM20 11.25H25C25.1989 11.25 25.3897 11.329 25.5303 11.4697C25.671 11.6103 25.75 11.8011 25.75 12C25.75 12.1989 25.671 12.3897 25.5303 12.5303C25.3897 12.671 25.1989 12.75 25 12.75H20C19.8011 12.75 19.6103 12.671 19.4697 12.5303C19.329 12.3897 19.25 12.1989 19.25 12C19.25 11.8011 19.329 11.6103 19.4697 11.4697C19.6103 11.329 19.8011 11.25 20 11.25ZM25.75 16C25.75 16.1989 25.671 16.3897 25.5303 16.5303C25.3897 16.671 25.1989 16.75 25 16.75H20C19.8011 16.75 19.6103 16.671 19.4697 16.5303C19.329 16.3897 19.25 16.1989 19.25 16C19.25 15.8011 19.329 15.6103 19.4697 15.4697C19.6103 15.329 19.8011 15.25 20 15.25H25C25.1989 15.25 25.3897 15.329 25.5303 15.4697C25.671 15.6103 25.75 15.8011 25.75 16ZM25.75 20C25.75 20.1989 25.671 20.3897 25.5303 20.5303C25.3897 20.671 25.1989 20.75 25 20.75H20C19.8011 20.75 19.6103 20.671 19.4697 20.5303C19.329 20.3897 19.25 20.1989 19.25 20C19.25 19.8011 19.329 19.6103 19.4697 19.4697C19.6103 19.329 19.8011 19.25 20 19.25H25C25.1989 19.25 25.3897 19.329 25.5303 19.4697C25.671 19.6103 25.75 19.8011 25.75 20Z" fill="currentColor"/>
+</svg>                </div>
+                
+                <div class="article-contents__title__text" data-original="Article Contents">
+                    Article Contents                </div>
+
+            </div>
+
+                <a aria-expanded="false" aria-label="Expand menu" class="g-button g-button--secondary article-contents__toggle article-contents__toggle--open g-button--primary g-button--icon"><span class="g-button__content">Expand<span> menu</span></span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" fill="none" role="img" aria-hidden="true" width="28" height="28">
+<path d="M24.9375 14C24.9375 14.3481 24.7992 14.6819 24.5531 14.9281C24.3069 15.1742 23.9731 15.3125 23.625 15.3125H4.375C4.0269 15.3125 3.69306 15.1742 3.44692 14.9281C3.20078 14.6819 3.0625 14.3481 3.0625 14C3.0625 13.6519 3.20078 13.3181 3.44692 13.0719C3.69306 12.8258 4.0269 12.6875 4.375 12.6875H23.625C23.9731 12.6875 24.3069 12.8258 24.5531 13.0719C24.7992 13.3181 24.9375 13.6519 24.9375 14ZM4.375 8.3125H23.625C23.9731 8.3125 24.3069 8.17422 24.5531 7.92808C24.7992 7.68194 24.9375 7.3481 24.9375 7C24.9375 6.6519 24.7992 6.31806 24.5531 6.07192C24.3069 5.82578 23.9731 5.6875 23.625 5.6875H4.375C4.0269 5.6875 3.69306 5.82578 3.44692 6.07192C3.20078 6.31806 3.0625 6.6519 3.0625 7C3.0625 7.3481 3.20078 7.68194 3.44692 7.92808C3.69306 8.17422 4.0269 8.3125 4.375 8.3125ZM23.625 19.6875H4.375C4.0269 19.6875 3.69306 19.8258 3.44692 20.0719C3.20078 20.3181 3.0625 20.6519 3.0625 21C3.0625 21.3481 3.20078 21.6819 3.44692 21.9281C3.69306 22.1742 4.0269 22.3125 4.375 22.3125H23.625C23.9731 22.3125 24.3069 22.1742 24.5531 21.9281C24.7992 21.6819 24.9375 21.3481 24.9375 21C24.9375 20.6519 24.7992 20.3181 24.5531 20.0719C24.3069 19.8258 23.9731 19.6875 23.625 19.6875Z" fill="currentColor"/>
+</svg></span></a>                <a aria-expanded="false" aria-label="Close" hidden="hidden" aria-hidden="true" class="g-button g-button--secondary article-contents__toggle article-contents__toggle--close g-button--primary g-button--icon"><span class="g-button__content">Close</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+<path d="M19.5459 17.954C19.7572 18.1653 19.876 18.452 19.876 18.7509C19.876 19.0497 19.7572 19.3364 19.5459 19.5477C19.3346 19.7591 19.0479 19.8778 18.749 19.8778C18.4501 19.8778 18.1635 19.7591 17.9521 19.5477L12 13.5937L6.0459 19.5459C5.83455 19.7572 5.54791 19.8759 5.24902 19.8759C4.95014 19.8759 4.66349 19.7572 4.45215 19.5459C4.2408 19.3345 4.12207 19.0479 4.12207 18.749C4.12207 18.4501 4.2408 18.1635 4.45215 17.9521L10.4062 11.9999L4.45402 6.04586C4.24268 5.83451 4.12395 5.54787 4.12395 5.24898C4.12395 4.9501 4.24268 4.66345 4.45402 4.45211C4.66537 4.24076 4.95201 4.12203 5.2509 4.12203C5.54978 4.12203 5.83643 4.24076 6.04777 4.45211L12 10.4062L17.954 4.45117C18.1654 4.23983 18.452 4.12109 18.7509 4.12109C19.0498 4.12109 19.3364 4.23983 19.5478 4.45117C19.7591 4.66251 19.8778 4.94916 19.8778 5.24804C19.8778 5.54693 19.7591 5.83358 19.5478 6.04492L13.5937 11.9999L19.5459 17.954Z" fill="currentColor"/>
+</svg></span></a>
+        </div>
+
+        <div class="article-contents__content" aria-hidden="true" hidden>
+            <ul class="article-contents__list article-contents__list--columns-1">
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#cities-and-coastal-communities">
+                            <span >Cities and coastal communities</span>                        </a>
+                    </li>
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#biodiversity-and-coastal-ecosystems">
+                            <span >Biodiversity and coastal ecosystems</span>                        </a>
+                    </li>
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#small-island-developing-states">
+                            <span >Small island developing states</span>                        </a>
+                    </li>
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#coral-reefs">
+                            <span >Coral reefs</span>                        </a>
+                    </li>
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#heritage-sites">
+                            <span >Heritage sites</span>                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<h2 id="cities-and-coastal-communities" class="wp-block-heading">Cities and coastal communities</h2>
+
+
+
+<p class="wp-block-paragraph">Around 770 million people – 10% of the world’s population – are at “acute risk” of negative impacts from sea level rise, according to a <a href="https://digitallibrary.un.org/record/4118990?ln=en&amp;v=pdf">report</a> from the UN secretary general released last month.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">(The report defines locations at acute risk as those that are less than five metres above the high-tide line.)</p>
+
+
+
+<p class="wp-block-paragraph">The people at risk include the residents of several of the <a href="https://www.nestpick.com/2050-climate-change-city-index/">world’s largest cities</a>, including Mumbai and Kolkata in India and Shenzhen and Guangzhou in China. It also encompasses the entire populations of many island nations. (See: <a href="#small-island-developing-states" data-type="internal" data-id="#small-island-developing-states" rel="nofollow">Small island developing states</a>.)</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="1859" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-scaled.png" alt="Line chart titled &quot;Global sea levels have risen more than 0.2 metres since 1900&quot; and subtitled &quot;Observed and projected sea level rise since 1900, metres&quot;" class="wp-image-83137" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-300x186.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-1024x634.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-768x476.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/global-sea-levels-ha_2-2048x1269.png 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">There are two ways to consider sea level rise.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Global-average sea level rise is the amount the ocean surface has moved upwards, on average, relative to a baseline.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Relative, or local, sea level rise, is how much the ocean has risen in a given place. This can vary from the global average due to a number of factors, including land motion and ocean circulation, as well as changes to the Earth’s surface, rotation and gravitational pull due to the melting of the ice sheets.</p>
+
+
+
+<p class="wp-block-paragraph">Higher sea levels bring with them myriad dangers for coastal communities: they can <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003784">increase</a> persistent flooding and inundation, <a href="https://www.nature.com/articles/ncomms11969">strengthen</a> dangerous storm surges and <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/00EO00034">erode</a> beaches and cliffs. Sea level rise also causes the water table of coastal land to rise, which <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021EF002580">exacerbates</a> flood risk.</p>
+
+
+
+<p class="wp-block-paragraph">The frequency of 100-year “extreme sea level events” has already <a href="https://www.nature.com/articles/s41558-026-02659-0">increased 12-fold</a> since 1900. These are events where high tides, storm surges and relative sea level rise combine to produce exceptionally high sea levels. Under a moderate-emissions scenario, these events are likely to <a href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/#9.6.4.2">occur</a> at least annually – and, potentially, even more frequently – in many places by the end of the century.</p>
+
+
+
+<p class="wp-block-paragraph">In addition to damage to homes and other buildings, critical infrastructure – such as water systems and wastewater management projects – is increasingly <a href="https://journals.sagepub.com/doi/abs/10.1177/1087724X18798380">vulnerable</a> to flooding as a result of sea level rise. Flooding can <a href="https://www.nature.com/articles/s41558-024-01950-2">cut</a> communities off from essential services, such as hospitals and markets, with low-income and other marginalised groups disproportionately affected.</p>
+
+
+
+<p class="wp-block-paragraph">Inland encroachment of seawater leads to the saltwater intrusion and <a href="https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000121">threatens agriculture</a> in low-lying coastal areas.</p>
+
+
+
+<p class="wp-block-paragraph">Vertical land motion can also amplify the risk of rising seas. This includes a shifting of the land in response to seismic or volcanic activity or to land sinking, known as subsidence. The changes in local sea level due to these types of vertical motion can <a href="https://www.nature.com/articles/s41561-026-02005-1">equal or surpass</a> the contributions of climate-driven sea level rise.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="1847" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/vertical-land-motion-scaled.png" alt="Illustration of city subsidence, titled &quot;vertical land motion amplifies the effect of sea level rise&quot; and subtitled &quot;local subsidence increases the rate of &quot;relative&quot; sea level rise&quot;" class="wp-image-83086" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/vertical-land-motion-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/vertical-land-motion-300x185.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/vertical-land-motion-1024x630.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/vertical-land-motion-768x473.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/vertical-land-motion-2048x1261.png 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Many of the coastal cities experiencing the largest changes in their relative sea level <a href="https://www.nature.com/articles/s41893-022-00947-z/">are located</a> in east and south-east Asia. One notable example is <a href="https://piahs.copernicus.org/articles/372/189/2015/">Jakarta</a>, Indonesia, which has been sinking by up to 15cm per year over the past decade, due largely to the overextraction of groundwater, which leads to the collapse of underground aquifers.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">But even as the risks from sea level rise increase, population growth in coastal areas <a href="https://www.nature.com/articles/s41598-024-73287-x">continues to outstrip</a> that of inland areas. Between 2000 and 2018, the global population grew by slightly more than 23%. The population living within 5km of a coast increased by 28% over that same time.</p>
+
+
+
+<p class="wp-block-paragraph">The associated development of coastal areas means that, even without future sea level rise, global losses from flooding in the world’s largest 136 coastal cities could reach up to <a href="https://www.nature.com/articles/nclimate1979">$52bn</a> per year by 2050 – up from $6bn in 2005.</p>
+
+
+
+<p class="wp-block-paragraph">In response to the growing threats posed by sea level rise, communities around the world have implemented a number of adaptive actions.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/M9DKTG.jpg" alt="Venice's MOSE 1 flooding protection system, Italy." class="wp-image-83076" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/M9DKTG.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/M9DKTG-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/M9DKTG-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Venice&#8217;s MOSE 1 flooding protection system, Italy. Credit: James Hancock / <a href="https://www.alamy.com/venices-mose-1-flooding-protection-system-sits-near-the-cities-arsenale-port-image177936544.html" data-type="link" data-id="https://www.alamy.com/venices-mose-1-flooding-protection-system-sits-near-the-cities-arsenale-port-image177936544.html">Alamy Stock Photo </a></figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">In 2003, the Italian city of Venice began a <a href="https://en.wikipedia.org/wiki/MOSE">years-long project</a> to construct three floodgates that could be raised during high tide events to protect the city’s lagoon from the encroachment of the Adriatic Sea. The system was <a href="https://www.reuters.com/business/environment/mose-flood-barrier-finally-holds-waters-back-fragile-venice-2020-10-03/">engaged</a> for the first time in October 2020 and then another 48 times in the following two years.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Other communities have opted for less technologically intensive adaptations, including constructing <a href="https://www.ipcc.ch/report/ar6/wg2/chapter/ccp2/#CCP2.3.2.1">seawalls</a>, <a href="https://www.ipcc.ch/report/ar6/wg2/chapter/ccp2/#CCP2.3.2.3">restoring</a> mangrove forests and marshes, <a href="https://www.ipcc.ch/report/ar6/wg2/chapter/ccp2/#CCP2.3.3">disincentivising development</a> in high-risk areas and <a href="https://nativenewsonline.net/environment/washington-tribe-moving-infrastructure-due-to-rising-sea-levels/">relocating</a> residents, buildings and infrastructure to higher ground or inland areas.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">However, existing adaptations may not be sufficient to protect communities. Under a low-emissions scenario, these protections may be <a href="https://www.nature.com/articles/s41558-023-01616-5">breached</a> 10 times as frequently over the next 30 years as they currently are.</p>
+
+
+
+<h2 id="biodiversity-and-coastal-ecosystems" class="wp-block-heading">Biodiversity and coastal ecosystems</h2>
+
+
+
+<p class="wp-block-paragraph">The world’s coastal ecosystems are rapidly being destroyed due to both development and sea level rise.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">This combination of pressures is called “<a href="https://www.fisheries.noaa.gov/feature-story/coastal-squeeze-changing-tactics-dealing-climate-change">coastal squeeze</a>”, where ecosystems that may have otherwise shifted inland in response to sea level rise find their paths blocked by human-made structures.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Coastal squeeze has contributed to the widespread loss of the world’s wetlands.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="1847" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/coastal-ecosystems-a-scaled.png" alt="Illustration of 'coastal squeeze' titled &quot;coastal ecosystems are vanishing around the world&quot; and subtitled &quot;encroaching development and sea level rise contribute to 'coastal squeeze'&quot;" class="wp-image-83085" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/coastal-ecosystems-a-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/coastal-ecosystems-a-300x185.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/coastal-ecosystems-a-1024x630.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/coastal-ecosystems-a-768x473.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/coastal-ecosystems-a-2048x1261.png 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Globally, nearly 28m hectares of coastal wetlands – including estuaries, tidal flats, mangroves and seagrass – have disappeared since 1970, according to the 2025 “<a href="https://www.global-wetland-outlook.ramsar.org/outlook">global wetland outlook</a>” report. This is an area equivalent to roughly the size of Ecuador.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Although the report names conversion to agriculture as the largest driver of wetland loss, it notes:</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Climate change is increasingly exacerbating the impact of other drivers on wetlands and human wellbeing through changes in the frequency and intensity of extreme weather events, associated fires, floods and droughts and through sea level rise.”</p>
+
+
+
+<p class="wp-block-paragraph">In the continental US, just 16% of coastal wetlands are <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006836">migrating inland</a> at rates that exceed local sea level rise. Nearly three-quarters of sites are moving at rates that do not outpace sea level rise, while 11% are submerging.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.nature.com/articles/s41598-022-14303-w">Low-lying islands</a> are particularly threatened by sea level rise, due to their large amounts of coastline relative to their land areas. At the same time, islands are often “<a href="https://www.islandconservation.org/biodiversity-on-island-biomes/">hotspots</a>” of biodiversity, with many home to species found nowhere else in the world. More than 20% of the Earth’s known plant species are <a href="https://www.nature.com/articles/s41586-024-08036-1">found</a> only on islands.</p>
+
+
+
+<p class="wp-block-paragraph">A <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12093">2013 study</a> modelled the impact of different amounts of sea level rise on 10 island biodiversity hotspots, comprising nearly 4,450 individual islands. It found that in a future with one metre of sea level rise, around 6% of the island habitat area would be completely submerged, while more than 11% of the hotspot islands would see their land area reduced by at least half. This could put dozens of species at risk of extinction, the study said.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="768" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/2SPMP2G.jpg" alt="Beach spectaclepod (Dithyrea maritima)." class="wp-image-83073" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/2SPMP2G.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/2SPMP2G-300x225.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/2SPMP2G-768x576.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Beach spectaclepod (Dithyrea maritima). Credit: piemags/nature / <a href="https://www.alamy.com/beach-spectaclepod-dithyrea-maritima-plantae-san-luis-obispo-county-us-ca-us-image650762408.html" data-type="link" data-id="https://www.alamy.com/beach-spectaclepod-dithyrea-maritima-plantae-san-luis-obispo-county-us-ca-us-image650762408.html">Alamy Stock Photo </a></figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">In 2024, researchers <a href="https://journals.brit.org/jbrit/article/view/1350">documented</a> the first known extirpation, or local extinction, of a plant species in the US due to sea level rise. Hurricanes and storm surges – amplified by sea level rise – began to <a href="https://www.keysnews.com/news/local/key-largo-cactus-goes-extinct-in-u-s/article_8e5d038a-3fa6-11ef-a2c3-cbcbceb27233.html">kill off</a> the only US population of the <a href="https://en.wikipedia.org/wiki/Pilosocereus_millspaughii">Key Largo cactus</a> in the 2010s.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The remaining cacti suffered from soil erosion and saltwater intrusion and the final remaining specimens were removed in 2021 in an effort to cultivate them in greenhouses. (Other Caribbean islands, including Cuba, do still have surviving populations of the cactus.)</p>
+
+
+
+<p class="wp-block-paragraph">As native flora and fauna are diminished or even eliminated by rising sea levels, coastal ecosystems may become vulnerable to <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969721034483">colonisation</a> by invasive alien species, further harming biodiversity.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">And as coastal communities are forced to relocate due to sea level rise, there are <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2012.02736.x">knock-on effects</a> for biodiversity as they develop on new lands. These secondary biodiversity impacts are likely to be particularly prevalent in south-east Asia, due to the large number of people living in low-lying areas who may be forced to migrate due to sea level rise.</p>
+
+
+
+<h2 id="small-island-developing-states" class="wp-block-heading">Small island developing states</h2>
+
+
+
+<p class="wp-block-paragraph">Sea level rise poses an “acute and disproportionate” threat to small island developing states, says the recent UN report. It adds:</p>
+
+
+
+<p class="wp-block-paragraph">“Even under moderate scenarios, rising seas will render many low-lying coastal zones and small island developing states increasingly uninhabitable without extraordinary adaptation.”</p>
+
+
+
+<p class="wp-block-paragraph">Climate change is <a href="https://www.sciencedirect.com/science/article/pii/S1877343521000713">already resulting</a> in <a href="https://interactive.carbonbrief.org/q-a-should-developed-nations-pay-for-loss-and-damage-from-climate-change/index.html">loss and damage</a> to small island nations, which are particularly vulnerable to both climate change in general and sea level rise specifically.</p>
+
+
+
+<p class="wp-block-paragraph">This vulnerability is in large part due to the geography of these countries. Several small island Pacific states are made up of <a href="https://en.wikipedia.org/wiki/Atoll">atolls</a> – ring-shaped coral or sandy islands that encircle lagoons. These often have average elevations of 1-2 metres above sea level and maximum elevations of 3-5 metres above sea level.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="412" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/P848NB.jpg" alt="Panoramic aerial view of Kanton Island, Kiribati." class="wp-image-83077" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/P848NB.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/P848NB-300x121.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/P848NB-768x309.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Panoramic aerial view of Kanton Island. Kiribati. Credit: Galaxiid / <a href="https://www.google.com/url?q=https://www.alamy.com/panoramic-aerial-view-of-kanton-island-showing-the-entire-atoll-image211536343.html&amp;sa=D&amp;source=docs&amp;ust=1790093205291806&amp;usg=AOvVaw3pLT8zw_Q9hsh5zNQmQISQ" data-type="link" data-id="https://www.google.com/url?q=https://www.alamy.com/panoramic-aerial-view-of-kanton-island-showing-the-entire-atoll-image211536343.html&amp;sa=D&amp;source=docs&amp;ust=1790093205291806&amp;usg=AOvVaw3pLT8zw_Q9hsh5zNQmQISQ">Alamy Stock Photo </a></figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Some modelling evidence has shown that reef islands can grow <a href="https://www.science.org/doi/full/10.1126/sciadv.aay3656">vertically</a> in response to sea level rise, as waves washing over the islands transport sediment from the ocean onto the surface. However, the strength of such waves would likely make these islands <a href="https://eos.org/articles/a-brighter-future-for-coral-reef-islands">unsuitable</a> for building on.</p>
+
+
+
+<p class="wp-block-paragraph">Other research has shown that Pacific islands <a href="https://link.springer.com/article/10.1007/s10113-023-02103-5">respond</a> in many different ways to rising sea levels, with “<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-marine-032223-030921">complex</a>” outcomes, both positive and negative.</p>
+
+
+
+<p class="wp-block-paragraph">In addition, most of the small-island nations in the Pacific Ocean are located in a region where relative sea level rise from the melting of the Antarctic ice sheet is projected to be <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF002940">11-33% higher</a> than the global average rise in 2100 – regardless of emissions scenario.</p>
+
+
+
+<p class="wp-block-paragraph">The effects of this higher-than-average sea level rise is already evident.</p>
+
+
+
+<p class="wp-block-paragraph">In 1999, Kiribati <a href="https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2021.752599/full">lost</a> two small, uninhabited islands to the rising seas. Several uninhabited islands in the Solomon Islands had <a href="https://iopscience.iop.org/article/10.1088/1748-9326/11/5/054011">vanished</a> by 2014, while a further six islands had been severely eroded by the ocean, necessitating the relocation of some communities.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In addition, most small island developing states are located in parts of the ocean that are often hit by tropical cyclones. Sea level rise can <a href="https://www.sciencedirect.com/science/article/abs/pii/S1462901124001229">enhance</a> storm surge, leading to greater destruction during such storms.</p>
+
+
+
+<p class="wp-block-paragraph">However, small island developing states are also vulnerable “because they lack the means to address the impacts on their own”, reads the UN report.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.carbonbrief.org/un-report-five-charts-which-explain-the-gap-in-finance-for-climate-adaptation">According</a> to the UN, these countries will require up to $6bn annually by 2035 in order to adapt to climate change. However, they received just $1.2bn in public adaptation finance in 2022-23.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/WMY9P7.jpg" alt="Aerial view of the damage caused by hurricane Dorian, Bahamas." class="wp-image-83079" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/WMY9P7.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/WMY9P7-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/WMY9P7-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Aerial view of the damage caused by hurricane Dorian, Bahamas. Credit: AC NewsPhoto / <a href="https://www.alamy.com/aerial-view-from-us-coast-guard-helicopter-supporting-search-and-rescue-and-humanitarian-aid-efforts-in-bahamas-after-hurricane-dorian-9-4-19-image271049023.html" data-type="link" data-id="https://www.alamy.com/aerial-view-from-us-coast-guard-helicopter-supporting-search-and-rescue-and-humanitarian-aid-efforts-in-bahamas-after-hurricane-dorian-9-4-19-image271049023.html">Alamy Stock Photo</a> </figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Currently, small island developing states experience “expected” annual climate <a href="https://www.nature.com/articles/s41893-023-01230-5">damages</a> of $1.64bn due to coastal flooding, equivalent to 0.13% of their cumulative GDP. But, even if warming were limited to 1.5C above pre-industrial temperatures, these annual damages are projected to grow to $24bn.</p>
+
+
+
+<p class="wp-block-paragraph">In the international policy arena, <a href="https://www.jstor.org/stable/26912764">questions</a> have arisen over what should happen to island nations’ maritime boundaries as their land is enveloped by the sea. This is because maritime holdings, such as exclusive economic zones, are determined based on a country’s land borders.</p>
+
+
+
+<p class="wp-block-paragraph">However, a <a href="https://legal.un.org/ilc/texts/instruments/english/reports/8_9_2025.pdf">2025 report</a> by the <a href="https://legal.un.org/ilc/">UN International Law Commission</a> considered the legal implications of sea level rise. It concluded that international law allows for countries’ borders to stay the same, “notwithstanding changes to the coastline as a result of climate change-related sea level rise”. It also noted:</p>
+
+
+
+<p class="wp-block-paragraph">“There is a need to develop legal and practical solutions to better protect persons affected by sea level rise, including those who remain in situ and those who are internally or externally displaced by it.”</p>
+
+
+
+<p class="wp-block-paragraph">Other small islands also <a href="https://link.springer.com/article/10.1007/s10584-018-2363-3">face</a> similar issues in their exposure to threats posed by sea level rise.</p>
+
+
+
+<h2 id="coral-reefs" class="wp-block-heading">Coral reefs</h2>
+
+
+
+<p class="wp-block-paragraph">Coral reefs are among the ecosystems that are most <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8068744/">vulnerable</a> to climate change.</p>
+
+
+
+<p class="wp-block-paragraph">They are also being <a href="https://gcrmn.net/2025-report/">visibly affected</a> already – almost entirely due to ocean warming. Even though these ecosystems are completely submerged to begin with, they are also impacted by sea level rise.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">As the ocean rises, the water over shallow ecosystems deepens.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The effects of this are twofold. Deeper water <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120406">reduces</a> the temperatures experienced by reefs. This can act as a buffer against marine heatwaves and global ocean warming.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">At the same time, the increased depth <a href="https://www.sciencedirect.com/science/article/pii/S2666900523000096">reduces</a> the amount of light that can reach the coral communities, which can impact their survival.</p>
+
+
+
+                <div class='gf_browser_chrome gform_wrapper gform-theme gform-theme--foundation gform-theme--framework gform-theme--orbital newsletter-inline_wrapper' data-form-theme='orbital' data-form-index='0' id='gform_wrapper_4' ><style>#gform_wrapper_4[data-form-index="0"].gform-theme,[data-parent-form="4_0"]{--gf-color-primary: #204ce5;--gf-color-primary-rgb: 32, 76, 229;--gf-color-primary-contrast: #fff;--gf-color-primary-contrast-rgb: 255, 255, 255;--gf-color-primary-darker: #001AB3;--gf-color-primary-lighter: #527EFF;--gf-color-secondary: #fff;--gf-color-secondary-rgb: 255, 255, 255;--gf-color-secondary-contrast: #112337;--gf-color-secondary-contrast-rgb: 17, 35, 55;--gf-color-secondary-darker: #F5F5F5;--gf-color-secondary-lighter: #FFFFFF;--gf-color-out-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-out-ctrl-light-rgb: 17, 35, 55;--gf-color-out-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-out-ctrl-light-lighter: #F5F5F5;--gf-color-out-ctrl-dark: #585e6a;--gf-color-out-ctrl-dark-rgb: 88, 94, 106;--gf-color-out-ctrl-dark-darker: #112337;--gf-color-out-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-color-in-ctrl: #fff;--gf-color-in-ctrl-rgb: 255, 255, 255;--gf-color-in-ctrl-contrast: #112337;--gf-color-in-ctrl-contrast-rgb: 17, 35, 55;--gf-color-in-ctrl-darker: #F5F5F5;--gf-color-in-ctrl-lighter: #FFFFFF;--gf-color-in-ctrl-primary: #204ce5;--gf-color-in-ctrl-primary-rgb: 32, 76, 229;--gf-color-in-ctrl-primary-contrast: #fff;--gf-color-in-ctrl-primary-contrast-rgb: 255, 255, 255;--gf-color-in-ctrl-primary-darker: #001AB3;--gf-color-in-ctrl-primary-lighter: #527EFF;--gf-color-in-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-in-ctrl-light-rgb: 17, 35, 55;--gf-color-in-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-in-ctrl-light-lighter: #F5F5F5;--gf-color-in-ctrl-dark: #585e6a;--gf-color-in-ctrl-dark-rgb: 88, 94, 106;--gf-color-in-ctrl-dark-darker: #112337;--gf-color-in-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-radius: 3px;--gf-font-size-secondary: 14px;--gf-font-size-tertiary: 13px;--gf-icon-ctrl-number: url("data:image/svg+xml,%3Csvg width='8' height='14' viewBox='0 0 8 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4 0C4.26522 5.96046e-08 4.51957 0.105357 4.70711 0.292893L7.70711 3.29289C8.09763 3.68342 8.09763 4.31658 7.70711 4.70711C7.31658 5.09763 6.68342 5.09763 6.29289 4.70711L4 2.41421L1.70711 4.70711C1.31658 5.09763 0.683417 5.09763 0.292893 4.70711C-0.0976311 4.31658 -0.097631 3.68342 0.292893 3.29289L3.29289 0.292893C3.48043 0.105357 3.73478 0 4 0ZM0.292893 9.29289C0.683417 8.90237 1.31658 8.90237 1.70711 9.29289L4 11.5858L6.29289 9.29289C6.68342 8.90237 7.31658 8.90237 7.70711 9.29289C8.09763 9.68342 8.09763 10.3166 7.70711 10.7071L4.70711 13.7071C4.31658 14.0976 3.68342 14.0976 3.29289 13.7071L0.292893 10.7071C-0.0976311 10.3166 -0.0976311 9.68342 0.292893 9.29289Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-select: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.292893 0.292893C0.683417 -0.097631 1.31658 -0.097631 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976311 9.31658 -0.0976311 9.70711 0.292893C10.0976 0.683417 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976311 1.31658 -0.0976311 0.683418 0.292893 0.292893Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-search: url("data:image/svg+xml,%3Csvg width='640' height='640' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M256 128c-70.692 0-128 57.308-128 128 0 70.691 57.308 128 128 128 70.691 0 128-57.309 128-128 0-70.692-57.309-128-128-128zM64 256c0-106.039 85.961-192 192-192s192 85.961 192 192c0 41.466-13.146 79.863-35.498 111.248l154.125 154.125c12.496 12.496 12.496 32.758 0 45.254s-32.758 12.496-45.254 0L367.248 412.502C335.862 434.854 297.467 448 256 448c-106.039 0-192-85.962-192-192z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-label-space-y-secondary: var(--gf-label-space-y-md-secondary);--gf-ctrl-border-color: #686e77;--gf-ctrl-size: var(--gf-ctrl-size-md);--gf-ctrl-label-color-primary: #112337;--gf-ctrl-label-color-secondary: #112337;--gf-ctrl-choice-size: var(--gf-ctrl-choice-size-md);--gf-ctrl-checkbox-check-size: var(--gf-ctrl-checkbox-check-size-md);--gf-ctrl-radio-check-size: var(--gf-ctrl-radio-check-size-md);--gf-ctrl-btn-font-size: var(--gf-ctrl-btn-font-size-md);--gf-ctrl-btn-padding-x: var(--gf-ctrl-btn-padding-x-md);--gf-ctrl-btn-size: var(--gf-ctrl-btn-size-md);--gf-ctrl-btn-border-color-secondary: #686e77;--gf-ctrl-file-btn-bg-color-hover: #EBEBEB;--gf-field-img-choice-size: var(--gf-field-img-choice-size-md);--gf-field-img-choice-card-space: var(--gf-field-img-choice-card-space-md);--gf-field-img-choice-check-ind-size: var(--gf-field-img-choice-check-ind-size-md);--gf-field-img-choice-check-ind-icon-size: var(--gf-field-img-choice-check-ind-icon-size-md);--gf-field-pg-steps-number-color: rgba(17, 35, 55, 0.8);}</style><div id='gf_4' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <p class='gform_description'></p>
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_4' class='newsletter-inline' action='/feed#gf_4' data-formid='4' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_4' class='gform_fields top_label form_sublabel_above description_above validation_below'><div id="field_4_7" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_above gfield--has-description field_description_above field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_4_7'>Name</label><div class='gfield_description' id='gfield_description_4_7'>This field is for validation purposes and should be left unchanged.</div><div class='ginput_container'><input name='input_7' id='input_4_7' type='text' value='' autocomplete='new-password'/></div></div><div id="field_4_6" class="gfield gfield--type-html gfield--input-type-html gfield--width-full preheader gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><p>Free fortnightly newsletter</p>
+<style>
+.preheader p{
+    margin-top: 0;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: var(--type--3--font-weight--bold);
+    color: var(--button--color);
+    font-size: var(--button--font-size, inherit);
+
+}
+</style></div><div id="field_4_5" class="gfield gfield--type-html gfield--input-type-html gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><img decoding="async" src="https://www.carbonbrief.org/wp-content/uploads/2026/07/cropped_WEBSITE-INLINE.webp" style="padding-bottom:0.5em"/>
+<style>
+.newsletter-inline{
+    display: flex;
+    border: solid 1px #333333;
+    padding: 1em;
+background: #ffffff;
+
+}
+.inline-email{
+display:inline-block;
+margin-right:1em;
+margin-top:0 !important;
+margin-bottom:0.5em;
+}
+#field_submit{
+display:inline-block;
+margin-top:0 !important;
+}
+.gform_wrapper .gfield+.gfield{
+margin-top:0
+}
+</style>
+
+</div><div id="field_4_1" class="gfield gfield--type-email gfield--input-type-email gfield--width-five-twelfths inline-email field_sublabel_above gfield--no-description field_description_above hidden_label field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_4_1'>Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_4_1' type='email' value='' class='medium'   placeholder='Email'  aria-invalid="false"  />
+                        </div></div><div id="field_submit" class="gfield gfield--type-submit gfield--width-one-twelfth field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" ><input type='submit' id='gform_submit_button_4' class='gform-button gform-button--white  button' onclick='gform.submission.handleButtonClick(this);' data-submission-type='submit' value='Submit'  /></div></div></div>
+        <div class='gform-footer gform_footer top_label'>  
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_4' value='postback' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_4' id='gform_theme_4' value='orbital' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_4' id='gform_style_settings_4' value='{&quot;inputPrimaryColor&quot;:&quot;#204ce5&quot;}' />
+            <input type='hidden' class='gform_hidden' name='is_submit_4' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='4' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='GBP' value='MqYhc6mO4O3PFPt62fodY/3oF0miuOOtlYUhUwDqVBDvdMydfdSgby+SloO04yaV9Hw7qX8rQmAoT8wBuvtXq499909oymdVpqSs8NShcRVTWGg=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_4' value='WyJbXSIsImJhZGFmNDhiODgxMDFiZTczZmRhZTdiNTdjNTY5OTE0Il0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_4' id='gform_target_page_number_4' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_4' id='gform_source_page_number_4' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 4, 'https://www.carbonbrief.org/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery('#gform_ajax_frame_4').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_4').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_4').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_4').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner( 4, 'https://www.carbonbrief.org/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery(document).trigger('gform_page_loaded', [4, current_page]);window['gf_submitting_4'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_4').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_4').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [4]);window['gf_submitting_4'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_4').text());}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "4", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_4" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_4";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_4" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 4, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+
+
+
+<p class="wp-block-paragraph">In addition, sea level rise-assisted erosion will <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011EO330001">add</a> more sediment to the near-shore waters. These particles can <a href="https://www.sciencedirect.com/science/article/abs/pii/S0025326X04004497">settle</a> on corals, impeding their ability to feed and reproduce, as well as interfering with photosynthesis by the <a href="https://oceanservice.noaa.gov/education/tutorial_corals/coral02_zooxanthellae.html">zooxanthellae algae</a> that live symbiotically with corals. Together, this leads to slower coral growth and increased stress on reefs.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">So far, reefs in some parts of the world have been able to “keep pace” with sea level rise, <a href="https://royalsocietypublishing.org/rsos/article/2/7/150181/1262/Keep-up-or-drown-adjustment-of-western-Pacific">growing vertically</a> at accelerated rates and therefore maintaining suitable levels of light availability.</p>
+
+
+
+<p class="wp-block-paragraph">However, modelling has shown that few reefs have the <a href="https://www.nature.com/articles/s41586-018-0194-z">capacity</a> to continue to maintain their distance from the surface under a moderate-emissions scenario.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/DE0FGE.jpg" alt="Coral reef." class="wp-image-83075" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/DE0FGE.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/DE0FGE-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/DE0FGE-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Coral reef. Credit: imageBROKER.com / <a href="https://www.alamy.com/coral-reef-in-shallow-water-kahekili-beach-park-lahaina-maui-hawaii-image60248510.html" data-type="link" data-id="https://www.alamy.com/coral-reef-in-shallow-water-kahekili-beach-park-lahaina-maui-hawaii-image60248510.html">Alamy Stock Photo </a></figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">As coral reefs degrade, the seafloor below them can wear away. This erosion is <a href="https://bg.copernicus.org/articles/14/1739/2017/">contributing</a> to greater apparent levels of sea level rise on coral reefs in the Caribbean, as well as the US states of Florida and Hawaii.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Sea level rise may also have the ability to spur reef growth in shallow environments previously thought to be uninhabitable for corals. In Sanya Bay in the northern South China Sea, sea level rise since the mid-1980s has allowed for the <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014534">recolonisation</a> of a reef that had been dormant for more than five millennia.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">But the opportunities for such recolonisation are far outstripped by the loss of coral elsewhere. Since 1980, the world has <a href="https://gcrmn.net/2025-report/">lost nearly 10%</a> of its coral cover due to climate change-induced ocean warming. The UN declaration reads:</p>
+
+
+
+<p class="wp-block-paragraph">“Every fraction of a degree of global warming increases the risks to coral reefs.”</p>
+
+
+
+<h2 id="heritage-sites" class="wp-block-heading">Heritage sites</h2>
+
+
+
+<p class="wp-block-paragraph">Throughout human history, many societies <a href="https://smea.uw.edu/currents/humans-living-on-the-edge-since-200000-bc/">developed</a> along rivers and coastlines, due to the abundance of food and ease of transportation. However, their proximity to the sea means that many of these sites are now at risk of being damaged or destroyed by sea level rise.</p>
+
+
+
+<p class="wp-block-paragraph">Cultural heritage includes “physical sites, living heritage, traditional lands, burial grounds, underwater cultural heritage, archaeological and sacred sites and culturally significant coastal landscapes”, according to the UN sea level rise report.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/RP7K30.jpg" alt="Tongariki, Rapa Nui, Chile." class="wp-image-83078" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/RP7K30.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/RP7K30-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/RP7K30-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Tongariki, Rapa Nui, Chile. Credit: Robert Wyatt / <a href="https://www.alamy.com/tongariki-easter-island-chile-image237425860.html" data-type="link" data-id="https://www.alamy.com/tongariki-easter-island-chile-image237425860.html">Alamy Stock Photo </a></figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Several studies have mapped the cultural and natural heritage sites that are most at risk from flooding and erosion due to sea level rise.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">There are 49 <a href="https://whc.unesco.org/en/list/">Unesco world heritage sites</a> located at low elevations along the coast of the Mediterranean Sea. Nearly every one of these is <a href="https://www.nature.com/articles/s41467-018-06645-9">already at risk</a> from erosion or severe flooding events – 42 face issues with erosion, while 37 are at risk from a 100-year flood event. Both of these risks will increase over the remainder of the century as sea levels continue to rise.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The locations at risk include the archaeological sites of the ancient cities of <a href="https://whc.unesco.org/en/list/37/">Carthage</a> in present-day Tunisia and <a href="https://whc.unesco.org/en/list/1018/">Ephesus</a> in Turkey, the ruins of <a href="https://whc.unesco.org/en/list/829/">Pompeii and Herculaneum</a> in Italy and the medieval <a href="https://whc.unesco.org/en/list/963/">Cathedral of St James</a> in Šibenik, Croatia.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The sea level rise associated with warming of 3C above pre-industrial temperatures <a href="https://iopscience.iop.org/article/10.1088/1748-9326/9/3/034001/meta">would impact</a> nearly one-fifth of all Unesco cultural world heritage sites. The sites at risk include Japan’s <a href="https://whc.unesco.org/en/list/775/">Hiroshima Peace Memorial</a>, South Africa’s <a href="https://whc.unesco.org/en/list/916/">Robben Island</a>, Chile’s <a href="https://whc.unesco.org/en/list/715/">Rapa Nui</a> and the <a href="https://whc.unesco.org/en/list/166/">Sydney Opera House</a>. Many of these become vulnerable at lower levels of global warming.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="2153" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/136-world-heritage-s_1-scaled.png" alt="136 world heritage sites would be affected by sea level rise at 3C of global warming. Unesco world heritage sites according to threat from sea level rise under global warming. A map shows affected coastal sites worldwide, densely concentrated around Europe and the Mediterranean. Source: Marzeion and Levermann (2014) - (alt text generated by Google Gemini)" class="wp-image-83084" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/136-world-heritage-s_1-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/136-world-heritage-s_1-300x215.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/136-world-heritage-s_1-1024x735.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/136-world-heritage-s_1-768x551.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/136-world-heritage-s_1-2048x1470.png 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">In Africa, 56 out of 284 cultural and natural heritage sites <a href="https://www.nature.com/articles/s41558-022-01280-1">already face threats</a> from flooding or erosion due to sea level rise. This number is <a href="https://www.carbonbrief.org/mapped-african-world-heritage-sites-threatened-by-sea-level-rise-to-triple-by-2050">expected</a> to nearly triple – to 191 threatened sites – by 2050 under a moderate-emissions scenario. However, mitigating emissions could reduce the number of very-highly exposed sites – those with at least 75% of their area vulnerable – by one-quarter.</p>
+
+
+
+<p class="wp-block-paragraph">Globally, there are <a href="https://www.nature.com/articles/s41597-026-07758-3">386 Unesco heritage sites</a> along the coast that are, at most, 20 metres above sea level and are therefore potentially affected by coastal erosion and flood hazards.</p>
+
+
+
+<p class="wp-block-paragraph">These threatened sites include 289 cultural heritage sites and 91 natural heritage sites, as well as six “mixed” sites that are recognised for both their cultural and natural significance.</p>
+
+
+
+<p class="wp-block-paragraph">The UN declaration calls for action to mitigate damage to significant sites, saying:</p>
+
+
+
+<p class="wp-block-paragraph">“Protection, preservation and documentation of cultural heritage is a priority.”</p>
+
+
+    <section class="cards wp-block animate cards--columns-4 alignfull">
+        <div class="cards__inner">
+            
+            <div class="cards__items">
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/06/55344414035_d32fdc8f1f_k-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/06/55344414035_d32fdc8f1f_k-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/06/55344414035_d32fdc8f1f_k-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/06/55344414035_d32fdc8f1f_k-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/06/55344414035_d32fdc8f1f_k.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="mombasa-key-outcomes-from-the-our-ocean-conference-in-kenya" class="g-card__heading">Mombasa: Key outcomes from the Our Ocean Conference in Kenya</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        24.06.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/marine-life-nature" class="g-card__label">Marine life</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/mombasa-key-outcomes-from-the-our-ocean-conference-in-kenya" class="g-card__link" aria-label="Read more about Mombasa: Key outcomes from the Our Ocean Conference in Kenya"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/06/2WXHNBH-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/06/2WXHNBH-1-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/06/2WXHNBH-1-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/06/2WXHNBH-1-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/06/2WXHNBH-1.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="guest-post-how-a-record-high-energy-imbalance-is-driving-global-warming" class="g-card__heading">Guest post: How a record-high ‘energy imbalance’ is driving global warming</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        10.06.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/climate-system" class="g-card__label">Climate system</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/guest-post-how-a-record-high-energy-imbalance-is-driving-global-warming" class="g-card__link" aria-label="Read more about Guest post: How a record-high ‘energy imbalance’ is driving global warming"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/04/amoc-sharing-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/04/amoc-sharing-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/04/amoc-sharing-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/04/amoc-sharing-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/04/amoc-sharing.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="amoc-is-global-warming-tipping-key-atlantic-ocean-currents-towards-collapse" class="g-card__heading">AMOC: Is global warming tipping key Atlantic ocean currents towards ‘collapse’?</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        24.04.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/amoc" class="g-card__label">AMOC</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://interactive.carbonbrief.org/amoc-explainer/index.html" class="g-card__link" aria-label="Read more about AMOC: Is global warming tipping key Atlantic ocean currents towards ‘collapse’?"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/02/E45PEA-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/02/E45PEA-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/02/E45PEA-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/02/E45PEA-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/02/E45PEA.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="guest-post-the-challenges-in-projecting-future-global-sea-levels" class="g-card__heading">Guest post: The challenges in projecting future global sea levels</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        17.02.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/greenland" class="g-card__label">Greenland</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/guest-post-the-challenges-in-projecting-future-global-sea-levels" class="g-card__link" aria-label="Read more about Guest post: The challenges in projecting future global sea levels"></a>
+    
+</article>
+                            </div>
+        </div>
+    </section>
+<p>The post <a href="https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature">Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature</a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item><item>
+		<title>Analysis: Nepal’s $20m ‘loss-and-damage’ claim only covers 0.7% of flood costs</title>
+		<link>https://www.carbonbrief.org/analysis-nepals-20m-loss-and-damage-claim-only-covers-0-7-of-flood-costs</link>
+		
+		<dc:creator><![CDATA[Carbon Brief Staff]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 14:43:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Climate finance]]></category>
+		<category><![CDATA[Extreme weather]]></category>
+		<category><![CDATA[Flooding]]></category>
+		<category><![CDATA[Loss and damage]]></category>
+		<guid isPermaLink="false">https://www.carbonbrief.org/?p=83087</guid>
+
+					<description><![CDATA[<p>The Nepali government has requested $20m from the UN fund for “loss and damage”, following the devastating floods that hit&#8230;</p>
+<p>The post <a href="https://www.carbonbrief.org/analysis-nepals-20m-loss-and-damage-claim-only-covers-0-7-of-flood-costs">Analysis: Nepal’s $20m ‘loss-and-damage’ claim only covers 0.7% of flood costs</a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="print-share wp-block">
+                <button type="button" data-action="print" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Print article</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M20.1253 6.9375H18.5625V3.75C18.5625 3.60082 18.5032 3.45774 18.3977 3.35225C18.2923 3.24676 18.1492 3.1875 18 3.1875H6C5.85082 3.1875 5.70774 3.24676 5.60225 3.35225C5.49676 3.45774 5.4375 3.60082 5.4375 3.75V6.9375H3.87469C2.66906 6.9375 1.6875 7.86281 1.6875 9V16.5C1.6875 16.6492 1.74676 16.7923 1.85225 16.8977C1.95774 17.0032 2.10082 17.0625 2.25 17.0625H5.4375V20.25C5.4375 20.3992 5.49676 20.5423 5.60225 20.6477C5.70774 20.7532 5.85082 20.8125 6 20.8125H18C18.1492 20.8125 18.2923 20.7532 18.3977 20.6477C18.5032 20.5423 18.5625 20.3992 18.5625 20.25V17.0625H21.75C21.8992 17.0625 22.0423 17.0032 22.1477 16.8977C22.2532 16.7923 22.3125 16.6492 22.3125 16.5V9C22.3125 7.86281 21.3309 6.9375 20.1253 6.9375ZM6.5625 4.3125H17.4375V6.9375H6.5625V4.3125ZM17.4375 19.6875H6.5625V14.8125H17.4375V19.6875ZM21.1875 15.9375H18.5625V14.25C18.5625 14.1008 18.5032 13.9577 18.3977 13.8523C18.2923 13.7468 18.1492 13.6875 18 13.6875H6C5.85082 13.6875 5.70774 13.7468 5.60225 13.8523C5.49676 13.9577 5.4375 14.1008 5.4375 14.25V15.9375H2.8125V9C2.8125 8.48344 3.28875 8.0625 3.87469 8.0625H20.1253C20.7113 8.0625 21.1875 8.48344 21.1875 9V15.9375ZM18.5625 10.875C18.5625 11.0604 18.5075 11.2417 18.4045 11.3958C18.3015 11.55 18.1551 11.6702 17.9838 11.7411C17.8125 11.8121 17.624 11.8307 17.4421 11.7945C17.2602 11.7583 17.0932 11.669 16.9621 11.5379C16.831 11.4068 16.7417 11.2398 16.7055 11.0579C16.6693 10.876 16.6879 10.6875 16.7589 10.5162C16.8298 10.3449 16.95 10.1985 17.1042 10.0955C17.2583 9.99248 17.4396 9.9375 17.625 9.9375C17.8736 9.9375 18.1121 10.0363 18.2879 10.2121C18.4637 10.3879 18.5625 10.6264 18.5625 10.875Z" fill="currentColor"/>
+</svg></span></button>                <button type="button" data-action="share" data-copy-success="Link copied" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Share</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M22.1475 10.1025L14.6475 2.60249C14.5688 2.52393 14.4686 2.47043 14.3596 2.44877C14.2505 2.42711 14.1375 2.43825 14.0348 2.48078C13.9321 2.52331 13.8443 2.59533 13.7824 2.68774C13.7206 2.78016 13.6876 2.88881 13.6875 2.99999V6.95624C8.57999 7.29281 2.40092 12.1125 1.69405 18.2681C1.67109 18.4641 1.71058 18.6624 1.80688 18.8346C1.90318 19.0069 2.05138 19.1444 2.23038 19.2275C2.40937 19.3106 2.61003 19.3351 2.80377 19.2975C2.99751 19.2599 3.17444 19.1621 3.30936 19.0181C4.36499 17.8922 8.15624 14.3062 13.6875 14.0747V18C13.6876 18.1112 13.7206 18.2198 13.7824 18.3122C13.8443 18.4047 13.9321 18.4767 14.0348 18.5192C14.1375 18.5617 14.2505 18.5729 14.3596 18.5512C14.4686 18.5296 14.5688 18.4761 14.6475 18.3975L22.1475 10.8975C22.2528 10.792 22.312 10.6491 22.312 10.5C22.312 10.3509 22.2528 10.208 22.1475 10.1025ZM14.8125 16.6425V13.5C14.8125 13.3508 14.7532 13.2077 14.6477 13.1022C14.5422 12.9968 14.3992 12.9375 14.25 12.9375C11.6503 12.9375 9.11624 13.6172 6.71999 14.9578C5.32332 15.7424 4.03681 16.7086 2.89405 17.8312C3.33467 15.3412 4.78405 12.9562 7.01905 11.0559C9.23155 9.18187 11.9334 8.06249 14.25 8.06249C14.3992 8.06249 14.5422 8.00323 14.6477 7.89774C14.7532 7.79225 14.8125 7.64918 14.8125 7.49999V4.35843L20.954 10.5L14.8125 16.6425Z" fill="currentColor"/>
+</svg></span></button>    </div>
+
+
+<div class="article-contents wp-block alignfull">
+
+    <div class="article-contents__inner">
+
+        <div class="article-contents__header">
+
+            <div class="article-contents__title">
+
+                <div class="article-contents__title__icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" role="img" aria-hidden="true" width="32" height="32">
+<path d="M29 6.25H20C19.2027 6.25059 18.4184 6.45185 17.7194 6.83523C17.0204 7.21861 16.4291 7.77178 16 8.44375C15.5709 7.77178 14.9796 7.21861 14.2806 6.83523C13.5816 6.45185 12.7973 6.25059 12 6.25H3C2.80109 6.25 2.61032 6.32902 2.46967 6.46967C2.32902 6.61032 2.25 6.80109 2.25 7V25C2.25 25.1989 2.32902 25.3897 2.46967 25.5303C2.61032 25.671 2.80109 25.75 3 25.75H12C12.862 25.75 13.6886 26.0924 14.2981 26.7019C14.9076 27.3114 15.25 28.138 15.25 29C15.25 29.1989 15.329 29.3897 15.4697 29.5303C15.6103 29.671 15.8011 29.75 16 29.75C16.1989 29.75 16.3897 29.671 16.5303 29.5303C16.671 29.3897 16.75 29.1989 16.75 29C16.75 28.138 17.0924 27.3114 17.7019 26.7019C18.3114 26.0924 19.138 25.75 20 25.75H29C29.1989 25.75 29.3897 25.671 29.5303 25.5303C29.671 25.3897 29.75 25.1989 29.75 25V7C29.75 6.80109 29.671 6.61032 29.5303 6.46967C29.3897 6.32902 29.1989 6.25 29 6.25ZM12 24.25H3.75V7.75H12C12.862 7.75 13.6886 8.09241 14.2981 8.7019C14.9076 9.3114 15.25 10.138 15.25 11V25.5387C14.3709 24.7101 13.2081 24.249 12 24.25ZM28.25 24.25H20C18.7917 24.2495 17.629 24.711 16.75 25.54V11C16.75 10.138 17.0924 9.3114 17.7019 8.7019C18.3114 8.09241 19.138 7.75 20 7.75H28.25V24.25ZM20 11.25H25C25.1989 11.25 25.3897 11.329 25.5303 11.4697C25.671 11.6103 25.75 11.8011 25.75 12C25.75 12.1989 25.671 12.3897 25.5303 12.5303C25.3897 12.671 25.1989 12.75 25 12.75H20C19.8011 12.75 19.6103 12.671 19.4697 12.5303C19.329 12.3897 19.25 12.1989 19.25 12C19.25 11.8011 19.329 11.6103 19.4697 11.4697C19.6103 11.329 19.8011 11.25 20 11.25ZM25.75 16C25.75 16.1989 25.671 16.3897 25.5303 16.5303C25.3897 16.671 25.1989 16.75 25 16.75H20C19.8011 16.75 19.6103 16.671 19.4697 16.5303C19.329 16.3897 19.25 16.1989 19.25 16C19.25 15.8011 19.329 15.6103 19.4697 15.4697C19.6103 15.329 19.8011 15.25 20 15.25H25C25.1989 15.25 25.3897 15.329 25.5303 15.4697C25.671 15.6103 25.75 15.8011 25.75 16ZM25.75 20C25.75 20.1989 25.671 20.3897 25.5303 20.5303C25.3897 20.671 25.1989 20.75 25 20.75H20C19.8011 20.75 19.6103 20.671 19.4697 20.5303C19.329 20.3897 19.25 20.1989 19.25 20C19.25 19.8011 19.329 19.6103 19.4697 19.4697C19.6103 19.329 19.8011 19.25 20 19.25H25C25.1989 19.25 25.3897 19.329 25.5303 19.4697C25.671 19.6103 25.75 19.8011 25.75 20Z" fill="currentColor"/>
+</svg>                </div>
+                
+                <div class="article-contents__title__text" data-original="Article Contents">
+                    Article Contents                </div>
+
+            </div>
+
+                <a aria-expanded="false" aria-label="Expand menu" class="g-button g-button--secondary article-contents__toggle article-contents__toggle--open g-button--primary g-button--icon"><span class="g-button__content">Expand<span> menu</span></span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" fill="none" role="img" aria-hidden="true" width="28" height="28">
+<path d="M24.9375 14C24.9375 14.3481 24.7992 14.6819 24.5531 14.9281C24.3069 15.1742 23.9731 15.3125 23.625 15.3125H4.375C4.0269 15.3125 3.69306 15.1742 3.44692 14.9281C3.20078 14.6819 3.0625 14.3481 3.0625 14C3.0625 13.6519 3.20078 13.3181 3.44692 13.0719C3.69306 12.8258 4.0269 12.6875 4.375 12.6875H23.625C23.9731 12.6875 24.3069 12.8258 24.5531 13.0719C24.7992 13.3181 24.9375 13.6519 24.9375 14ZM4.375 8.3125H23.625C23.9731 8.3125 24.3069 8.17422 24.5531 7.92808C24.7992 7.68194 24.9375 7.3481 24.9375 7C24.9375 6.6519 24.7992 6.31806 24.5531 6.07192C24.3069 5.82578 23.9731 5.6875 23.625 5.6875H4.375C4.0269 5.6875 3.69306 5.82578 3.44692 6.07192C3.20078 6.31806 3.0625 6.6519 3.0625 7C3.0625 7.3481 3.20078 7.68194 3.44692 7.92808C3.69306 8.17422 4.0269 8.3125 4.375 8.3125ZM23.625 19.6875H4.375C4.0269 19.6875 3.69306 19.8258 3.44692 20.0719C3.20078 20.3181 3.0625 20.6519 3.0625 21C3.0625 21.3481 3.20078 21.6819 3.44692 21.9281C3.69306 22.1742 4.0269 22.3125 4.375 22.3125H23.625C23.9731 22.3125 24.3069 22.1742 24.5531 21.9281C24.7992 21.6819 24.9375 21.3481 24.9375 21C24.9375 20.6519 24.7992 20.3181 24.5531 20.0719C24.3069 19.8258 23.9731 19.6875 23.625 19.6875Z" fill="currentColor"/>
+</svg></span></a>                <a aria-expanded="false" aria-label="Close" hidden="hidden" aria-hidden="true" class="g-button g-button--secondary article-contents__toggle article-contents__toggle--close g-button--primary g-button--icon"><span class="g-button__content">Close</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+<path d="M19.5459 17.954C19.7572 18.1653 19.876 18.452 19.876 18.7509C19.876 19.0497 19.7572 19.3364 19.5459 19.5477C19.3346 19.7591 19.0479 19.8778 18.749 19.8778C18.4501 19.8778 18.1635 19.7591 17.9521 19.5477L12 13.5937L6.0459 19.5459C5.83455 19.7572 5.54791 19.8759 5.24902 19.8759C4.95014 19.8759 4.66349 19.7572 4.45215 19.5459C4.2408 19.3345 4.12207 19.0479 4.12207 18.749C4.12207 18.4501 4.2408 18.1635 4.45215 17.9521L10.4062 11.9999L4.45402 6.04586C4.24268 5.83451 4.12395 5.54787 4.12395 5.24898C4.12395 4.9501 4.24268 4.66345 4.45402 4.45211C4.66537 4.24076 4.95201 4.12203 5.2509 4.12203C5.54978 4.12203 5.83643 4.24076 6.04777 4.45211L12 10.4062L17.954 4.45117C18.1654 4.23983 18.452 4.12109 18.7509 4.12109C19.0498 4.12109 19.3364 4.23983 19.5478 4.45117C19.7591 4.66251 19.8778 4.94916 19.8778 5.24804C19.8778 5.54693 19.7591 5.83358 19.5478 6.04492L13.5937 11.9999L19.5459 17.954Z" fill="currentColor"/>
+</svg></span></a>
+        </div>
+
+        <div class="article-contents__content" aria-hidden="true" hidden>
+            <ul class="article-contents__list article-contents__list--columns-1">
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#nepals-needs">
+                            <span >Nepal’s needs</span>                        </a>
+                    </li>
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#requests-vs-pledges">
+                            <span >Requests vs pledges</span>                        </a>
+                    </li>
+                                    <li class="article-contents__item article-contents__item--level-2">
+                        <a href="#rapid-response">
+                            <span >‘Rapid response’</span>                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<p class="wp-block-paragraph">The Nepali government has requested $20m from the UN fund for “<a href="https://interactive.carbonbrief.org/q-a-should-developed-nations-pay-for-loss-and-damage-from-climate-change/index.html">loss and damage</a>”, following the devastating <a href="https://www.carbonbrief.org/qa-what-can-and-cannot-be-said-about-global-warmings-role-in-the-2026-himalayan-floods">floods</a> that hit the country in late August.</p>
+
+
+
+<p class="wp-block-paragraph">This amounts to just 0.7% of the $2.7bn it has <a href="https://ndrrma.gov.np/en/study-report/416">estimated</a> in “physical damage” to infrastructure and “economic losses” from the flooding, according to Carbon Brief analysis.</p>
+
+
+
+<p class="wp-block-paragraph">The $20m request would, nevertheless, make Nepal the fourth-largest claimant to the UN loss-and-damage fund, which is intended to help deal with climate-related disasters.</p>
+
+
+
+<p class="wp-block-paragraph">Developing countries have already <a href="https://www.frld.org/sites/default/files/FRLD_B.9_7%20Report%20on%20the%20status%20of%20the%20pipeline%20for%20the%20BIM.pdf">made</a> 176 applications to the <a href="https://www.frld.org/">UN fund for responding to loss and damage</a>, requesting, in total, $2.8bn to help recover from a variety of damaging events, such as drought, floods and storms.</p>
+
+
+
+<p class="wp-block-paragraph">Yet, to date, predominantly developed nations have only <a href="https://www.frld.org/funding">pledged</a> $0.8bn to support the fund.</p>
+
+
+
+<p class="wp-block-paragraph">This means requests to the fund are already three times larger than the total amount pledged, raising questions about its potential to respond to emergencies.</p>
+
+
+
+<p class="wp-block-paragraph">As yet, no funding has been paid out of the fund to developing countries grappling with intensifying and more frequent <a href="https://interactive.carbonbrief.org/attribution-studies/index.html">climate change-induced</a> disasters since it was <a href="https://www.carbonbrief.org/cop28-key-outcomes-agreed-at-the-un-climate-talks-in-dubai">established</a> in 2023.</p>
+
+
+
+<h2 id="nepals-needs" class="wp-block-heading">Nepal’s needs</h2>
+
+
+
+<p class="wp-block-paragraph">On 26 August, Nepal was <a href="https://www.carbonbrief.org/qa-what-can-and-cannot-be-said-about-global-warmings-role-in-the-2026-himalayan-floods">hit</a> by flash floods following a catastrophic rock-ice avalanche in the Himalayan border region. The flooding has killed <a href="https://www.thehindu.com/news/international/nepal-flash-flood-death-toll-september-20/article71488152.ece">more than</a> 1,400 people, with thousands <a href="https://www.reuters.com/business/environment/weeks-after-nepal-flood-thousands-still-missing-most-recovered-bodies-2026-09-16/">still missing</a>.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Days later, the Nepali government <a href="https://english.nepalnews.com/s/feature/bhote-koshi-disaster-chasing-un-payouts-while-victims-starve/">sought</a> an “urgent response” from the board of the UN <a href="https://www.frld.org/">fund</a> for climate-driven loss and damage.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">It subsequently <a href="https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo">requested</a> $20m in “<a href="https://unsdg.un.org/latest/stories/flood-ravaged-nepal-calls-climate-justice">financial compensation</a>” from the fund. This is the maximum amount that can <a href="https://unfccc.int/sites/default/files/resource/FRLD_B.5_13_Decisions_of_the_fifth_meeting_of_the_Board_Compendium.pdf">currently</a> be requested for a single project.</p>
+
+
+
+<p class="wp-block-paragraph">“<a href="https://interactive.carbonbrief.org/q-a-should-developed-nations-pay-for-loss-and-damage-from-climate-change/index.html">Loss and damage</a>” is a term used to describe how climate change is causing serious and, in many cases, irreversible impacts around the world. Nations established the UN fund in 2023, after <a href="https://interactive.carbonbrief.org/timeline-the-struggle-over-loss-and-damage-in-un-climate-talks/index.html">decades</a> of effort by climate-vulnerable nations.</p>
+
+
+
+<p class="wp-block-paragraph">Nepal’s national <a href="https://ndrrma.gov.np/np/">disaster management authority</a> has now released an extensive <a href="https://ndrrma.gov.np/en/study-report/416">rapid preliminary assessment</a> of “damage and needs” from the floods.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="2647" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-20m-claim-wou-13-scaled.png" alt="" class="wp-image-83190" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-20m-claim-wou-13-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-20m-claim-wou-13-300x265.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-20m-claim-wou-13-1024x904.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-20m-claim-wou-13-768x678.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-20m-claim-wou-13-2048x1807.png 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">As the chart below shows, Nepal’s $20m loss-and-damage claim would only cover 0.7% of what authorities describe as $2.7bn in “total damage and loss” from the floods.</p>
+
+
+
+<p class="wp-block-paragraph">When accounting for another $4.8bn in “recovery and reconstruction” costs – part of how loss and damage is <a href="https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030">internationally defined –</a> then Nepal’s $20m claim would be just 0.3% of the needs it estimates.<br><br>Reacting to the analysis, Nepal’s climate negotiator <a href="https://unfccc.int/sites/default/files/resource/Raju%20Pandit%20%20-%20Bio.pdf">Raju Pandit Chhetri</a> tells Carbon Brief that the country’s $20m request was for “rapid response”, adding:&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">“That money is going to be a peanut if it was to be invested into reconstruction.”</p>
+
+
+
+<h2 id="requests-vs-pledges" class="wp-block-heading">Requests vs pledges</h2>
+
+
+
+<p class="wp-block-paragraph">Vulnerable, developing countries have long <a href="https://interactive.carbonbrief.org/timeline-the-struggle-over-loss-and-damage-in-un-climate-talks/index.html">argued</a> that developed nations should be held responsible for loss and damage, while countries such as the US have <a href="https://interactive.carbonbrief.org/q-a-should-developed-nations-pay-for-loss-and-damage-from-climate-change/index.html">blocked</a> moves that could have led to them being liable for climate-related damages</p>
+
+
+
+<p class="wp-block-paragraph">From December 2025 until July 2026, developing countries made <a href="https://www.frld.org/sites/default/files/FRLD_B.9_7%20Report%20on%20the%20status%20of%20the%20pipeline%20for%20the%20BIM.pdf">176 applications</a> to the loss-and-damage fund, requesting over $2.8bn in assistance.</p>
+
+
+
+<p class="wp-block-paragraph">So far, predominantly developed countries have pledged only $822m to the fund. (Some nations that are not categorised as “developed” under the UN, such as the UAE and South Korea, have also committed funds.)</p>
+
+
+
+<p class="wp-block-paragraph">Funding requests from developing countries to date are, therefore, more than triple what has been pledged.</p>
+
+
+
+<figure class="wp-block-image size-granola_super"><img loading="lazy" decoding="async" width="2500" height="824" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/requests-to-the-loss_2-2500x824.png" alt="Apart from Nepal’s new request, “requested” data is based on the project pipeline as of 29 June 2026. " class="wp-image-83132" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/requests-to-the-loss_2-2500x824.png 2500w, https://www.carbonbrief.org/wp-content/uploads/2026/09/requests-to-the-loss_2-300x99.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/requests-to-the-loss_2-1024x337.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/requests-to-the-loss_2-768x253.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/requests-to-the-loss_2-2048x675.png 2048w" sizes="auto, (max-width: 2500px) 100vw, 2500px" /><figcaption class="wp-element-caption">Apart from Nepal’s new request, “requested” data is based on the project pipeline as of 29 June 2026. Analysis by Carbon Brief.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Moreover, only <a href="https://fiftrustee.worldbank.org/en/about/unit/pim/fiftrustee/fund-detail/frld#1">around half</a> of the money pledged so far has been paid into the fund by donor nations, with large sums from France, Italy and the UAE still outstanding.</p>
+
+
+
+<p class="wp-block-paragraph">The fund has <a href="https://www.frld.org/sites/default/files/Press%20Release_Post%20B.9%20communique.pdf">made</a> $342m available in its initial funding round in July 2026. However, as of September, no money from the fund has been distributed to any countries facing climate-related disasters.</p>
+
+
+
+                <div class='gf_browser_chrome gform_wrapper gform-theme gform-theme--foundation gform-theme--framework gform-theme--orbital newsletter-inline_wrapper' data-form-theme='orbital' data-form-index='0' id='gform_wrapper_4' ><style>#gform_wrapper_4[data-form-index="0"].gform-theme,[data-parent-form="4_0"]{--gf-color-primary: #204ce5;--gf-color-primary-rgb: 32, 76, 229;--gf-color-primary-contrast: #fff;--gf-color-primary-contrast-rgb: 255, 255, 255;--gf-color-primary-darker: #001AB3;--gf-color-primary-lighter: #527EFF;--gf-color-secondary: #fff;--gf-color-secondary-rgb: 255, 255, 255;--gf-color-secondary-contrast: #112337;--gf-color-secondary-contrast-rgb: 17, 35, 55;--gf-color-secondary-darker: #F5F5F5;--gf-color-secondary-lighter: #FFFFFF;--gf-color-out-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-out-ctrl-light-rgb: 17, 35, 55;--gf-color-out-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-out-ctrl-light-lighter: #F5F5F5;--gf-color-out-ctrl-dark: #585e6a;--gf-color-out-ctrl-dark-rgb: 88, 94, 106;--gf-color-out-ctrl-dark-darker: #112337;--gf-color-out-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-color-in-ctrl: #fff;--gf-color-in-ctrl-rgb: 255, 255, 255;--gf-color-in-ctrl-contrast: #112337;--gf-color-in-ctrl-contrast-rgb: 17, 35, 55;--gf-color-in-ctrl-darker: #F5F5F5;--gf-color-in-ctrl-lighter: #FFFFFF;--gf-color-in-ctrl-primary: #204ce5;--gf-color-in-ctrl-primary-rgb: 32, 76, 229;--gf-color-in-ctrl-primary-contrast: #fff;--gf-color-in-ctrl-primary-contrast-rgb: 255, 255, 255;--gf-color-in-ctrl-primary-darker: #001AB3;--gf-color-in-ctrl-primary-lighter: #527EFF;--gf-color-in-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-in-ctrl-light-rgb: 17, 35, 55;--gf-color-in-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-in-ctrl-light-lighter: #F5F5F5;--gf-color-in-ctrl-dark: #585e6a;--gf-color-in-ctrl-dark-rgb: 88, 94, 106;--gf-color-in-ctrl-dark-darker: #112337;--gf-color-in-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-radius: 3px;--gf-font-size-secondary: 14px;--gf-font-size-tertiary: 13px;--gf-icon-ctrl-number: url("data:image/svg+xml,%3Csvg width='8' height='14' viewBox='0 0 8 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4 0C4.26522 5.96046e-08 4.51957 0.105357 4.70711 0.292893L7.70711 3.29289C8.09763 3.68342 8.09763 4.31658 7.70711 4.70711C7.31658 5.09763 6.68342 5.09763 6.29289 4.70711L4 2.41421L1.70711 4.70711C1.31658 5.09763 0.683417 5.09763 0.292893 4.70711C-0.0976311 4.31658 -0.097631 3.68342 0.292893 3.29289L3.29289 0.292893C3.48043 0.105357 3.73478 0 4 0ZM0.292893 9.29289C0.683417 8.90237 1.31658 8.90237 1.70711 9.29289L4 11.5858L6.29289 9.29289C6.68342 8.90237 7.31658 8.90237 7.70711 9.29289C8.09763 9.68342 8.09763 10.3166 7.70711 10.7071L4.70711 13.7071C4.31658 14.0976 3.68342 14.0976 3.29289 13.7071L0.292893 10.7071C-0.0976311 10.3166 -0.0976311 9.68342 0.292893 9.29289Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-select: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.292893 0.292893C0.683417 -0.097631 1.31658 -0.097631 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976311 9.31658 -0.0976311 9.70711 0.292893C10.0976 0.683417 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976311 1.31658 -0.0976311 0.683418 0.292893 0.292893Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-search: url("data:image/svg+xml,%3Csvg width='640' height='640' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M256 128c-70.692 0-128 57.308-128 128 0 70.691 57.308 128 128 128 70.691 0 128-57.309 128-128 0-70.692-57.309-128-128-128zM64 256c0-106.039 85.961-192 192-192s192 85.961 192 192c0 41.466-13.146 79.863-35.498 111.248l154.125 154.125c12.496 12.496 12.496 32.758 0 45.254s-32.758 12.496-45.254 0L367.248 412.502C335.862 434.854 297.467 448 256 448c-106.039 0-192-85.962-192-192z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-label-space-y-secondary: var(--gf-label-space-y-md-secondary);--gf-ctrl-border-color: #686e77;--gf-ctrl-size: var(--gf-ctrl-size-md);--gf-ctrl-label-color-primary: #112337;--gf-ctrl-label-color-secondary: #112337;--gf-ctrl-choice-size: var(--gf-ctrl-choice-size-md);--gf-ctrl-checkbox-check-size: var(--gf-ctrl-checkbox-check-size-md);--gf-ctrl-radio-check-size: var(--gf-ctrl-radio-check-size-md);--gf-ctrl-btn-font-size: var(--gf-ctrl-btn-font-size-md);--gf-ctrl-btn-padding-x: var(--gf-ctrl-btn-padding-x-md);--gf-ctrl-btn-size: var(--gf-ctrl-btn-size-md);--gf-ctrl-btn-border-color-secondary: #686e77;--gf-ctrl-file-btn-bg-color-hover: #EBEBEB;--gf-field-img-choice-size: var(--gf-field-img-choice-size-md);--gf-field-img-choice-card-space: var(--gf-field-img-choice-card-space-md);--gf-field-img-choice-check-ind-size: var(--gf-field-img-choice-check-ind-size-md);--gf-field-img-choice-check-ind-icon-size: var(--gf-field-img-choice-check-ind-icon-size-md);--gf-field-pg-steps-number-color: rgba(17, 35, 55, 0.8);}</style><div id='gf_4' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <p class='gform_description'></p>
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_4' class='newsletter-inline' action='/feed#gf_4' data-formid='4' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_4' class='gform_fields top_label form_sublabel_above description_above validation_below'><div id="field_4_7" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_above gfield--has-description field_description_above field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_4_7'>Facebook</label><div class='gfield_description' id='gfield_description_4_7'>This field is for validation purposes and should be left unchanged.</div><div class='ginput_container'><input name='input_7' id='input_4_7' type='text' value='' autocomplete='new-password'/></div></div><div id="field_4_6" class="gfield gfield--type-html gfield--input-type-html gfield--width-full preheader gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><p>Free fortnightly newsletter</p>
+<style>
+.preheader p{
+    margin-top: 0;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: var(--type--3--font-weight--bold);
+    color: var(--button--color);
+    font-size: var(--button--font-size, inherit);
+
+}
+</style></div><div id="field_4_5" class="gfield gfield--type-html gfield--input-type-html gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><img decoding="async" src="https://www.carbonbrief.org/wp-content/uploads/2026/07/cropped_WEBSITE-INLINE.webp" style="padding-bottom:0.5em"/>
+<style>
+.newsletter-inline{
+    display: flex;
+    border: solid 1px #333333;
+    padding: 1em;
+background: #ffffff;
+
+}
+.inline-email{
+display:inline-block;
+margin-right:1em;
+margin-top:0 !important;
+margin-bottom:0.5em;
+}
+#field_submit{
+display:inline-block;
+margin-top:0 !important;
+}
+.gform_wrapper .gfield+.gfield{
+margin-top:0
+}
+</style>
+
+</div><div id="field_4_1" class="gfield gfield--type-email gfield--input-type-email gfield--width-five-twelfths inline-email field_sublabel_above gfield--no-description field_description_above hidden_label field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_4_1'>Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_4_1' type='email' value='' class='medium'   placeholder='Email'  aria-invalid="false"  />
+                        </div></div><div id="field_submit" class="gfield gfield--type-submit gfield--width-one-twelfth field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" ><input type='submit' id='gform_submit_button_4' class='gform-button gform-button--white  button' onclick='gform.submission.handleButtonClick(this);' data-submission-type='submit' value='Submit'  /></div></div></div>
+        <div class='gform-footer gform_footer top_label'>  
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_4' value='postback' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_4' id='gform_theme_4' value='orbital' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_4' id='gform_style_settings_4' value='{&quot;inputPrimaryColor&quot;:&quot;#204ce5&quot;}' />
+            <input type='hidden' class='gform_hidden' name='is_submit_4' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='4' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='GBP' value='vQ9J2M0Zy1qGK2GOY9Jz9ZAVzhPa+RooofF4YyKkpAYjOu189vk8JPmlXwLstK3LiY55oZl7V7x5fZ6TmVDycOO3w7ngl3bg3VIOxMG58R8/FQk=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_4' value='WyJbXSIsImJhZGFmNDhiODgxMDFiZTczZmRhZTdiNTdjNTY5OTE0Il0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_4' id='gform_target_page_number_4' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_4' id='gform_source_page_number_4' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 4, 'https://www.carbonbrief.org/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery('#gform_ajax_frame_4').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_4').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_4').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_4').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner( 4, 'https://www.carbonbrief.org/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery(document).trigger('gform_page_loaded', [4, current_page]);window['gf_submitting_4'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_4').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_4').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [4]);window['gf_submitting_4'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_4').text());}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "4", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_4" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_4";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_4" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 4, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+
+
+
+<p class="wp-block-paragraph">According to Carbon Brief analysis, off the 176 loss-and-damage fund requests received from 118 countries, more than 60% are from <a href="https://unctad.org/topic/least-developed-countries/list">least developed countries</a>&nbsp; – such as Nepal – and small-island nations. So far, each individual funding request is <a href="https://unfccc.int/sites/default/files/resource/FRLD_B.5_13_Decisions_of_the_fifth_meeting_of_the_Board_Compendium.pdf">capped</a> at $20m.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The flood-related request is Nepal’s fourth appeal to the fund and, as the chart below shows, this makes it the fourth-largest claimant overall.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-granola_super"><img loading="lazy" decoding="async" width="2500" height="1693" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-new-loss-and-_3-2500x1693.png" alt="Apart from Nepal’s new request, data is based on the project pipeline as of 29 June 2026." class="wp-image-83133" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-new-loss-and-_3-2500x1693.png 2500w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-new-loss-and-_3-300x203.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-new-loss-and-_3-1024x693.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-new-loss-and-_3-768x520.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/nepals-new-loss-and-_3-2048x1387.png 2048w" sizes="auto, (max-width: 2500px) 100vw, 2500px" /><figcaption class="wp-element-caption">Apart from Nepal’s new request, data is based on the project pipeline as of 29 June 2026. Analysis by Carbon Brief.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Nine other countries have made multiple requests to the fund. Madagascar – hit by <a href="https://reliefweb.int/report/madagascar/madagascar-humanitarian-snapshot-january-march-2026">back-to-back cyclones</a> after a prolonged <a href="https://www.carbonbrief.org/climate-change-not-the-main-driver-of-madagascar-food-crisis-scientists-find">drought</a> – has made six requests in total.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.theguardian.com/global-development/2025/jan/14/crying-for-rain-suriname-drought-environment-climate-rivers-drying-hunger-clean-water-transport-health">Drought-ravaged</a> Suriname, Ecuador, Brazil and Barbados have specified that their funding requests are part of an “emergency response”.</p>
+
+
+
+<h2 id="rapid-response" class="wp-block-heading">‘Rapid response’</h2>
+
+
+
+<p class="wp-block-paragraph">Nepal’s $20m claim has sparked a conversation on <a href="https://www.carbonbrief.org/in-depth-qa-what-is-climate-justice">climate justice</a> and the ability of the loss-and-damage fund to deliver, in the face of increasingly frequent extreme-weather events.</p>
+
+
+
+<p class="wp-block-paragraph">In a <a href="https://english.nepalnews.com/s/feature/bhote-koshi-disaster-chasing-un-payouts-while-victims-starve/">letter</a> sent five days after the disaster, Nepal’s finance minister <a href="https://en.wikipedia.org/wiki/Swarnim_Wagle">Dr Swarnim Wagle</a> appealed to the fund’s board to mobilise an “urgent response” that would “signal” that the fund:</p>
+
+
+
+<p class="wp-block-paragraph">“[I]s capable of responding with humanity, speed, flexibility and solidarity when climate-vulnerable countries face losses and damages beyond their capacity to address alone.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="888" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/Gov_of_Nepal_doc_1-1024x888.png" alt="" class="wp-image-83128" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/Gov_of_Nepal_doc_1-1024x888.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/Gov_of_Nepal_doc_1-300x260.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/Gov_of_Nepal_doc_1-768x666.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/Gov_of_Nepal_doc_1.png 1104w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Board members from Asia-Pacific and African countries wrote a <a href="https://drive.google.com/file/d/1gq31xaHvXvSJizv1v4Iokyo7Mf9gXIHx/view?usp=sharing">letter</a> in support of the Himalayan country in crisis, urging the board to convene and “potentially agree to a provisional set-aside allocation of resources to support rapid response funding for Nepal”.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">They pointed out that the board’s response to Nepal could offer “procedural lessons” in how to strengthen its “rapid-response” to sudden-onset extreme-weather events. Such support is <a href="https://unfccc.int/sites/default/files/resource/cp2023_09_cma2023_09.pdf">explicitly</a> part of the fund’s mandate.</p>
+
+
+
+<p class="wp-block-paragraph">On 14 September, developed-country members of the fund’s board wrote that they <a href="https://www.linkedin.com/posts/developed-countires-ugcPost-7505706722825789441-Ke_H/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAA1v0pMBogd6fbOc1JkfSwxwGbH7OUqpRMI">supported</a> a “consultation” on Nepal, but made no commitments in terms of actual funding.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.linkedin.com/authwall?trk=bf&amp;trkInfo=AQHiQ5rqD-BxBwAAAaDEgYZQFZ54cH1i_rM_dd5mOgpsv5U4BXEBK2hecoZyBWU5fIpqDko0DO1FNNquH-VLs-gxnuy2T67RVnXj7Mq_woHpevPRIrxJEjp2ypQnRV4km4_sB0Q=&amp;original_referer=&amp;sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fharjeetsingh11">Harjeet Singh</a>, loss-and-damage expert and global convenor of the <a href="https://www.fillthefund.org/">Fill the Fund</a> campaign, tells Carbon Brief that the fund’s board deals with most funding requests as regular projects, rather than emergencies. Singh continues:&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">“Developed countries gave a really cold response to Nepal’s request. They have not addressed it because they know that if this happens once, they are going to be under pressure all the time. This is unacceptable.”&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Meanwhile, <a href="https://www.bbc.com/news/articles/cmlyrzve5pwzo">BBC News</a> reported that Nepal plans to use climate <a href="https://interactive.carbonbrief.org/attribution-studies/index.html">attribution studies</a> to strengthen its claim.</p>
+
+
+
+<p class="wp-block-paragraph">According to a <a href="https://www.worldweatherattribution.org/rapid-warming-in-the-himalaya-exacerbates-geohazard-cascades-beyond-adaptation-limits/">rapid attribution study</a> by <a href="https://www.worldweatherattribution.org/">World Weather Attribution</a> and climate experts who spoke to <a href="https://www.carbonbrief.org/qa-what-can-and-cannot-be-said-about-global-warmings-role-in-the-2026-himalayan-floods">Carbon Brief</a>, factors such as glacial retreat and permafrost thaw that played a key role in the disaster have been linked to climate change. A full attribution study is <a href="https://www.worldweatherattribution.org/rapid-warming-in-the-himalaya-exacerbates-geohazard-cascades-beyond-adaptation-limits/">pending</a>.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Nepal’s prime minister Balendra Shah will address the UN general assembly on 24 September and is <a href="https://kathmandupost.com/national/2026/09/22/balendra-shah-s-un-appearance-draws-diplomatic-interest-in-new-york">expected</a> to raise issues around climate justice, loss and damage and the vulnerability of mountain countries.<br><br>The next <a href="https://www.frld.org/boardmeetings">board meeting</a> of the loss and damage fund is on 15 December, two months from now, and a fortnight after the conclusion of COP31 in Turkey.</p>
+
+
+
+<p class="wp-block-paragraph">Pandit Chhetri tells Carbon Brief:</p>
+
+
+
+<p class="wp-block-paragraph">“It&#8217;s a shame that, until now, the fund has not been able to even give a penny to developing countries. And, starkly, the event in Nepal only demonstrates why this kind of fund is so important for highly vulnerable, poor, developing countries.”</p>
+
+
+
+<p class="wp-block-paragraph">Pandit Chhetri adds that, after nearly three weeks since the disaster, there is yet to be a decision on the request and that the country has “only received messages of solidarity”, with no assurance of rapid response funds. He says that it is “quite an interesting scene for [us] to observe”, adding:</p>
+
+
+
+<p class="wp-block-paragraph">“If the fund cannot respond in a crisis like this for a country like Nepal – when you have this massive destruction and devastation – then what is the use of the fund itself? That&#8217;s why it is a test for the fund, though the resources are limited.”</p>
+
+
+    <section class="cards wp-block animate cards--columns-4 alignfull">
+        <div class="cards__inner">
+                            <div class="cards__header">
+                    <h2 id="related" class="cards__heading">Related</h2>
+                                    </div>
+            
+            <div class="cards__items">
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/RKM02X-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/RKM02X-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/RKM02X-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/RKM02X-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/RKM02X.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge" class="g-card__heading">Analysis: India’s power-sector emissions flat for two years due to clean-energy surge</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        17.09.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/emissions" class="g-card__label">Emissions</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge" class="g-card__link" aria-label="Read more about Analysis: India’s power-sector emissions flat for two years due to clean-energy surge"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/07/3D0MN11-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/07/3D0MN11-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/07/3D0MN11-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/07/3D0MN11-1024x683.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/07/3D0MN11.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="world-falling-short-on-22-of-23-nature-targets-for-2030-says-draft-un-report" class="g-card__heading">World falling short on 22 of 23 nature targets for 2030, says draft UN report</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        29.07.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/international-policy" class="g-card__label">International policy</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/world-falling-short-on-22-of-23-nature-targets-for-2030-says-draft-un-report" class="g-card__link" aria-label="Read more about World falling short on 22 of 23 nature targets for 2030, says draft UN report"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/07/3EW0X30-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/07/3EW0X30-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/07/3EW0X30-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/07/3EW0X30-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/07/3EW0X30.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="analysis-84-of-nations-miss-deadline-to-identify-nature-harming-subsidies-by-2025" class="g-card__heading">Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025 </h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        28.07.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/international-policy" class="g-card__label">International policy</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/analysis-84-of-nations-miss-deadline-to-identify-nature-harming-subsidies-by-2025" class="g-card__link" aria-label="Read more about Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025 "></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/07/E9EBNP-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/07/E9EBNP-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/07/E9EBNP-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/07/E9EBNP-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/07/E9EBNP.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="access-to-finance-strengthens-climate-resilience-among-sub-saharan-women" class="g-card__heading">Access to finance ‘strengthens climate resilience’ among sub-Saharan women</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        24.07.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/international-policy" class="g-card__label">International policy</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/access-to-finance-strengthens-climate-resilience-among-sub-saharan-women" class="g-card__link" aria-label="Read more about Access to finance ‘strengthens climate resilience’ among sub-Saharan women"></a>
+    
+</article>
+                            </div>
+        </div>
+    </section>
+<p>The post <a href="https://www.carbonbrief.org/analysis-nepals-20m-loss-and-damage-claim-only-covers-0-7-of-flood-costs">Analysis: Nepal’s $20m ‘loss-and-damage’ claim only covers 0.7% of flood costs</a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item><item>
+		<title>Analysis: ‘Super El Niño’ breaks ‘remarkable’ all-time record</title>
+		<link>https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record</link>
+		
+		<dc:creator><![CDATA[Zeke Hausfather]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 15:41:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[El Niño]]></category>
+		<category><![CDATA[sea surface temperature]]></category>
+		<category><![CDATA[super el niño]]></category>
+		<category><![CDATA[temperature anomalies]]></category>
+		<category><![CDATA[Temperature record]]></category>
+		<guid isPermaLink="false">https://www.carbonbrief.org/?p=83006</guid>
+
+					<description><![CDATA[<p>This year&#8217;s so-called “super El Niño” has entered record-breaking territory.&#160; Sea surface temperatures in the tropical Pacific have exceeded the&#8230;</p>
+<p>The post <a href="https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record">Analysis: ‘Super El Niño’ breaks ‘remarkable’ all-time record</a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="print-share wp-block">
+                <button type="button" data-action="print" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Print article</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M20.1253 6.9375H18.5625V3.75C18.5625 3.60082 18.5032 3.45774 18.3977 3.35225C18.2923 3.24676 18.1492 3.1875 18 3.1875H6C5.85082 3.1875 5.70774 3.24676 5.60225 3.35225C5.49676 3.45774 5.4375 3.60082 5.4375 3.75V6.9375H3.87469C2.66906 6.9375 1.6875 7.86281 1.6875 9V16.5C1.6875 16.6492 1.74676 16.7923 1.85225 16.8977C1.95774 17.0032 2.10082 17.0625 2.25 17.0625H5.4375V20.25C5.4375 20.3992 5.49676 20.5423 5.60225 20.6477C5.70774 20.7532 5.85082 20.8125 6 20.8125H18C18.1492 20.8125 18.2923 20.7532 18.3977 20.6477C18.5032 20.5423 18.5625 20.3992 18.5625 20.25V17.0625H21.75C21.8992 17.0625 22.0423 17.0032 22.1477 16.8977C22.2532 16.7923 22.3125 16.6492 22.3125 16.5V9C22.3125 7.86281 21.3309 6.9375 20.1253 6.9375ZM6.5625 4.3125H17.4375V6.9375H6.5625V4.3125ZM17.4375 19.6875H6.5625V14.8125H17.4375V19.6875ZM21.1875 15.9375H18.5625V14.25C18.5625 14.1008 18.5032 13.9577 18.3977 13.8523C18.2923 13.7468 18.1492 13.6875 18 13.6875H6C5.85082 13.6875 5.70774 13.7468 5.60225 13.8523C5.49676 13.9577 5.4375 14.1008 5.4375 14.25V15.9375H2.8125V9C2.8125 8.48344 3.28875 8.0625 3.87469 8.0625H20.1253C20.7113 8.0625 21.1875 8.48344 21.1875 9V15.9375ZM18.5625 10.875C18.5625 11.0604 18.5075 11.2417 18.4045 11.3958C18.3015 11.55 18.1551 11.6702 17.9838 11.7411C17.8125 11.8121 17.624 11.8307 17.4421 11.7945C17.2602 11.7583 17.0932 11.669 16.9621 11.5379C16.831 11.4068 16.7417 11.2398 16.7055 11.0579C16.6693 10.876 16.6879 10.6875 16.7589 10.5162C16.8298 10.3449 16.95 10.1985 17.1042 10.0955C17.2583 9.99248 17.4396 9.9375 17.625 9.9375C17.8736 9.9375 18.1121 10.0363 18.2879 10.2121C18.4637 10.3879 18.5625 10.6264 18.5625 10.875Z" fill="currentColor"/>
+</svg></span></button>                <button type="button" data-action="share" data-copy-success="Link copied" class="g-button g-button--secondary g-button--icon"><span class="g-button__content">Share</span><span class="g-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-hidden="true" width="24" height="24">
+  <path d="M22.1475 10.1025L14.6475 2.60249C14.5688 2.52393 14.4686 2.47043 14.3596 2.44877C14.2505 2.42711 14.1375 2.43825 14.0348 2.48078C13.9321 2.52331 13.8443 2.59533 13.7824 2.68774C13.7206 2.78016 13.6876 2.88881 13.6875 2.99999V6.95624C8.57999 7.29281 2.40092 12.1125 1.69405 18.2681C1.67109 18.4641 1.71058 18.6624 1.80688 18.8346C1.90318 19.0069 2.05138 19.1444 2.23038 19.2275C2.40937 19.3106 2.61003 19.3351 2.80377 19.2975C2.99751 19.2599 3.17444 19.1621 3.30936 19.0181C4.36499 17.8922 8.15624 14.3062 13.6875 14.0747V18C13.6876 18.1112 13.7206 18.2198 13.7824 18.3122C13.8443 18.4047 13.9321 18.4767 14.0348 18.5192C14.1375 18.5617 14.2505 18.5729 14.3596 18.5512C14.4686 18.5296 14.5688 18.4761 14.6475 18.3975L22.1475 10.8975C22.2528 10.792 22.312 10.6491 22.312 10.5C22.312 10.3509 22.2528 10.208 22.1475 10.1025ZM14.8125 16.6425V13.5C14.8125 13.3508 14.7532 13.2077 14.6477 13.1022C14.5422 12.9968 14.3992 12.9375 14.25 12.9375C11.6503 12.9375 9.11624 13.6172 6.71999 14.9578C5.32332 15.7424 4.03681 16.7086 2.89405 17.8312C3.33467 15.3412 4.78405 12.9562 7.01905 11.0559C9.23155 9.18187 11.9334 8.06249 14.25 8.06249C14.3992 8.06249 14.5422 8.00323 14.6477 7.89774C14.7532 7.79225 14.8125 7.64918 14.8125 7.49999V4.35843L20.954 10.5L14.8125 16.6425Z" fill="currentColor"/>
+</svg></span></button>    </div>
+
+
+
+<p class="wp-block-paragraph">This year&#8217;s so-called “super El Niño” has entered record-breaking territory.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Sea surface temperatures in the tropical Pacific have exceeded the previous daily record set in 2015.</p>
+
+
+
+<p class="wp-block-paragraph">El Niño is a naturally occurring climate phenomenon in the Pacific that reshapes weather patterns around the world and temporarily boosts global temperatures.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The current El Niño event – which has been underway since June and is expected to last until next year – has been developing faster than any previous event on record.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The strength of an event is tracked using the “<a href="https://www.ncei.noaa.gov/access/monitoring/enso/sst">Niño 3.4 anomaly</a>”, which measures how much warmer sea surface temperatures in a section of the central Pacific are than average.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">As of 21 September, the daily anomaly in the Niño 3.4 region stands at 3.11C, surpassing the previous record of 3.08C.</p>
+
+
+
+<p class="wp-block-paragraph">Some scientists, using a different baseline for calculating the anomaly, <a href="https://bsky.app/profile/weatherprof.bsky.social/post/3mvzoh5dymc2c">called</a> the new record a few days before.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Either way, this is remarkable, in part because of how early in the calendar year it is occurring. El Niño typically peaks in the winter months, most commonly in November or December.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Every strong El Niño on record has continued to strengthen after mid-September – and there is every reason to think that this one will as well.</p>
+
+
+
+<p class="wp-block-paragraph">(For more on El Niño, see Carbon Brief’s recent <a href="https://interactive.carbonbrief.org/el-nino-explainer/index.html">interactive explainer</a>.)</p>
+
+
+
+<h2 id="record-territory" class="wp-block-heading">Record territory</h2>
+
+
+
+<p class="wp-block-paragraph">El Niño events are typically classed as “weak” when the Niño 3.4 anomaly reaches 0.5C, “moderate” above 1C, “strong” above 1.5C and “very strong” above 2.0C.</p>
+
+
+
+<p class="wp-block-paragraph">For this year’s event, the Niño 3.4 anomaly has now reached 3.11C, breaking the previous record from 18 November 2015, set during a <a href="https://www.carbonbrief.org/analysis-how-much-did-el-nino-boost-global-temperature-in-2015">&#8220;very strong” El Nino event</a>.</p>
+
+
+
+<p class="wp-block-paragraph">The chart below shows how the strength of the current El Niño (red line) is dramatically outpacing both 2015-16 (blue) and another “very strong” event in <a href="https://en.wikipedia.org/wiki/1997%E2%80%931998_El_Ni%C3%B1o_event">1997-98</a> (light blue).</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="1863" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-has-1-scaled.jpg" alt="Daily Niño 3.4 sea surface temperature anomalies, from 1982 to 2026." class="wp-image-83193" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-has-1-scaled.jpg 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-has-1-300x186.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-has-1-1024x636.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-has-1-768x477.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-has-1-2048x1272.jpg 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><figcaption class="wp-element-caption">Daily Niño 3.4 sea surface temperature anomalies, from 1982 to 2026 (up to 21 September), each relative to a centred 30-year climatology (ONI convention). Chart by Carbon Brief.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">To analyse the developing El Niño, Carbon Brief followed the convention of the <a href="https://www.noaa.gov/">US National Oceanic and Atmospheric Administration&#8217;s</a> (NOAA) <a href="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/">Oceanic Niño index</a> (ONI).</p>
+
+
+
+<p class="wp-block-paragraph">ONI is calculated by subtracting the latest 30-year average temperature in the Nino 3.4 region from daily sea surface temperatures. This approach allows for the most recent years to be compared against the most recent 30-year period. It removes much of the influence of longer-term, human-driven warming from the index.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">(While meteorological organisations typically track changes to ONI on a three-month rolling average basis, Carbon Brief’s analysis looked at how the metric is changing on a daily basis.)</p>
+
+
+
+<p class="wp-block-paragraph">If ONI is calculated using a baseline of 1991-2020 then the current El Niño has <a href="https://bsky.app/profile/weatherprof.bsky.social/post/3mvzoh5dymc2c">already set</a> a new record.</p>
+
+
+
+<p class="wp-block-paragraph">Since the start of June, El Niño’s strength has been greater than any other year. In early September in both 1997 and 2015, anomalies were around 1.9C – more than one degree below where they are this year.</p>
+
+
+
+<h2 id="an-alternative-index" class="wp-block-heading">An alternative index&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">There is another commonly used metric – the <a href="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/">relative Oceanic Niño index</a> (RONI) – used to study El Niño.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://journals.ametsoc.org/view/journals/clim/37/4/JCLI-D-23-0406.1.xml">Introduced</a> by NOAA in 2024, the RONI index adjusts for tropical ocean warming linked to human-caused climate change. To do this, it takes sea surface averages in the Nino 3.4 region and subtracts out temperature anomalies observed across the tropical oceans (between the latitudes of 20 degrees north and south).&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">This approach may better remove the influence of climate change in this specific region, but <a href="https://iopscience.iop.org/article/10.1088/1748-9326/abe9ed">can also diminish the apparent strength</a> of strong El Niño events, such as the current one, which extend well outside the Niño 3.4 region.</p>
+
+
+
+<p class="wp-block-paragraph">The chart below shows daily RONI values, which are record setting for this time of year, but remain below an all-time daily record set during the 1982-83 El Niño event.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="1949" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/el-nio-is-record-set1-scaled.jpg" alt="Daily relative Niño 3.4 (RONI) anomalies for every year, from 1982 to 2026" class="wp-image-83194" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/el-nio-is-record-set1-scaled.jpg 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/el-nio-is-record-set1-300x195.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/el-nio-is-record-set1-1024x665.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/el-nio-is-record-set1-768x499.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/el-nio-is-record-set1-2048x1331.jpg 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><figcaption class="wp-element-caption">Daily relative Niño 3.4 (<a href="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/" data-type="link" data-id="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/">RONI</a>) anomalies for every year, from 1982 to 2026 (up to 21 September). Chart by Carbon Brief.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">RONI stood at around 2.5C in mid-September, some 0.7C below the 1982 record.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">However, that record was set in late December, at the peak of the event.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The 1982-83, 1997-98 and 2015-16 events added between 0.5C and 1.9C to their RONI values between mid-September and their peaks.</p>
+
+
+
+<h2 id="on-track-to-smash-monthly-and-seasonal-records" class="wp-block-heading">On track to smash monthly and seasonal records&nbsp;&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Because daily El Niño values are noisy, scientists typically turn to monthly or seasonal averages to compare El Niño events.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The latest full calendar month for which data is available – August 2026 – had a Niño 3.4 anomaly of around 2.45C. This is higher than the peak of every prior El Niño event on record except 2015-16 – where the anomaly reached 2.75C – and <a href="https://www.carbonbrief.org/cited-15-september-2026-temperature-overshoot-worlds-warmest-month-catastrophic-1877-78-el-nino">1877-78</a>, when the anomaly sat at around 2.7C, based on a reconstruction of sea surface temperatures using sparse ship data.</p>
+
+
+
+<p class="wp-block-paragraph">The figure below shows the monthly evolution of the five strongest El Niño events on record alongside 2026, as well the current forecast from 14 seasonal forecast models.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="1890" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-is-o_1-scaled.png" alt="The 2026 El Niño is on track to smash the all-time record. Monthly Niño 3.4 anomaly, degrees C, calculated using the ONI convention. Line chart shows the 2026 forecast peaking around 4°C in late 2026, well above historical records below 3°C. Source: NOAA CPC, Copernicus C3S, ECCC and JAMSTEC - (alt text generated by Google Gemini)" class="wp-image-83012" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-is-o_1-scaled.png 3000w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-is-o_1-300x189.png 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-is-o_1-1024x645.png 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-is-o_1-768x484.png 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/the-2026-el-nio-is-o_1-2048x1290.png 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><figcaption class="wp-element-caption">Monthly Niño 3.4 anomaly (degrees C) for the five strongest El Niño events on record, for 2026 through August and the 2026-27 forecast across 14 models, each relative to a centred 30-year climatology (ONI convention). Data from NOAA CPC, Copernicus C3S, ECCC and JAMSTEC. Chart by Carbon Brief.</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">Taken together, the models project a peak monthly anomaly later this year of around 4.1C, with 80% of the 674 individual model runs falling between 3.4C and 4.6C.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Every single model run peaks above the 2015-16 record. The projected margin over that record, some 1.3C, is larger than the entire gap between the strongest and fifth-strongest El Niño of the past 150 years.</p>
+
+
+
+                <div class='gf_browser_chrome gform_wrapper gform-theme gform-theme--foundation gform-theme--framework gform-theme--orbital newsletter-inline_wrapper' data-form-theme='orbital' data-form-index='0' id='gform_wrapper_5' ><style>#gform_wrapper_5[data-form-index="0"].gform-theme,[data-parent-form="5_0"]{--gf-color-primary: #204ce5;--gf-color-primary-rgb: 32, 76, 229;--gf-color-primary-contrast: #fff;--gf-color-primary-contrast-rgb: 255, 255, 255;--gf-color-primary-darker: #001AB3;--gf-color-primary-lighter: #527EFF;--gf-color-secondary: #fff;--gf-color-secondary-rgb: 255, 255, 255;--gf-color-secondary-contrast: #112337;--gf-color-secondary-contrast-rgb: 17, 35, 55;--gf-color-secondary-darker: #F5F5F5;--gf-color-secondary-lighter: #FFFFFF;--gf-color-out-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-out-ctrl-light-rgb: 17, 35, 55;--gf-color-out-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-out-ctrl-light-lighter: #F5F5F5;--gf-color-out-ctrl-dark: #585e6a;--gf-color-out-ctrl-dark-rgb: 88, 94, 106;--gf-color-out-ctrl-dark-darker: #112337;--gf-color-out-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-color-in-ctrl: #fff;--gf-color-in-ctrl-rgb: 255, 255, 255;--gf-color-in-ctrl-contrast: #112337;--gf-color-in-ctrl-contrast-rgb: 17, 35, 55;--gf-color-in-ctrl-darker: #F5F5F5;--gf-color-in-ctrl-lighter: #FFFFFF;--gf-color-in-ctrl-primary: #204ce5;--gf-color-in-ctrl-primary-rgb: 32, 76, 229;--gf-color-in-ctrl-primary-contrast: #fff;--gf-color-in-ctrl-primary-contrast-rgb: 255, 255, 255;--gf-color-in-ctrl-primary-darker: #001AB3;--gf-color-in-ctrl-primary-lighter: #527EFF;--gf-color-in-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-in-ctrl-light-rgb: 17, 35, 55;--gf-color-in-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-in-ctrl-light-lighter: #F5F5F5;--gf-color-in-ctrl-dark: #585e6a;--gf-color-in-ctrl-dark-rgb: 88, 94, 106;--gf-color-in-ctrl-dark-darker: #112337;--gf-color-in-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-radius: 3px;--gf-font-size-secondary: 14px;--gf-font-size-tertiary: 13px;--gf-icon-ctrl-number: url("data:image/svg+xml,%3Csvg width='8' height='14' viewBox='0 0 8 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4 0C4.26522 5.96046e-08 4.51957 0.105357 4.70711 0.292893L7.70711 3.29289C8.09763 3.68342 8.09763 4.31658 7.70711 4.70711C7.31658 5.09763 6.68342 5.09763 6.29289 4.70711L4 2.41421L1.70711 4.70711C1.31658 5.09763 0.683417 5.09763 0.292893 4.70711C-0.0976311 4.31658 -0.097631 3.68342 0.292893 3.29289L3.29289 0.292893C3.48043 0.105357 3.73478 0 4 0ZM0.292893 9.29289C0.683417 8.90237 1.31658 8.90237 1.70711 9.29289L4 11.5858L6.29289 9.29289C6.68342 8.90237 7.31658 8.90237 7.70711 9.29289C8.09763 9.68342 8.09763 10.3166 7.70711 10.7071L4.70711 13.7071C4.31658 14.0976 3.68342 14.0976 3.29289 13.7071L0.292893 10.7071C-0.0976311 10.3166 -0.0976311 9.68342 0.292893 9.29289Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-select: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.292893 0.292893C0.683417 -0.097631 1.31658 -0.097631 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976311 9.31658 -0.0976311 9.70711 0.292893C10.0976 0.683417 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976311 1.31658 -0.0976311 0.683418 0.292893 0.292893Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-search: url("data:image/svg+xml,%3Csvg width='640' height='640' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M256 128c-70.692 0-128 57.308-128 128 0 70.691 57.308 128 128 128 70.691 0 128-57.309 128-128 0-70.692-57.309-128-128-128zM64 256c0-106.039 85.961-192 192-192s192 85.961 192 192c0 41.466-13.146 79.863-35.498 111.248l154.125 154.125c12.496 12.496 12.496 32.758 0 45.254s-32.758 12.496-45.254 0L367.248 412.502C335.862 434.854 297.467 448 256 448c-106.039 0-192-85.962-192-192z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-label-space-y-secondary: var(--gf-label-space-y-md-secondary);--gf-ctrl-border-color: #686e77;--gf-ctrl-size: var(--gf-ctrl-size-md);--gf-ctrl-label-color-primary: #112337;--gf-ctrl-label-color-secondary: #112337;--gf-ctrl-choice-size: var(--gf-ctrl-choice-size-md);--gf-ctrl-checkbox-check-size: var(--gf-ctrl-checkbox-check-size-md);--gf-ctrl-radio-check-size: var(--gf-ctrl-radio-check-size-md);--gf-ctrl-btn-font-size: var(--gf-ctrl-btn-font-size-md);--gf-ctrl-btn-padding-x: var(--gf-ctrl-btn-padding-x-md);--gf-ctrl-btn-size: var(--gf-ctrl-btn-size-md);--gf-ctrl-btn-border-color-secondary: #686e77;--gf-ctrl-file-btn-bg-color-hover: #EBEBEB;--gf-field-img-choice-size: var(--gf-field-img-choice-size-md);--gf-field-img-choice-card-space: var(--gf-field-img-choice-card-space-md);--gf-field-img-choice-check-ind-size: var(--gf-field-img-choice-check-ind-size-md);--gf-field-img-choice-check-ind-icon-size: var(--gf-field-img-choice-check-ind-icon-size-md);--gf-field-pg-steps-number-color: rgba(17, 35, 55, 0.8);}</style><div id='gf_5' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <p class='gform_description'></p>
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_5' class='newsletter-inline' action='/feed#gf_5' data-formid='5' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_5' class='gform_fields top_label form_sublabel_above description_above validation_below'><div id="field_5_7" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_above gfield--has-description field_description_above field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_5_7'>Comments</label><div class='gfield_description' id='gfield_description_5_7'>This field is for validation purposes and should be left unchanged.</div><div class='ginput_container'><input name='input_7' id='input_5_7' type='text' value='' autocomplete='new-password'/></div></div><div id="field_5_6" class="gfield gfield--type-html gfield--input-type-html gfield--width-full preheader gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><p>Free fortnightly newsletter</p>
+<style>
+.preheader p{
+    margin-top: 0;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: var(--type--3--font-weight--bold);
+    color: var(--button--color);
+    font-size: var(--button--font-size, inherit);
+
+}
+</style></div><div id="field_5_5" class="gfield gfield--type-html gfield--input-type-html gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><img decoding="async" src="https://www.carbonbrief.org/wp-content/uploads/2026/07/cited-banner_landing-copy.webp" style="padding-bottom:0.5em"/>
+<style>
+.newsletter-inline{
+    display: flex;
+    border: solid 1px #333333;
+    padding: 1em;
+background: #ffffff;
+}
+.inline-email{
+display:inline-block;
+margin-right:1em;
+margin-top:0 !important;
+margin-bottom:0.5em;
+}
+#field_submit{
+display:inline-block;
+margin-top:0 !important;
+}
+.gform_wrapper .gfield+.gfield{
+margin-top:0
+}
+</style>
+</div><div id="field_5_1" class="gfield gfield--type-email gfield--input-type-email gfield--width-five-twelfths inline-email field_sublabel_above gfield--no-description field_description_above hidden_label field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_5_1'>Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_5_1' type='email' value='' class='medium'   placeholder='Email'  aria-invalid="false"  />
+                        </div></div><div id="field_submit" class="gfield gfield--type-submit gfield--width-one-twelfth field_sublabel_above gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" ><input type='submit' id='gform_submit_button_5' class='gform-button gform-button--white  button' onclick='gform.submission.handleButtonClick(this);' data-submission-type='submit' value='Submit'  /></div></div></div>
+        <div class='gform-footer gform_footer top_label'>  
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_5' value='postback' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_5' id='gform_theme_5' value='orbital' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_5' id='gform_style_settings_5' value='{&quot;inputPrimaryColor&quot;:&quot;#204ce5&quot;}' />
+            <input type='hidden' class='gform_hidden' name='is_submit_5' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='5' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='GBP' value='wGM9nxH/L0XAsF2+DncAnoV/VxHx3yfOzCuUG1V8P2xx1HJajdudIKFuqIbDncWjHGteuHU5/FtzNUeRFEN4SGzGdKlFi0+8kZGXLUFqywuOe1Q=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_5' value='WyJbXSIsImJhZGFmNDhiODgxMDFiZTczZmRhZTdiNTdjNTY5OTE0Il0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_5' id='gform_target_page_number_5' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_5' id='gform_source_page_number_5' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 5, 'https://www.carbonbrief.org/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery('#gform_ajax_frame_5').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_5');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_5').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_5').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_5').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_5').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_5').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_5').val();gformInitSpinner( 5, 'https://www.carbonbrief.org/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery(document).trigger('gform_page_loaded', [5, current_page]);window['gf_submitting_5'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_5').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_5').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [5]);window['gf_submitting_5'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_5').text());}else{jQuery('#gform_5').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "5", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_5" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_5";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_5" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 5, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+
+
+
+<p class="wp-block-paragraph">Some caution here is warranted, however. No seasonal forecast system has ever been verified against an event of this size, because none has ever occurred. The models also predicted temperatures slightly warmer than observed this summer, with real-world observations for August coming in around 0.3C below forecasts.</p>
+
+
+
+<p class="wp-block-paragraph">However, all strong El Niño events on record have continued to strengthen well into the winter – and the models are in near-unanimous agreement that this one will, too. If the forecast holds, the current event will peak between November and January at a level far beyond any event previously observed in the instrumental record.</p>
+
+
+
+<p class="wp-block-paragraph">El Nino’s effect on global temperatures typically lags rising ocean temperatures in the Pacific by several months, so most of the impact will be felt in 2027 rather than 2026.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Carbon Brief&#8217;s most recent “<a href="https://www.carbonbrief.org/state-of-the-climate-strong-el-nino-puts-2026-on-track-for-second-warmest-year">state of the climate</a>” quarterly analysis found 2026 on track to be the warmest or second-warmest year on record. The next update in early October will examine what a record El Niño means for 2027.</p>
+
+
+<div class="article-summary wp-block alignfull">
+
+    
+            <div class="article-summary__content">
+            <p><span style="font-weight: 400">Update: This article was updated on 23/09/2026 with the latest data showing that the current El Niño event has now broken the previous record for daily strength.</span></p>
+        </div>
+    
+</div>
+
+
+    <section class="cards wp-block animate cards--columns-4 alignfull">
+        <div class="cards__inner">
+            
+            <div class="cards__items">
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/09/3FF1GWW.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century" class="g-card__heading">El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        11.09.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/el-nino-la-nina" class="g-card__label">El Niño and La Niña</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century" class="g-card__link" aria-label="Read more about El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2026/08/El-nino-hero-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2026/08/El-nino-hero-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2026/08/El-nino-hero-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2026/08/El-nino-hero-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2026/08/El-nino-hero.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="explainer-how-the-super-el-nino-will-reshape-the-worlds-weather" class="g-card__heading">Explainer: How the ‘super El Niño’ will reshape the world’s weather</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        18.08.2026                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/el-nino-la-nina" class="g-card__label">El Niño and La Niña</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://interactive.carbonbrief.org/el-nino-explainer/index.html" class="g-card__link" aria-label="Read more about Explainer: How the ‘super El Niño’ will reshape the world’s weather"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2025/12/GG7360-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2025/12/GG7360-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2025/12/GG7360-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2025/12/GG7360-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2025/12/GG7360.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="analysis-what-are-the-causes-of-recent-record-high-global-temperatures" class="g-card__heading">Analysis: What are the causes of recent record-high global temperatures?</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        10.12.2025                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/climate-pollutants" class="g-card__label">Climate pollutants</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/analysis-what-are-the-causes-of-recent-record-high-global-temperatures" class="g-card__link" aria-label="Read more about Analysis: What are the causes of recent record-high global temperatures?"></a>
+    
+</article>
+                                    <article class="g-card g-card--size-medium g-card--size-mobile-small g-card--row has-image has-link">
+    <div class="g-card__inner">
+
+                    <div class="g-card__image">
+                <img decoding="async" width="768" height="512" src="https://www.carbonbrief.org/wp-content/uploads/2020/04/southport-merseyside-unseasonably-warm-weather-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" role="presentation" loading="lazy" srcset="https://www.carbonbrief.org/wp-content/uploads/2020/04/southport-merseyside-unseasonably-warm-weather-768x512.jpg 768w, https://www.carbonbrief.org/wp-content/uploads/2020/04/southport-merseyside-unseasonably-warm-weather-300x200.jpg 300w, https://www.carbonbrief.org/wp-content/uploads/2020/04/southport-merseyside-unseasonably-warm-weather-1024x682.jpg 1024w, https://www.carbonbrief.org/wp-content/uploads/2020/04/southport-merseyside-unseasonably-warm-weather.jpg 1550w" sizes="auto, (max-width: 768px) 100vw, 768px" />            </div>
+        
+        <div class="g-card__content">
+
+                            <h2 id="state-of-the-climate-first-quarter-of-2020-is-second-warmest-on-record" class="g-card__heading">State of the climate: First quarter of 2020 is second warmest on record</h2>            
+            <div class="g-card__meta">
+
+                                    <div class="g-card__date">
+                        20.04.2020                    </div>
+                
+                                    <div class="g-card__labels">
+                            <a href="https://www.carbonbrief.org/topics/climate-modelling" class="g-card__label">Climate modelling</a>                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            <a href="https://www.carbonbrief.org/state-of-the-climate-first-quarter-of-2020-is-second-warmest-on-record" class="g-card__link" aria-label="Read more about State of the climate: First quarter of 2020 is second warmest on record"></a>
+    
+</article>
+                            </div>
+        </div>
+    </section>
+<p>The post <a href="https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record">Analysis: ‘Super El Niño’ breaks ‘remarkable’ all-time record</a> appeared first on <a href="https://www.carbonbrief.org">Carbon Brief</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

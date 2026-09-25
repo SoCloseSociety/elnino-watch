@@ -1,0 +1,98 @@
+{
+ "https://www.ndbc.noaa.gov/images/buoycam/Z24A_2026_09_24_1310.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "22648",
+   "last-modified": "Thu, 24 Sep 2026 13:32:29 GMT"
+  }
+ },
+ "https://www.ndbc.noaa.gov/images/buoycam/W67A_2026_09_24_1310.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "25803",
+   "last-modified": "Thu, 24 Sep 2026 13:32:29 GMT"
+  }
+ },
+ "https://www.ndbc.noaa.gov/images/buoycam/W58A_2026_09_24_1310.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "20987",
+   "last-modified": "Thu, 24 Sep 2026 13:32:29 GMT"
+  }
+ },
+ "https://www.ndbc.noaa.gov/images/buoycam/W24A_2026_09_24_1310.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "20708",
+   "last-modified": "Thu, 24 Sep 2026 13:32:29 GMT"
+  }
+ },
+ "https://www.ndbc.noaa.gov/images/buoycam/Z55A_2026_09_24_1310.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "21499",
+   "last-modified": "Thu, 24 Sep 2026 13:32:29 GMT"
+  }
+ },
+ "https://www.data.jma.go.jp/mscweb/data/himawari/img/se1/se1_b13_1350.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "126125",
+   "last-modified": "Thu, 24 Sep 2026 14:03:05 GMT"
+  }
+ },
+ "https://www.data.jma.go.jp/mscweb/data/himawari/img/se1/se1_trm_1350.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "10708",
+   "last-modified": "Thu, 24 Sep 2026 14:03:16 GMT"
+  }
+ },
+ "https://www.data.jma.go.jp/mscweb/data/himawari/img/fd_/fd__b13_1350.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "155341",
+   "last-modified": "Thu, 24 Sep 2026 14:01:51 GMT"
+  }
+ },
+ "https://www.data.jma.go.jp/mscweb/data/himawari/img/fd_/fd__trm_1350.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "7402",
+   "last-modified": "Thu, 24 Sep 2026 14:02:06 GMT"
+  }
+ },
+ "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/GEOCOLOR/1808x1808.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "1656554",
+   "last-modified": "Thu, 24 Sep 2026 14:07:12 GMT"
+  }
+ },
+ "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/13/1808x1808.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "1627536",
+   "last-modified": "Thu, 24 Sep 2026 13:51:26 GMT"
+  }
+ },
+ "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/1808x1808.jpg": {
+  "status": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "content-length": "2342584",
+   "last-modified": "Thu, 24 Sep 2026 14:10:32 GMT"
+  }
+ }
+}

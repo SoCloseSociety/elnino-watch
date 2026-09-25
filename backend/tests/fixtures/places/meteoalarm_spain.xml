@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:cap="urn:oasis:names:tc:emergency:cap:1.2">
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <link type="application/atom+xml" rel="self" href="https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-atom-spain"/>
+  <link type="text/html" rel="alternate" href="https://meteoalarm.org"/>
+  <rights>Copyright © 2026 MeteoAlarm.Org. Licensed under terms equivalent to CC BY 4.0, with additional requirements for redistributing outlined in our Terms and Conditions.</rights>
+  <generator>MeteoAlarm Producer Server</generator>
+  <logo>https://feeds.meteoalarm.org/images/logo.svg</logo>
+  <author>
+    <name>meteoalarm.org</name>
+    <uri>https://meteoalarm.org</uri>
+    <email>meteoalarm@geosphere.at</email>
+  </author>
+  <id>tag:meteoalarm.org,2021-02-19:ES</id>
+  <title>MeteoAlarm - Alerting Europe for Extreme Weather</title>
+  <updated>2026-09-24T14:05:10.482038Z</updated>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES131</value>
+    </cap:geocode>
+    <link title="Área metropolitana de Tenerife" href="https://meteoalarm.org?geocode=EMMA_ID:ES131" hreflang="en"/>
+    <cap:areaDesc>Área metropolitana de Tenerife</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659602ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/b175a7f3-8fe3-41f4-bc19-554e15271999"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/b175a7f3-8fe3-41f4-bc19-554e15271999?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Área metropolitana de Tenerife</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES132</value>
+    </cap:geocode>
+    <link title="Este, sur y oeste de Tenerife" href="https://meteoalarm.org?geocode=EMMA_ID:ES132" hreflang="en"/>
+    <cap:areaDesc>Este, sur y oeste de Tenerife</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659603ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/95390eef-bc00-4042-bc61-a875ff34a67f"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/95390eef-bc00-4042-bc61-a875ff34a67f?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Este, sur y oeste de Tenerife</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES122</value>
+    </cap:geocode>
+    <link title="Este, sur y oeste de Gran Canaria" href="https://meteoalarm.org?geocode=EMMA_ID:ES122" hreflang="en"/>
+    <cap:areaDesc>Este, sur y oeste de Gran Canaria</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659004ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/1553bfa0-6f42-41c9-9b59-8695d2d27d7f"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/1553bfa0-6f42-41c9-9b59-8695d2d27d7f?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Este, sur y oeste de Gran Canaria</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES132</value>
+    </cap:geocode>
+    <link title="Este, sur y oeste de Tenerife" href="https://meteoalarm.org?geocode=EMMA_ID:ES132" hreflang="en"/>
+    <cap:areaDesc>Este, sur y oeste de Tenerife</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659603ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/9283e8d7-1521-48a0-8b46-52eb1ce24743"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/9283e8d7-1521-48a0-8b46-52eb1ce24743?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Este, sur y oeste de Tenerife</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES124</value>
+    </cap:geocode>
+    <link title="Fuerteventura" href="https://meteoalarm.org?geocode=EMMA_ID:ES124" hreflang="en"/>
+    <cap:areaDesc>Fuerteventura</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659201ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/c64e0690-4070-4765-825a-40e1eb74c67b"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/c64e0690-4070-4765-825a-40e1eb74c67b?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Fuerteventura</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES201</value>
+    </cap:geocode>
+    <link title="Villuercas y Montánchez" href="https://meteoalarm.org?geocode=EMMA_ID:ES201" hreflang="en"/>
+    <cap:areaDesc>Villuercas y Montánchez</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:28:21+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.701004ATTA251742329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/06952c84-1d47-4384-9976-0f171abcfe54"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/06952c84-1d47-4384-9976-0f171abcfe54?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Villuercas y Montánchez</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES120</value>
+    </cap:geocode>
+    <link title="Norte de Gran Canaria" href="https://meteoalarm.org?geocode=EMMA_ID:ES120" hreflang="en"/>
+    <cap:areaDesc>Norte de Gran Canaria</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659001ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/065460a0-acec-4b9d-b036-2c3cc000d93a"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/065460a0-acec-4b9d-b036-2c3cc000d93a?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Norte de Gran Canaria</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES128</value>
+    </cap:geocode>
+    <link title="La Gomera" href="https://meteoalarm.org?geocode=EMMA_ID:ES128" hreflang="en"/>
+    <cap:areaDesc>La Gomera</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659401ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/85f20a6b-2490-4e7a-a0b1-229175311e09"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/85f20a6b-2490-4e7a-a0b1-229175311e09?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - La Gomera</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES198</value>
+    </cap:geocode>
+    <link title="Norte de Cáceres" href="https://meteoalarm.org?geocode=EMMA_ID:ES198" hreflang="en"/>
+    <cap:areaDesc>Norte de Cáceres</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:28:21+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.701001ATTA251742329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/8ed3bb4e-7898-4fa3-b3fc-6126149bd407"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/8ed3bb4e-7898-4fa3-b3fc-6126149bd407?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Norte de Cáceres</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES124</value>
+    </cap:geocode>
+    <link title="Fuerteventura" href="https://meteoalarm.org?geocode=EMMA_ID:ES124" hreflang="en"/>
+    <cap:areaDesc>Fuerteventura</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659201ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/98ce34f7-6bd0-4b11-a4f0-5ab51cc42191"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/98ce34f7-6bd0-4b11-a4f0-5ab51cc42191?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Fuerteventura</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES131</value>
+    </cap:geocode>
+    <link title="Área metropolitana de Tenerife" href="https://meteoalarm.org?geocode=EMMA_ID:ES131" hreflang="en"/>
+    <cap:areaDesc>Área metropolitana de Tenerife</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659602ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/c32f71a6-d168-4d47-a7f1-44e6b7bea9df"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/c32f71a6-d168-4d47-a7f1-44e6b7bea9df?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Área metropolitana de Tenerife</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES130</value>
+    </cap:geocode>
+    <link title="Norte de Tenerife" href="https://meteoalarm.org?geocode=EMMA_ID:ES130" hreflang="en"/>
+    <cap:areaDesc>Norte de Tenerife</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659601ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/019c5cb0-0f7c-4777-adf9-173b5fb18182"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/019c5cb0-0f7c-4777-adf9-173b5fb18182?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Norte de Tenerife</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES123</value>
+    </cap:geocode>
+    <link title="Lanzarote" href="https://meteoalarm.org?geocode=EMMA_ID:ES123" hreflang="en"/>
+    <cap:areaDesc>Lanzarote</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659101ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/580df6d7-f563-4500-ba66-22d7898c6f4c"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/580df6d7-f563-4500-ba66-22d7898c6f4c?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Lanzarote</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES129</value>
+    </cap:geocode>
+    <link title="El Hierro" href="https://meteoalarm.org?geocode=EMMA_ID:ES129" hreflang="en"/>
+    <cap:areaDesc>El Hierro</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659501ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/0bbf64f8-f6ce-46c2-b095-db35c7906c1a"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/0bbf64f8-f6ce-46c2-b095-db35c7906c1a?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - El Hierro</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES127</value>
+    </cap:geocode>
+    <link title="Oeste de La Palma" href="https://meteoalarm.org?geocode=EMMA_ID:ES127" hreflang="en"/>
+    <cap:areaDesc>Oeste de La Palma</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659304ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/017fbac6-43fd-47ae-8beb-b7f6efa0fb75"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/017fbac6-43fd-47ae-8beb-b7f6efa0fb75?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Oeste de La Palma</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES129</value>
+    </cap:geocode>
+    <link title="El Hierro" href="https://meteoalarm.org?geocode=EMMA_ID:ES129" hreflang="en"/>
+    <cap:areaDesc>El Hierro</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659501ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/43056d90-7004-44d8-a6b3-5d2cf9cabf50"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/43056d90-7004-44d8-a6b3-5d2cf9cabf50?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - El Hierro</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES125</value>
+    </cap:geocode>
+    <link title="Cumbres de La Palma" href="https://meteoalarm.org?geocode=EMMA_ID:ES125" hreflang="en"/>
+    <cap:areaDesc>Cumbres de La Palma</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659302ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/36a5089c-b47a-4270-a49a-51080dd66c22"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/36a5089c-b47a-4270-a49a-51080dd66c22?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Cumbres de La Palma</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES128</value>
+    </cap:geocode>
+    <link title="La Gomera" href="https://meteoalarm.org?geocode=EMMA_ID:ES128" hreflang="en"/>
+    <cap:areaDesc>La Gomera</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659401ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/f152a61a-9cc4-4011-9981-31011a59a6b5"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/f152a61a-9cc4-4011-9981-31011a59a6b5?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - La Gomera</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES123</value>
+    </cap:geocode>
+    <link title="Lanzarote" href="https://meteoalarm.org?geocode=EMMA_ID:ES123" hreflang="en"/>
+    <cap:areaDesc>Lanzarote</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659101ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/fee47f30-253f-48bb-86cc-84eacbae45e7"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/fee47f30-253f-48bb-86cc-84eacbae45e7?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Lanzarote</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES122</value>
+    </cap:geocode>
+    <link title="Este, sur y oeste de Gran Canaria" href="https://meteoalarm.org?geocode=EMMA_ID:ES122" hreflang="en"/>
+    <cap:areaDesc>Este, sur y oeste de Gran Canaria</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659004ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/00ff2785-f25f-43a8-a13b-7ae655b19e41"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/00ff2785-f25f-43a8-a13b-7ae655b19e41?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Este, sur y oeste de Gran Canaria</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES121</value>
+    </cap:geocode>
+    <link title="Cumbres de Gran Canaria" href="https://meteoalarm.org?geocode=EMMA_ID:ES121" hreflang="en"/>
+    <cap:areaDesc>Cumbres de Gran Canaria</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-25T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659003ATTA251842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/b20ce323-ddf0-4d99-b889-3f63a4dd1dac"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/b20ce323-ddf0-4d99-b889-3f63a4dd1dac?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Cumbres de Gran Canaria</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES121</value>
+    </cap:geocode>
+    <link title="Cumbres de Gran Canaria" href="https://meteoalarm.org?geocode=EMMA_ID:ES121" hreflang="en"/>
+    <cap:areaDesc>Cumbres de Gran Canaria</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-24T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:29:38+00:00</cap:effective>
+    <cap:onset>2026-09-24T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Expected</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924093209.659003ATTA241842329</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/5c9bc478-9165-4dff-973a-8c8859eb5003"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/5c9bc478-9165-4dff-973a-8c8859eb5003?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Cumbres de Gran Canaria</title>
+    <updated>2026-09-24T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES087</value>
+    </cap:geocode>
+    <link title="Litoral de Huelva" href="https://meteoalarm.org?geocode=EMMA_ID:ES087" hreflang="en"/>
+    <cap:areaDesc>Litoral de Huelva</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:14:08+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:11:27+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924091408.612103ATTA251741248</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/ca501d37-0d0b-459d-a212-563c7d146908"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:14:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/ca501d37-0d0b-459d-a212-563c7d146908?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Litoral de Huelva</title>
+    <updated>2026-09-24T09:14:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES079</value>
+    </cap:geocode>
+    <link title="Campiña cordobesa" href="https://meteoalarm.org?geocode=EMMA_ID:ES079" hreflang="en"/>
+    <cap:areaDesc>Campiña cordobesa</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:14:08+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:11:27+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924091408.611402ATTA251741248</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/4bc83c2e-10ba-4a2b-a1d3-d146cc936626"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:14:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/4bc83c2e-10ba-4a2b-a1d3-d146cc936626?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Campiña cordobesa</title>
+    <updated>2026-09-24T09:14:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES097</value>
+    </cap:geocode>
+    <link title="Campiña sevillana" href="https://meteoalarm.org?geocode=EMMA_ID:ES097" hreflang="en"/>
+    <cap:areaDesc>Campiña sevillana</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T09:14:08+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T09:11:27+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924091408.614102ATTA251741248</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/525804fe-c1fa-426e-a8ca-5613af2bcf01"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T09:14:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/525804fe-c1fa-426e-a8ca-5613af2bcf01?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Campiña sevillana</title>
+    <updated>2026-09-24T09:14:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES169</value>
+    </cap:geocode>
+    <link title="Serranía de Cuenca" href="https://meteoalarm.org?geocode=EMMA_ID:ES169" hreflang="en"/>
+    <cap:areaDesc>Serranía de Cuenca</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T08:34:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T08:31:41+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924083409.681602ATTA251738849</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/45041708-c98f-4428-9228-e427fafacecc"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T08:34:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/45041708-c98f-4428-9228-e427fafacecc?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Serranía de Cuenca</title>
+    <updated>2026-09-24T08:34:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES163</value>
+    </cap:geocode>
+    <link title="Hellín y Almansa" href="https://meteoalarm.org?geocode=EMMA_ID:ES163" hreflang="en"/>
+    <cap:areaDesc>Hellín y Almansa</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T08:34:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T08:31:41+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924083409.680203ATTA251738849</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/d5900d44-f5bb-4d43-bb42-c23e2a67c502"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T08:34:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/d5900d44-f5bb-4d43-bb42-c23e2a67c502?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Hellín y Almansa</title>
+    <updated>2026-09-24T08:34:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES107</value>
+    </cap:geocode>
+    <link title="Ribera del Ebro de Zaragoza" href="https://meteoalarm.org?geocode=EMMA_ID:ES107" hreflang="en"/>
+    <cap:areaDesc>Ribera del Ebro de Zaragoza</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T07:28:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T07:24:46+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924072809.625003ATTA251734889</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/3ad21b7c-2ec4-4f7c-b00c-c057f47fd2ce"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T07:28:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/3ad21b7c-2ec4-4f7c-b00c-c057f47fd2ce?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Ribera del Ebro de Zaragoza</title>
+    <updated>2026-09-24T07:28:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES099</value>
+    </cap:geocode>
+    <link title="Pirineo oscense" href="https://meteoalarm.org?geocode=EMMA_ID:ES099" hreflang="en"/>
+    <cap:areaDesc>Pirineo oscense</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T07:28:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T07:24:46+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924072809.622201ATTA251734889</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/5239d47a-3943-4fde-8671-20ec1efa1cdd"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T07:28:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/5239d47a-3943-4fde-8671-20ec1efa1cdd?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Pirineo oscense</title>
+    <updated>2026-09-24T07:28:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES189</value>
+    </cap:geocode>
+    <link title="Depresión central de Tarragona" href="https://meteoalarm.org?geocode=EMMA_ID:ES189" hreflang="en"/>
+    <cap:areaDesc>Depresión central de Tarragona</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T07:28:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T07:24:46+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924072809.694301ATTA251734889</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/9cabace4-7b67-471b-8917-81ea49c5a4c3"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T07:28:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/9cabace4-7b67-471b-8917-81ea49c5a4c3?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Depresión central de Tarragona</title>
+    <updated>2026-09-24T07:28:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES187</value>
+    </cap:geocode>
+    <link title="Pirineo de Lleida" href="https://meteoalarm.org?geocode=EMMA_ID:ES187" hreflang="en"/>
+    <cap:areaDesc>Pirineo de Lleida</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T07:28:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T07:24:46+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924072809.692502ATTA251734889</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/1d7e0142-51d6-4819-95e6-ece10e3cdf2a"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T07:28:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/1d7e0142-51d6-4819-95e6-ece10e3cdf2a?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Pirineo de Lleida</title>
+    <updated>2026-09-24T07:28:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES193</value>
+    </cap:geocode>
+    <link title="Prelitoral sur de Tarragona" href="https://meteoalarm.org?geocode=EMMA_ID:ES193" hreflang="en"/>
+    <cap:areaDesc>Prelitoral sur de Tarragona</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-24T07:28:09+00:00</cap:sent>
+    <cap:expires>2026-09-25T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-24T07:24:46+00:00</cap:effective>
+    <cap:onset>2026-09-25T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260924072809.694305ATTA251734889</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/467cbfcf-e2be-4cd9-9ffb-f3ad87cf75e5"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-24T07:28:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/467cbfcf-e2be-4cd9-9ffb-f3ad87cf75e5?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Prelitoral sur de Tarragona</title>
+    <updated>2026-09-24T07:28:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES199</value>
+    </cap:geocode>
+    <link title="Tajo y Alagón" href="https://meteoalarm.org?geocode=EMMA_ID:ES199" hreflang="en"/>
+    <cap:areaDesc>Tajo y Alagón</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T16:56:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T16:54:00+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923165608.701002ATTA241782568</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/b33c9b36-0abb-40cc-80e3-46394efea364"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T16:56:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/b33c9b36-0abb-40cc-80e3-46394efea364?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Tajo y Alagón</title>
+    <updated>2026-09-23T16:56:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES201</value>
+    </cap:geocode>
+    <link title="Villuercas y Montánchez" href="https://meteoalarm.org?geocode=EMMA_ID:ES201" hreflang="en"/>
+    <cap:areaDesc>Villuercas y Montánchez</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T16:56:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T16:54:00+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923165608.701004ATTA241782568</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/4bc5a229-cf0a-4849-be2c-329f2990f6e0"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T16:56:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/4bc5a229-cf0a-4849-be2c-329f2990f6e0?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Villuercas y Montánchez</title>
+    <updated>2026-09-23T16:56:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES198</value>
+    </cap:geocode>
+    <link title="Norte de Cáceres" href="https://meteoalarm.org?geocode=EMMA_ID:ES198" hreflang="en"/>
+    <cap:areaDesc>Norte de Cáceres</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T16:56:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T16:54:00+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923165608.701001ATTA241782568</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/7060b7c2-07df-4659-9cce-652ce83b670a"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T16:56:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/7060b7c2-07df-4659-9cce-652ce83b670a?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Norte de Cáceres</title>
+    <updated>2026-09-23T16:56:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES226</value>
+    </cap:geocode>
+    <link title="Vertiente cantábrica de Navarra" href="https://meteoalarm.org?geocode=EMMA_ID:ES226" hreflang="en"/>
+    <cap:areaDesc>Vertiente cantábrica de Navarra</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T16:44:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T16:42:14+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923164408.743101ATTA241781848</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/77d57217-243c-4df1-9be0-fe2ac8b4441c"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T16:44:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/77d57217-243c-4df1-9be0-fe2ac8b4441c?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Vertiente cantábrica de Navarra</title>
+    <updated>2026-09-23T16:44:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES122</value>
+    </cap:geocode>
+    <link title="Este, sur y oeste de Gran Canaria" href="https://meteoalarm.org?geocode=EMMA_ID:ES122" hreflang="en"/>
+    <cap:areaDesc>Este, sur y oeste de Gran Canaria</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T16:28:08+00:00</cap:sent>
+    <cap:expires>2026-09-23T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T16:24:46+00:00</cap:effective>
+    <cap:onset>2026-09-23T16:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Immediate</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923162808.659004ATTA231880888</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/85c9a991-6277-4852-b5c9-959fa87c0a20"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T16:28:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/85c9a991-6277-4852-b5c9-959fa87c0a20?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Este, sur y oeste de Gran Canaria</title>
+    <updated>2026-09-23T16:28:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES236</value>
+    </cap:geocode>
+    <link title="Bizkaia interior" href="https://meteoalarm.org?geocode=EMMA_ID:ES236" hreflang="en"/>
+    <cap:areaDesc>Bizkaia interior</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T11:50:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T10:52:45+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923115008.754802ATTA241764208</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/11a032a4-5914-4042-8174-ae8ee030162d"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T11:50:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/11a032a4-5914-4042-8174-ae8ee030162d?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Bizkaia interior</title>
+    <updated>2026-09-23T11:50:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES134</value>
+    </cap:geocode>
+    <link title="Liébana" href="https://meteoalarm.org?geocode=EMMA_ID:ES134" hreflang="en"/>
+    <cap:areaDesc>Liébana</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T11:50:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T10:52:45+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923115008.663902ATTA241764208</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/549e2d5c-882a-4751-91ce-fc6ffc0921e5"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T11:50:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/549e2d5c-882a-4751-91ce-fc6ffc0921e5?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Liébana</title>
+    <updated>2026-09-23T11:50:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES234</value>
+    </cap:geocode>
+    <link title="Gipuzkoa interior" href="https://meteoalarm.org?geocode=EMMA_ID:ES234" hreflang="en"/>
+    <cap:areaDesc>Gipuzkoa interior</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T11:50:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T10:52:45+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923115008.752002ATTA241764208</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/d033dc2f-fdcc-403a-b765-a7001a8fa350"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T11:50:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/d033dc2f-fdcc-403a-b765-a7001a8fa350?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Gipuzkoa interior</title>
+    <updated>2026-09-23T11:50:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES235</value>
+    </cap:geocode>
+    <link title="Bizkaia litoral" href="https://meteoalarm.org?geocode=EMMA_ID:ES235" hreflang="en"/>
+    <cap:areaDesc>Bizkaia litoral</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T11:50:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T10:52:45+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923115008.754801ATTA241764208</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/a1d42eca-5f20-49c1-b621-f19e35fe21b0"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T11:50:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/a1d42eca-5f20-49c1-b621-f19e35fe21b0?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Bizkaia litoral</title>
+    <updated>2026-09-23T11:50:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES110</value>
+    </cap:geocode>
+    <link title="Suroccidental asturiana" href="https://meteoalarm.org?geocode=EMMA_ID:ES110" hreflang="en"/>
+    <cap:areaDesc>Suroccidental asturiana</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T11:50:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T10:52:29+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923115008.633303ATTA241764208</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/7f362c77-503d-48c1-85d2-32876fa5d630"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T11:50:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/7f362c77-503d-48c1-85d2-32876fa5d630?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Suroccidental asturiana</title>
+    <updated>2026-09-23T11:50:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES194</value>
+    </cap:geocode>
+    <link title="Vegas del Guadiana" href="https://meteoalarm.org?geocode=EMMA_ID:ES194" hreflang="en"/>
+    <cap:areaDesc>Vegas del Guadiana</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T08:36:08+00:00</cap:sent>
+    <cap:expires>2026-09-23T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T08:33:05+00:00</cap:effective>
+    <cap:onset>2026-09-23T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923083608.700601ATTA231752568</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/d91b80fe-b8d5-4de2-a436-69ce9287a287"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T08:36:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/d91b80fe-b8d5-4de2-a436-69ce9287a287?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Vegas del Guadiana</title>
+    <updated>2026-09-23T08:36:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES194</value>
+    </cap:geocode>
+    <link title="Vegas del Guadiana" href="https://meteoalarm.org?geocode=EMMA_ID:ES194" hreflang="en"/>
+    <cap:areaDesc>Vegas del Guadiana</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T08:36:08+00:00</cap:sent>
+    <cap:expires>2026-09-24T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T08:33:05+00:00</cap:effective>
+    <cap:onset>2026-09-24T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923083608.700601ATTA241752568</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/935b9abb-ae54-4742-97f2-669b9b7f3f66"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T08:36:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/935b9abb-ae54-4742-97f2-669b9b7f3f66?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Vegas del Guadiana</title>
+    <updated>2026-09-23T08:36:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES201</value>
+    </cap:geocode>
+    <link title="Villuercas y Montánchez" href="https://meteoalarm.org?geocode=EMMA_ID:ES201" hreflang="en"/>
+    <cap:areaDesc>Villuercas y Montánchez</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T08:36:08+00:00</cap:sent>
+    <cap:expires>2026-09-23T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T08:33:05+00:00</cap:effective>
+    <cap:onset>2026-09-23T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923083608.701004ATTA231752568</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/934386b5-e99a-4f4e-8294-37f684aabab8"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T08:36:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/934386b5-e99a-4f4e-8294-37f684aabab8?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Villuercas y Montánchez</title>
+    <updated>2026-09-23T08:36:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES198</value>
+    </cap:geocode>
+    <link title="Norte de Cáceres" href="https://meteoalarm.org?geocode=EMMA_ID:ES198" hreflang="en"/>
+    <cap:areaDesc>Norte de Cáceres</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-23T08:36:08+00:00</cap:sent>
+    <cap:expires>2026-09-23T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-23T08:33:05+00:00</cap:effective>
+    <cap:onset>2026-09-23T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260923083608.701001ATTA231752568</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/68f8bb03-ec1e-4fa3-ba97-8591a21bfe37"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-23T08:36:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/68f8bb03-ec1e-4fa3-ba97-8591a21bfe37?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Norte de Cáceres</title>
+    <updated>2026-09-23T08:36:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES097</value>
+    </cap:geocode>
+    <link title="Campiña sevillana" href="https://meteoalarm.org?geocode=EMMA_ID:ES097" hreflang="en"/>
+    <cap:areaDesc>Campiña sevillana</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-22T16:56:08+00:00</cap:sent>
+    <cap:expires>2026-09-23T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-22T16:51:44+00:00</cap:effective>
+    <cap:onset>2026-09-23T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260922165608.614102ATTA231796168</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/65e3c54f-caa3-464f-967c-0c6142a0f234"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-22T16:56:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/65e3c54f-caa3-464f-967c-0c6142a0f234?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Campiña sevillana</title>
+    <updated>2026-09-22T16:56:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES217</value>
+    </cap:geocode>
+    <link title="Miño de Pontevedra" href="https://meteoalarm.org?geocode=EMMA_ID:ES217" hreflang="en"/>
+    <cap:areaDesc>Miño de Pontevedra</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-22T16:20:10+00:00</cap:sent>
+    <cap:expires>2026-09-23T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-22T16:17:16+00:00</cap:effective>
+    <cap:onset>2026-09-23T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260922162010.713603ATTA231794010</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/801d7bbd-1f8d-4a1e-b85a-d0d7b592eca1"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-22T16:20:10Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/801d7bbd-1f8d-4a1e-b85a-d0d7b592eca1?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Miño de Pontevedra</title>
+    <updated>2026-09-22T16:20:10Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES124</value>
+    </cap:geocode>
+    <link title="Fuerteventura" href="https://meteoalarm.org?geocode=EMMA_ID:ES124" hreflang="en"/>
+    <cap:areaDesc>Fuerteventura</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-22T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-23T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-22T09:28:29+00:00</cap:effective>
+    <cap:onset>2026-09-23T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260922093209.659201ATTA231869529</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/2a4c9227-50fe-4f9a-b5ab-af7a690c6228"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-22T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/2a4c9227-50fe-4f9a-b5ab-af7a690c6228?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Fuerteventura</title>
+    <updated>2026-09-22T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES123</value>
+    </cap:geocode>
+    <link title="Lanzarote" href="https://meteoalarm.org?geocode=EMMA_ID:ES123" hreflang="en"/>
+    <cap:areaDesc>Lanzarote</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-22T09:32:09+00:00</cap:sent>
+    <cap:expires>2026-09-23T17:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-22T09:28:29+00:00</cap:effective>
+    <cap:onset>2026-09-23T10:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260922093209.659101ATTA231869529</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/418f1733-6b25-4ced-9a30-d01eb674a927"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-22T09:32:09Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/418f1733-6b25-4ced-9a30-d01eb674a927?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Lanzarote</title>
+    <updated>2026-09-22T09:32:09Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES211</value>
+    </cap:geocode>
+    <link title="Miño de Ourense" href="https://meteoalarm.org?geocode=EMMA_ID:ES211" hreflang="en"/>
+    <cap:areaDesc>Miño de Ourense</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-22T08:58:08+00:00</cap:sent>
+    <cap:expires>2026-09-23T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-22T08:54:36+00:00</cap:effective>
+    <cap:onset>2026-09-23T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Update</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260922085808.713202ATTA231767488</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/9ac901af-e8ef-417d-9272-35fb9392a38b"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-22T08:58:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/9ac901af-e8ef-417d-9272-35fb9392a38b?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Miño de Ourense</title>
+    <updated>2026-09-22T08:58:08Z</updated>
+  </entry>
+  <entry>
+    <cap:geocode>
+      <valueName>EMMA_ID</valueName>
+      <value>ES205</value>
+    </cap:geocode>
+    <link title="Suroeste de A Coruña" href="https://meteoalarm.org?geocode=EMMA_ID:ES205" hreflang="en"/>
+    <cap:areaDesc>Suroeste de A Coruña</cap:areaDesc>
+    <cap:event>Moderate high-temperature warning</cap:event>
+    <cap:sent>2026-09-22T08:58:08+00:00</cap:sent>
+    <cap:expires>2026-09-23T16:59:59+00:00</cap:expires>
+    <cap:effective>2026-09-22T08:54:36+00:00</cap:effective>
+    <cap:onset>2026-09-23T11:00:00+00:00</cap:onset>
+    <cap:certainty>Likely</cap:certainty>
+    <cap:severity>Moderate</cap:severity>
+    <cap:urgency>Future</cap:urgency>
+    <cap:scope>Public</cap:scope>
+    <cap:message_type>Alert</cap:message_type>
+    <cap:status>Actual</cap:status>
+    <cap:identifier>2.49.0.0.724.0.ES.260922085808.711504ATTA231767488</cap:identifier>
+    <link type="application/cap+xml" href="https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/bd7f9161-f1c6-415a-911c-0286c67b7d08"/>
+    <link title="Spain" rel="related" href="https://meteoalarm.org?region=ES" hreflang="en"/>
+    <author>
+      <name>meteoalarm.org</name>
+      <uri>https://meteoalarm.org</uri>
+    </author>
+    <published>2026-09-22T08:58:08Z</published>
+    <id>https://feeds.meteoalarm.org/api/v1/warnings/feeds-spain/bd7f9161-f1c6-415a-911c-0286c67b7d08?index_info=1&amp;index_area=0&amp;index_geocode=0</id>
+    <title>Yellow High-temperature Warning issued for Spain - Suroeste de A Coruña</title>
+    <updated>2026-09-22T08:58:08Z</updated>
+  </entry>
+</feed>

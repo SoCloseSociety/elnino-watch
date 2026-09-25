@@ -1,0 +1,1542 @@
+{
+ "openapi": "3.0.0",
+ "paths": {
+  "/webcams/api/v3/map/clusters": {
+   "get": {
+    "description": "\n<p>\n    For each zoom level, the returned webcams are arranged in such a way that they are nicely distributed and not too close to each other on the map.<br/>\n    The zoom levels correspond to those provided by the <a href=\"https://www.maptiler.com/google-maps-coordinates-tile-bounds-projection\" >Google MapTiler</a>.\n</p>\n<h3>\n    Maximum ranges for latitudes and longitudes at specified zoom levels:\n</h3>\n<p>\n    The maximum range of the bounding box is constrained by the chosen zoom level. At the highest zoom level (level 4), the difference in latitude cannot exceed 22.5 degrees (45 degrees for longitude).\n    Each lower zoom level reduces this limit by a factor of 2\n</p>\n\n<table id='ranges-table'>\n    <thead>\n        <tr>\n            <th>Zoom</th>\n            <th>Latitude</th>\n            <th>Longitude</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr> \n                <td>4</td>\n                <td>22.5</td>\n                <td>45</td>\n            </tr><tr> \n                <td>5</td>\n                <td>11.25</td>\n                <td>22.5</td>\n            </tr><tr> \n                <td>6</td>\n                <td>5.625</td>\n                <td>11.25</td>\n            </tr><tr> \n                <td>7</td>\n                <td>2.813</td>\n                <td>5.625</td>\n            </tr>\n            <tr>\n                <td>...</td>\n                <td>...</td>\n                <td>...</td>\n            </tr>\n    </tbody>\n</table>\n",
+    "operationId": "WebcamClusterController_getMapClusters",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     },
+     {
+      "name": "northLat",
+      "required": true,
+      "in": "query",
+      "description": "### Latitude (WGS84) of the north-east corner of the bounding box.\n- **Range**: *-90 to 90*",
+      "schema": {
+       "minimum": -90,
+       "maximum": 90,
+       "type": "number"
+      }
+     },
+     {
+      "name": "southLat",
+      "required": true,
+      "in": "query",
+      "description": "### Latitude (WGS84) of the south-west corner of the bounding box.\n- **Range**: *-90 to 90*",
+      "schema": {
+       "minimum": -90,
+       "maximum": 90,
+       "type": "number"
+      }
+     },
+     {
+      "name": "eastLon",
+      "required": true,
+      "in": "query",
+      "description": "### Longitude (WGS84) of the north-east corner of the bounding box.\n- **Range**: *-180 to 180*",
+      "schema": {
+       "minimum": -180,
+       "maximum": 180,
+       "type": "number"
+      }
+     },
+     {
+      "name": "westLon",
+      "required": true,
+      "in": "query",
+      "description": "### Longitude (WGS84) of the south-west corner of the bounding box.\n- **Range**: *-180 to 180*",
+      "schema": {
+       "minimum": -180,
+       "maximum": 180,
+       "type": "number"
+      }
+     },
+     {
+      "name": "zoom",
+      "required": true,
+      "in": "query",
+      "description": "### Specify the zoom level of the map.\n- **Range**: *4 to 18*",
+      "schema": {
+       "minimum": 4,
+       "maximum": 18,
+       "type": "integer"
+      }
+     },
+     {
+      "name": "include",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the content to be displayed in the result by defining the desired parts of the webcam feed.",
+      "schema": {
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string",
+        "enum": [
+         "categories",
+         "images",
+         "location",
+         "player",
+         "urls"
+        ]
+       }
+      },
+      "explode": false
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "array",
+         "items": {
+          "$ref": "#/components/schemas/PublicApiWebcamResponseDto"
+         }
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns a list of webcams optimized for displaying on a map for a given bounding box and zoom level",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/api/v3/webcams/{webcamId}": {
+   "get": {
+    "operationId": "WebcamsController_getWebcam",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     },
+     {
+      "name": "include",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the content to be displayed in the result by defining the desired parts of the webcam feed.",
+      "schema": {
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string",
+        "enum": [
+         "categories",
+         "images",
+         "location",
+         "player",
+         "urls"
+        ]
+       }
+      },
+      "explode": false
+     },
+     {
+      "name": "webcamId",
+      "required": true,
+      "in": "path",
+      "description": "Webcam ID.",
+      "schema": {
+       "type": "integer"
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/PublicApiWebcamResponseDto"
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Return a single webcam by its ID",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/api/v3/webcams": {
+   "get": {
+    "description": "The API restricts the maximum number of webcams returned when using offset/limit pagination, based on the current tier of the subscription.",
+    "operationId": "WebcamsController_getWebcams",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     },
+     {
+      "name": "limit",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the maximum number of webcams to include in the returned list.\n- **Range**: *0 to 50*",
+      "schema": {
+       "minimum": 0,
+       "maximum": 50,
+       "default": 10,
+       "type": "integer"
+      }
+     },
+     {
+      "name": "offset",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the starting position for pagination.\n- **Minimum**: *0*\n- **Maximum (for free API tier)**: *1000*\n- **Maximum (for professional API tier)**: *10000*",
+      "schema": {
+       "minimum": 0,
+       "maximum": 100000,
+       "default": 0,
+       "type": "integer"
+      }
+     },
+     {
+      "name": "categoryOperation",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the operator to be used for categories (either `and` or `or`)..\n- The `categories` parameter is required for this operation.\n- The default value is `and`.",
+      "schema": {
+       "type": "string",
+       "enum": [
+        "and",
+        "or"
+       ]
+      }
+     },
+     {
+      "name": "sortKey",
+      "required": false,
+      "in": "query",
+      "description": "### Returns a sorted list of webcams based on the specified order.",
+      "schema": {
+       "type": "string",
+       "enum": [
+        "popularity",
+        "createdOn"
+       ]
+      }
+     },
+     {
+      "name": "sortDirection",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired sort direction.",
+      "schema": {
+       "type": "string",
+       "enum": [
+        "asc",
+        "desc"
+       ]
+      }
+     },
+     {
+      "name": "bbox",
+      "required": false,
+      "in": "query",
+      "description": "### Retrieves a list of webcams within the specified geographic bounding box.\n- **Use the following format for the bounding box coordinates:**\n  - **Format**: `{north_latitude},{east_longitude},{south_latitude},{west_longitude}`\n  - **Example**: <code><span>45.90,6.11,40.50,3.62</span></code>\n- **Latitude range**: *-90 to 90*\n- **Longitude range**: *-180 to 180*\n",
+      "schema": {
+       "pattern": "^(-?\\d+(\\.\\d+)?,){3}-?\\d+(\\.\\d+)?$",
+       "type": "string"
+      }
+     },
+     {
+      "name": "nearby",
+      "required": false,
+      "in": "query",
+      "description": "### Retrieves a list of webcams within a specified radius (in kilometers) around a given location.\n- **Use the following format for the nearby coordinates and radius:**\n  - **Format**: `{latitude},{longitude},{radius}`\n  - **Example**: <code><span>446.54,7.98,5</span></code>\n- **Latitude range**: *-90 to 90*\n- **Longitude range**: *-180 to 180*\n- **Maximal radius**: *250km*",
+      "schema": {
+       "pattern": "^(-?\\d+(\\.\\d+)?,){2}\\d+(\\.\\d+)?$",
+       "type": "string"
+      }
+     },
+     {
+      "name": "categories",
+      "required": false,
+      "in": "query",
+      "description": "### Returns a list of webcams based on the specified categories..\n- **Maximum number of categories**: *10*",
+      "schema": {
+       "maxItems": 10,
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string",
+        "enum": [
+         "airport",
+         "beach",
+         "building",
+         "city",
+         "coast",
+         "forest",
+         "indoor",
+         "lake",
+         "landscape",
+         "meteo",
+         "mountain",
+         "observatory",
+         "port",
+         "river",
+         "sportArea",
+         "square",
+         "traffic",
+         "village"
+        ]
+       }
+      },
+      "explode": false
+     },
+     {
+      "name": "continents",
+      "required": false,
+      "in": "query",
+      "description": "### Returns a list of webcams located in continents specified by their continent geo codes.\n- Continent geo codes can be obtained by using `/continents` endpoint\n- **Maximum number of continents**: *2*",
+      "schema": {
+       "maxItems": 2,
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string",
+        "enum": [
+         "AF",
+         "AN",
+         "AS",
+         "EU",
+         "NA",
+         "OC",
+         "SA"
+        ]
+       }
+      },
+      "explode": false
+     },
+     {
+      "name": "countries",
+      "required": false,
+      "in": "query",
+      "description": "### Returns a list of webcams located in countries specified by their country geo codes.\n- Country geo codes can be obtained by using `/countries` endpoint\n- **Maximum number of countries**: *10*",
+      "explode": false,
+      "schema": {
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string"
+       }
+      }
+     },
+     {
+      "name": "regions",
+      "required": false,
+      "in": "query",
+      "description": "### Returns a list of webcams located in regions specified by their region geo codes.\n- Region geo codes can be obtained by using `/regions` endpoint\n- **Maximum number of regions**: *10*",
+      "explode": false,
+      "schema": {
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string"
+       }
+      }
+     },
+     {
+      "name": "cities",
+      "required": false,
+      "in": "query",
+      "schema": {
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string"
+       }
+      }
+     },
+     {
+      "name": "webcamIds",
+      "required": false,
+      "in": "query",
+      "description": "### Returns a list of webcams based on webcam ids\n**If webcamIds filter is set, no other filters are applied**\n- **Maximum number of webcams**: *50*",
+      "explode": false,
+      "schema": {
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "integer"
+       }
+      }
+     },
+     {
+      "name": "include",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the content to be displayed in the result by defining the desired parts of the webcam feed.",
+      "schema": {
+       "uniqueItems": true,
+       "type": "array",
+       "items": {
+        "type": "string",
+        "enum": [
+         "categories",
+         "images",
+         "location",
+         "player",
+         "urls"
+        ]
+       }
+      },
+      "explode": false
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/WebcamsResponseDto"
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns a list of webcams according to the applied modifiers",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/api/v3/categories": {
+   "get": {
+    "description": "example of use as a filter: `/webcams/api/v3/webcams?categories=beach`",
+    "operationId": "CategoriesController_getCategories",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "array",
+         "items": {
+          "$ref": "#/components/schemas/CategoryResponseDto"
+         }
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns a list of categories that are utilized for webcam filtering",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/export/all-webcams.json": {
+   "get": {
+    "description": "Exclusive to our professional API tier.\nPlease note that the documentation results are simulated using mock data for reference purposes.",
+    "operationId": "ExportsController_getAllWebcams",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/PublicApiExportWebcamsResponseDto"
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns json file including basic information about all webcams",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/api/v3/continents": {
+   "get": {
+    "description": "example of use as a filter: `/webcams/api/v3/webcams?continents=US`",
+    "operationId": "GeoController_getContinents",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "array",
+         "items": {
+          "$ref": "#/components/schemas/GeoResponseDto"
+         }
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns a list of geo codes representing specific continents that are utilized for webcam filtering",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/api/v3/countries": {
+   "get": {
+    "description": "example of use as a filter: `/webcams/api/v3/webcams?countries=NO`",
+    "operationId": "GeoController_getCountries",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "array",
+         "items": {
+          "$ref": "#/components/schemas/GeoResponseDto"
+         }
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns a list of geo codes representing specific countries that are utilized for webcam filtering",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/api/v3/regions": {
+   "get": {
+    "description": "example of use as a filter: `/webcams/api/v3/webcams?regions=ES.51`",
+    "operationId": "GeoController_getRegions",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "array",
+         "items": {
+          "$ref": "#/components/schemas/GeoResponseDto"
+         }
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns a list of geo codes representing specific regions that are utilized for webcam filtering",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  },
+  "/webcams/api/v3/cities": {
+   "get": {
+    "description": "example of use as a filter: `/webcams/api/v3/webcams?regions=ES.51`",
+    "operationId": "GeoController_getCities",
+    "parameters": [
+     {
+      "name": "lang",
+      "required": false,
+      "in": "query",
+      "description": "### Specify the desired language for translating the results, if supported.",
+      "schema": {
+       "default": "en",
+       "type": "string",
+       "enum": [
+        "ar",
+        "bg",
+        "bn",
+        "ca",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hr",
+        "hu",
+        "id",
+        "is",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sq",
+        "sr",
+        "sv",
+        "ta",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh",
+        "zh-TW"
+       ]
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "array",
+         "items": {
+          "$ref": "#/components/schemas/GeoResponseDto"
+         }
+        }
+       }
+      }
+     }
+    },
+    "security": [
+     {
+      "public-api-key": []
+     }
+    ],
+    "summary": "Returns a list of geo codes representing specific regions that are utilized for webcam filtering",
+    "tags": [
+     "Webcams API V3"
+    ]
+   }
+  }
+ },
+ "info": {
+  "title": "Webcams API",
+  "description": "<section id='top-section'></section>",
+  "version": "3.0",
+  "contact": {}
+ },
+ "tags": [],
+ "servers": [],
+ "components": {
+  "securitySchemes": {
+   "public-api-key": {
+    "type": "apiKey",
+    "in": "header",
+    "name": "x-windy-api-key",
+    "description": "Insert your API key from https://api.windy.com/keys"
+   }
+  },
+  "schemas": {
+   "WebcamCategoriesDto": {
+    "type": "object",
+    "properties": {
+     "id": {
+      "enum": [
+       "airport",
+       "beach",
+       "building",
+       "city",
+       "coast",
+       "forest",
+       "indoor",
+       "lake",
+       "landscape",
+       "meteo",
+       "mountain",
+       "observatory",
+       "port",
+       "river",
+       "sportArea",
+       "square",
+       "traffic",
+       "village"
+      ],
+      "type": "string",
+      "description": "The category ID to be used as a filter.",
+      "example": "landscape"
+     },
+     "name": {
+      "type": "string",
+      "description": "The localized name of the category.",
+      "example": "Outdoor"
+     }
+    },
+    "required": [
+     "id",
+     "name"
+    ]
+   },
+   "WebcamImagesDto": {
+    "type": "object",
+    "properties": {
+     "current": {
+      "type": "object"
+     },
+     "daylight": {
+      "type": "object"
+     },
+     "sizes": {
+      "type": "object",
+      "additionalProperties": true
+     }
+    },
+    "required": [
+     "current",
+     "daylight",
+     "sizes"
+    ]
+   },
+   "WebcamLocationDto": {
+    "type": "object",
+    "properties": {
+     "latitude": {
+      "type": "number",
+      "description": "Latitude of the webcam in WGS84 coordinate system.",
+      "example": -33.84903
+     },
+     "longitude": {
+      "type": "number",
+      "description": "Longitude of the webcam in WGS84 coordinate system.",
+      "example": 151.21559
+     },
+     "city": {
+      "type": "string",
+      "description": "The translated name of the city in the desired language.",
+      "example": "Sydney"
+     },
+     "city_code": {
+      "type": "string",
+      "description": "The geocode representing the city. It can be utilized as a modifier for the city filter.",
+      "example": ""
+     },
+     "region": {
+      "type": "string",
+      "description": "The translated name of the region in the desired language.",
+      "example": "New South Wales"
+     },
+     "region_code": {
+      "type": "string",
+      "description": "The geocode representing the region. It can be utilized as a modifier for the regions filter.",
+      "example": "AU.02"
+     },
+     "country": {
+      "type": "string",
+      "description": "The translated name of the country in the desired language.",
+      "example": "Australia"
+     },
+     "country_code": {
+      "type": "string",
+      "description": "The geocode representing the country. It can be utilized as a modifier for the countries filter.",
+      "example": "AU"
+     },
+     "continent": {
+      "type": "string",
+      "description": "The translated name of the continent in the desired language.",
+      "example": "Oceania"
+     },
+     "continent_code": {
+      "type": "string",
+      "description": "The geocode representing the continent. It can be utilized as a modifier for the continents filter.",
+      "example": "OC"
+     }
+    },
+    "required": [
+     "latitude",
+     "longitude",
+     "city",
+     "region",
+     "country",
+     "continent"
+    ]
+   },
+   "WebcamPlayerUrlsDto": {
+    "type": "object",
+    "properties": {
+     "live": {
+      "type": "string",
+      "description": "Link that allows embedding the live stream of this webcam into a website (using iframe) or app (using WebView on Android or UIWebView on iOS).",
+      "example": "https://webcams.windy.com/webcams/public//player?webcamId=1179853135&playerType=live"
+     },
+     "day": {
+      "type": "string",
+      "description": "Link that allows embedding the daily timelapse of this webcam into a website (using iframe) or app (using WebView on Android or UIWebView on iOS).",
+      "example": "https://webcams.windy.com/webcams/public//player?webcamId=1179853135&playerType=day"
+     },
+     "month": {
+      "type": "string",
+      "description": "Link that allows embedding the monthly timelapse of this webcam into a website (using iframe) or app (using WebView on Android or UIWebView on iOS).",
+      "example": "https://webcams.windy.com/webcams/public//player?webcamId=1179853135&playerType=month"
+     },
+     "year": {
+      "type": "string",
+      "description": "Link that allows embedding the yearly timelapse of this webcam into a website (using iframe) or app (using WebView on Android or UIWebView on iOS).",
+      "example": "https://webcams.windy.com/webcams/public//player?webcamId=1179853135&playerType=year"
+     },
+     "lifetime": {
+      "type": "string",
+      "description": "Link that allows embedding the lifetime timelapse of this webcam into a website (using iframe) or app (using WebView on Android or UIWebView on iOS).",
+      "example": "https://webcams.windy.com/webcams/public//player?webcamId=1179853135&playerType=lifetime"
+     }
+    },
+    "required": [
+     "day",
+     "month",
+     "year",
+     "lifetime"
+    ]
+   },
+   "WebcamUrlsDto": {
+    "type": "object",
+    "properties": {
+     "detail": {
+      "type": "string",
+      "description": "URL linking to the view of the webcam at windy.com.",
+      "example": "https://webcams.windy.com/webcams/1179853135"
+     },
+     "edit": {
+      "type": "string",
+      "description": "URL for providing feedback to the webcam.",
+      "example": "https://webcams-admin.windy.com/webcams/1179853135"
+     },
+     "provider": {
+      "type": "string",
+      "description": "Webcam provider URL"
+     }
+    },
+    "required": [
+     "detail",
+     "edit",
+     "provider"
+    ]
+   },
+   "PublicApiWebcamResponseDto": {
+    "type": "object",
+    "properties": {
+     "webcamId": {
+      "type": "number",
+      "description": "The unique identifier for this webcam. Can be used for calling the `/webcams/:webcamId` endpoint.",
+      "example": 1179853135
+     },
+     "title": {
+      "type": "string",
+      "description": "Title of the webcam.",
+      "example": "Sydney: Sydney Harbour Bridge - Sydney Opera House"
+     },
+     "status": {
+      "enum": [
+       "active",
+       "inactive",
+       "unapproved",
+       "disabled",
+       "rejected",
+       "duplicate",
+       "merged"
+      ],
+      "type": "string",
+      "description": "Status of the webcam.",
+      "example": "active"
+     },
+     "viewCount": {
+      "type": "number",
+      "description": "View count of this webcam since it was added to windy.com.",
+      "example": 1282618
+     },
+     "lastUpdatedOn": {
+      "type": "string",
+      "description": "Timestamp of the most recent webcam update, formatted according to the ISO 8601 standard.",
+      "example": "2012-03-08T12:17:24.000Z"
+     },
+     "clusterSize": {
+      "type": "number",
+      "description": "Indicates the count of webcams in the cluster that are represented by this webcam.",
+      "example": 300
+     },
+     "categories": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/WebcamCategoriesDto"
+      }
+     },
+     "images": {
+      "$ref": "#/components/schemas/WebcamImagesDto"
+     },
+     "location": {
+      "$ref": "#/components/schemas/WebcamLocationDto"
+     },
+     "player": {
+      "$ref": "#/components/schemas/WebcamPlayerUrlsDto"
+     },
+     "urls": {
+      "$ref": "#/components/schemas/WebcamUrlsDto"
+     }
+    },
+    "required": [
+     "webcamId",
+     "title",
+     "status",
+     "viewCount",
+     "lastUpdatedOn"
+    ]
+   },
+   "WebcamDto": {
+    "type": "object",
+    "properties": {
+     "webcamId": {
+      "type": "number",
+      "description": "The unique identifier for this webcam. Can be used for calling the `/webcams/:webcamId` endpoint.",
+      "example": 1179853135
+     },
+     "title": {
+      "type": "string",
+      "description": "Title of the webcam.",
+      "example": "Sydney: Sydney Harbour Bridge - Sydney Opera House"
+     },
+     "status": {
+      "enum": [
+       "active",
+       "inactive",
+       "unapproved",
+       "disabled",
+       "rejected",
+       "duplicate",
+       "merged"
+      ],
+      "type": "string",
+      "description": "Status of the webcam.",
+      "example": "active"
+     },
+     "viewCount": {
+      "type": "number",
+      "description": "View count of this webcam since it was added to windy.com.",
+      "example": 1282618
+     },
+     "lastUpdatedOn": {
+      "type": "string",
+      "description": "Timestamp of the most recent webcam update, formatted according to the ISO 8601 standard.",
+      "example": "2012-03-08T12:17:24.000Z"
+     },
+     "categories": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/WebcamCategoriesDto"
+      }
+     },
+     "images": {
+      "$ref": "#/components/schemas/WebcamImagesDto"
+     },
+     "location": {
+      "$ref": "#/components/schemas/WebcamLocationDto"
+     },
+     "player": {
+      "$ref": "#/components/schemas/WebcamPlayerUrlsDto"
+     },
+     "urls": {
+      "$ref": "#/components/schemas/WebcamUrlsDto"
+     }
+    },
+    "required": [
+     "webcamId",
+     "title",
+     "status",
+     "viewCount",
+     "lastUpdatedOn"
+    ]
+   },
+   "WebcamsResponseDto": {
+    "type": "object",
+    "properties": {
+     "total": {
+      "type": "number",
+      "description": "The total count of webcams based on the specified filters.",
+      "example": 1
+     },
+     "webcams": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/WebcamDto"
+      }
+     }
+    },
+    "required": [
+     "total",
+     "webcams"
+    ]
+   },
+   "CategoryResponseDto": {
+    "type": "object",
+    "properties": {
+     "id": {
+      "enum": [
+       "airport",
+       "beach",
+       "building",
+       "city",
+       "coast",
+       "forest",
+       "indoor",
+       "lake",
+       "landscape",
+       "meteo",
+       "mountain",
+       "observatory",
+       "port",
+       "river",
+       "sportArea",
+       "square",
+       "traffic",
+       "village"
+      ],
+      "type": "string",
+      "description": "Category ID, can be used as filter.",
+      "example": "beach"
+     },
+     "name": {
+      "type": "string",
+      "description": "The localized name of the category.",
+      "example": "Beach"
+     }
+    },
+    "required": [
+     "id",
+     "name"
+    ]
+   },
+   "PublicApiExportWebcamsItemResponseDto": {
+    "type": "object",
+    "properties": {
+     "status": {
+      "enum": [
+       "active",
+       "inactive",
+       "unapproved",
+       "disabled",
+       "rejected",
+       "duplicate",
+       "merged"
+      ],
+      "type": "string"
+     },
+     "webcamId": {
+      "type": "number"
+     },
+     "title": {
+      "type": "string"
+     },
+     "viewCount": {
+      "type": "number"
+     },
+     "preview": {
+      "type": "string"
+     },
+     "hasPanorama": {
+      "type": "boolean"
+     },
+     "hasLivestream": {
+      "type": "boolean"
+     },
+     "categories": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "location": {
+      "type": "object",
+      "properties": {
+       "latitude": {
+        "type": "number"
+       },
+       "longitude": {
+        "type": "number"
+       },
+       "regionCode": {
+        "type": "string"
+       },
+       "countryCode": {
+        "type": "string"
+       },
+       "continentCode": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "latitude",
+       "longitude"
+      ]
+     }
+    },
+    "required": [
+     "status",
+     "webcamId",
+     "title",
+     "viewCount",
+     "preview",
+     "hasPanorama",
+     "hasLivestream",
+     "categories",
+     "location"
+    ]
+   },
+   "PublicApiExportWebcamsResponseDto": {
+    "type": "object",
+    "properties": {
+     "updatedOn": {
+      "type": "string"
+     },
+     "webcams": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/PublicApiExportWebcamsItemResponseDto"
+      }
+     }
+    },
+    "required": [
+     "updatedOn",
+     "webcams"
+    ]
+   },
+   "GeoResponseDto": {
+    "type": "object",
+    "properties": {
+     "code": {
+      "type": "string",
+      "description": "Geocode parameter that can be utilized as a filtering criterion."
+     },
+     "name": {
+      "type": "string",
+      "description": "The name of the location in the local language."
+     }
+    },
+    "required": [
+     "code",
+     "name"
+    ]
+   }
+  }
+ }
+}

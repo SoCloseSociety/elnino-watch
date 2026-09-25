@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 SoClose Society (https://soclose.co)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Data notice (not part of the MIT licence above)
+
+This licence covers the source code of El Nino Watch only. The data the
+application fetches, stores and displays (ENSO indices, bulletins, forecasts,
+buoy measurements, satellite products, disaster alerts, news headlines, social
+posts, webcam frames, map tiles, ...) belongs to its providers (NOAA, NASA,
+Open-Meteo, Copernicus / ECMWF, the Australian Bureau of Meteorology, JMA, IRI,
+WMO, GDACS, the Thai Meteorological Department and the others listed in
+docs/DATA_SOURCES.md) and remains under each provider's own terms and licence.
+Nothing in this repository grants any right to that data. The test fixtures
+under backend/tests/fixtures are small captured samples of those providers'
+public responses, kept only so the parsers can be tested offline.
+
+El Nino Watch is not an official warning service. See the "Limitations and
+disclaimer" section of README.md.

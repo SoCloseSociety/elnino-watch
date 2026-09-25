@@ -1,0 +1,51 @@
+name: Bug report
+description: Something is wrong, broken or misleading (a wrong number is the most useful report).
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. If a value shown by the app differs from its source, please include the source URL and the time you checked: that is the fastest kind of bug to fix.
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where
+      options:
+        - Live site (https://elnino.soclose.co)
+        - My own install (local)
+        - My own install (public mode / VPS)
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page or endpoint
+      placeholder: "/samui, /map?layer=sst_anomaly, GET /api/local ..."
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, what you expected. For a wrong number, give both values with their dates.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Upstream source (for data bugs)
+      placeholder: "https://www.cpc.ncep.noaa.gov/... shows +1.80 for JJA 2026 at 2026-09-25 10:00 UTC"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. open ... 2. click ... 3. see ..."
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment (own install only)
+      placeholder: "OS, Python version, Node version, commit, PUBLIC_MODE, browser"
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots, console errors, logs

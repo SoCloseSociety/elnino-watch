@@ -1,0 +1,49 @@
+# /etc/systemd/system/elnino-watch.service -- installed by ops/deploy/first_setup.sh
+[Unit]
+Description=El Nino Watch (FastAPI API + in-process collectors)
+After=network-online.target
+Wants=network-online.target
+StartLimitIntervalSec=300
+StartLimitBurst=10
+
+[Service]
+Type=simple
+User=elnino
+Group=elnino
+EnvironmentFile=/opt/elnino/.env
+Environment=PYTHONUNBUFFERED=1 PYTHONDONTWRITEBYTECODE=1 HOME=/opt/elnino/data
+WorkingDirectory=/opt/elnino/app/backend
+# ONE worker: the scheduler lives in-process (app.main lifespan); 2 workers = every
+# collector runs twice and SQLite gets two writers.
+ExecStart=/opt/elnino/venv/bin/python -m uvicorn app.main:app \
+    --host 127.0.0.1 --port ${PORT} --workers 1 \
+    --proxy-headers --forwarded-allow-ips 127.0.0.1 --no-server-header --log-level info
+Restart=always
+RestartSec=5
+TimeoutStopSec=20
+MemoryHigh=450M
+MemoryMax=550M
+TasksMax=256
+StandardOutput=append:/var/log/elnino-watch.log
+StandardError=append:/var/log/elnino-watch.log
+
+# Hardening: code + venv are root-owned and read-only; the service writes only data/.
+NoNewPrivileges=yes
+UMask=0027
+ProtectSystem=strict
+ReadWritePaths=/opt/elnino/data
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictSUIDSGID=yes
+RestrictNamespaces=yes
+LockPersonality=yes
+RestrictRealtime=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+SystemCallArchitectures=native
+
+[Install]
+WantedBy=multi-user.target

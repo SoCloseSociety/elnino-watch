@@ -1,0 +1,64 @@
+name: Data source request
+description: Propose a new source (index, bulletin, buoy, satellite product, feed, webcam) or a new map layer.
+labels: ["data-source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every source in this project is free and keyless first, polled at the rate it really updates, and shipped with a plain-English help topic. Please help us check those three things.
+  - type: input
+    id: name
+    attributes:
+      label: Provider and product
+      placeholder: "NOAA PSL, Outgoing Longwave Radiation index"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Data URL (the file / API endpoint, not only the landing page)
+    validations:
+      required: true
+  - type: input
+    id: terms
+    attributes:
+      label: Terms / licence page
+      placeholder: "https://... (public domain, CC BY, API terms, ...)"
+    validations:
+      required: true
+  - type: dropdown
+    id: access
+    attributes:
+      label: Access
+      options:
+        - Free and keyless
+        - Free with an API key
+        - Paid
+    validations:
+      required: true
+  - type: input
+    id: update
+    attributes:
+      label: How often does it update?
+      placeholder: "monthly around the 10th, daily at 12 UTC, every 10 min ..."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters for ENSO or for Koh Samui / Thailand
+      description: What question would it answer that the current sources do not?
+    validations:
+      required: true
+  - type: textarea
+    id: format
+    attributes:
+      label: Format and sample
+      placeholder: "CSV with columns YEAR MON VALUE; JSON like {...}; RSS"
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Checks
+      options:
+        - label: The provider publishes this data for public use (no scraping behind a login, no bypassing access control).
+        - label: For a webcam, the owner publishes it for public viewing.

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCe9IxQeBttZIYl5c43ycf9g"/>
+ <id>yt:channel:e9IxQeBttZIYl5c43ycf9g</id>
+ <yt:channelId>e9IxQeBttZIYl5c43ycf9g</yt:channelId>
+ <title>noaa</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g"/>
+ <author>
+  <name>noaa</name>
+  <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+ </author>
+ <published>2006-05-30T04:55:50+00:00</published>
+ <entry>
+  <id>yt:video:1_CoqLFqmNM</id>
+  <yt:videoId>1_CoqLFqmNM</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>The Great Miami Hurricane of 1926: 100 Years of Hurricane Forecasting and Research</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1_CoqLFqmNM"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2026-09-21T16:23:59+00:00</published>
+  <updated>2026-09-21T22:15:02+00:00</updated>
+  <media:group>
+   <media:title>The Great Miami Hurricane of 1926: 100 Years of Hurricane Forecasting and Research</media:title>
+   <media:content url="https://www.youtube.com/v/1_CoqLFqmNM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1_CoqLFqmNM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Predicting extreme weather events and warning the public was much more difficult before we had satellites, aircraft reconnaissance, computer models, radio, television, and the internet. In this talk, we will discuss the Great Miami Hurricane of 1926 and its effects, our understanding of weather and the state of forecasting at the time, what we learned from this event, and how we have advanced in the following 100 years.
+
+Presenters: Dr. Sim Aberson and Dr. Jack Beven
+
+This presentation is part of the NOAA Heritage Week 2026 Speaker Series.</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="570"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4KIlIgp4AhQ</id>
+  <yt:videoId>4KIlIgp4AhQ</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>On the Heritage Trail with Curator Mark Weber: NOAA Aircraft Operations Center</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4KIlIgp4AhQ"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2026-05-01T12:56:44+00:00</published>
+  <updated>2026-09-18T00:01:18+00:00</updated>
+  <media:group>
+   <media:title>On the Heritage Trail with Curator Mark Weber: NOAA Aircraft Operations Center</media:title>
+   <media:content url="https://www.youtube.com/v/4KIlIgp4AhQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4KIlIgp4AhQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join our intrepid curator as he visits the NOAA Aircraft Operations Center and meets with Flight Engineer Dan Tyson, who shares some interesting artifacts from NOAA's P-3 Hurricane Hunters, Kermit and Miss Piggy.
+Learn more about NOAA’s history at https://www.noaa.gov/heritage.</media:description>
+   <media:community>
+    <media:starRating count="40" average="5.00" min="1" max="5"/>
+    <media:statistics views="1579"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yZ9jtYlDYBE</id>
+  <yt:videoId>yZ9jtYlDYBE</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Remembering Hurricane Katrina: 20 Years Later</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yZ9jtYlDYBE"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2025-08-27T13:05:52+00:00</published>
+  <updated>2026-09-18T16:30:22+00:00</updated>
+  <media:group>
+   <media:title>Remembering Hurricane Katrina: 20 Years Later</media:title>
+   <media:content url="https://www.youtube.com/v/yZ9jtYlDYBE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yZ9jtYlDYBE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>20 years ago, Hurricane Katrina tore through the southeastern United States, causing much destruction. This video features thoughts from NOAA staff who were involved in the forecasting and response. They share their memories of this tragic natural disaster, and the further forecasting advancements since then.
+Learn more about NOAA’s history at www.noaa.gov/heritage.</media:description>
+   <media:community>
+    <media:starRating count="42" average="5.00" min="1" max="5"/>
+    <media:statistics views="4930"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4xBZ4tdbm5U</id>
+  <yt:videoId>4xBZ4tdbm5U</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Gamechangers: 10 Women Who Broke Barriers at NOAA</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4xBZ4tdbm5U"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2025-03-03T14:31:13+00:00</published>
+  <updated>2026-09-18T00:28:31+00:00</updated>
+  <media:group>
+   <media:title>Gamechangers: 10 Women Who Broke Barriers at NOAA</media:title>
+   <media:content url="https://www.youtube.com/v/4xBZ4tdbm5U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4xBZ4tdbm5U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>NOAA has many outstanding women who have been the first to accomplish big things at NOAA and our predecessor agencies. This video showcases 10 of them.  Learn more about NOAA’s history at https://www.noaa.gov/heritage.</media:description>
+   <media:community>
+    <media:starRating count="56" average="5.00" min="1" max="5"/>
+    <media:statistics views="1671"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pgllbXeJNgI</id>
+  <yt:videoId>pgllbXeJNgI</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Investing in America: NOAA's Science, Service and Stewardship in Action</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pgllbXeJNgI"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2024-12-09T14:14:42+00:00</published>
+  <updated>2026-09-18T07:00:37+00:00</updated>
+  <media:group>
+   <media:title>Investing in America: NOAA's Science, Service and Stewardship in Action</media:title>
+   <media:content url="https://www.youtube.com/v/pgllbXeJNgI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pgllbXeJNgI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>From groundbreaking discoveries in the deepest depths of the ocean to pioneering satellite technology for severe weather monitoring, in the past four years, NOAA has introduced new innovations on air, land and sea to protect people, property and livelihoods across the nation. These historic investments in America’s climate resilience empowered local leaders and decision makers to understand, prepare for and mitigate climate impacts unique to their communities. Visit https://noaa.gov/2024report to learn more.</media:description>
+   <media:community>
+    <media:starRating count="91" average="5.00" min="1" max="5"/>
+    <media:statistics views="4685"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lpndO7g_L-g</id>
+  <yt:videoId>lpndO7g_L-g</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>NOAA - Climate Mayors MOU Signing Event</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lpndO7g_L-g"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2024-10-02T19:47:49+00:00</published>
+  <updated>2026-09-18T01:58:59+00:00</updated>
+  <media:group>
+   <media:title>NOAA - Climate Mayors MOU Signing Event</media:title>
+   <media:content url="https://www.youtube.com/v/lpndO7g_L-g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lpndO7g_L-g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>An exclusive event featuring an important conversation on climate change and resilience, co-hosted by NOAA and Climate Mayors.</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="847"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RJP1qyk9ZSg</id>
+  <yt:videoId>RJP1qyk9ZSg</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>NOAA provides vital navigation data in wake of Francis Scott Key Bridge collapse</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RJP1qyk9ZSg"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2024-04-03T14:17:42+00:00</published>
+  <updated>2026-09-17T23:05:27+00:00</updated>
+  <media:group>
+   <media:title>NOAA provides vital navigation data in wake of Francis Scott Key Bridge collapse</media:title>
+   <media:content url="https://www.youtube.com/v/RJP1qyk9ZSg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RJP1qyk9ZSg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Patapsco River, Baltimore, MD, Sunday, March 31, 2024: A Navigation Response Team from NOAA’s Office of Coast Survey conducts lidar and sonar operations at the site of the Francis Scott Key Bridge collapse to detect any obstructions and gather precise water depth and air gap measurements. This work provides data essential to establishing an alternate channel around the wreckage and determining what kinds of vessels can use it.  For more details, please visit: https://www.noaa.gov/news/noaa-science-experts-assets-responding-247-to-francis-scott-key-bridge-disaster</media:description>
+   <media:community>
+    <media:starRating count="98" average="5.00" min="1" max="5"/>
+    <media:statistics views="4789"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qskDvFZJiWk</id>
+  <yt:videoId>qskDvFZJiWk</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Xin Lan: Greenhouse Gas Scientist, NOAA Research Global Monitoring Laboratory</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/qskDvFZJiWk"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2024-03-14T13:48:11+00:00</published>
+  <updated>2026-09-18T00:24:14+00:00</updated>
+  <media:group>
+   <media:title>Xin Lan: Greenhouse Gas Scientist, NOAA Research Global Monitoring Laboratory</media:title>
+   <media:content url="https://www.youtube.com/v/qskDvFZJiWk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qskDvFZJiWk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Xin views Women’s History Month as a time for celebration and reflection, and an opportunity to remember that women are not treated equally throughout the world. 
+
+If given the opportunity to share advice with her younger self, she would say that despite what she was told by others, girls can grow up to be great scientists.</media:description>
+   <media:community>
+    <media:starRating count="47" average="5.00" min="1" max="5"/>
+    <media:statistics views="1559"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cBvv6_DlGp4</id>
+  <yt:videoId>cBvv6_DlGp4</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Kayelyn Simmons: Oceanographer, NOAA Research Atlantic Oceanographic &amp; Meteorological Laboratory</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/cBvv6_DlGp4"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2024-03-14T13:46:58+00:00</published>
+  <updated>2026-09-18T07:27:31+00:00</updated>
+  <media:group>
+   <media:title>Kayelyn Simmons: Oceanographer, NOAA Research Atlantic Oceanographic &amp; Meteorological Laboratory</media:title>
+   <media:content url="https://www.youtube.com/v/cBvv6_DlGp4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cBvv6_DlGp4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Kayelyn celebrates Women’s History Month by shopping at women-owned businesses and participating in a number of activities, including scuba diving, martial arts and spear fishing.
+
+What advice would she give to her younger self? To have more confidence in her academic abilities.</media:description>
+   <media:community>
+    <media:starRating count="30" average="5.00" min="1" max="5"/>
+    <media:statistics views="1086"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oUKM_UXYNRA</id>
+  <yt:videoId>oUKM_UXYNRA</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Ocean to Atmosphere: Research and Innovation at NOAA's Pacific Marine Environmental Laboratory.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oUKM_UXYNRA"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2024-02-08T20:24:15+00:00</published>
+  <updated>2026-09-18T01:25:16+00:00</updated>
+  <media:group>
+   <media:title>Ocean to Atmosphere: Research and Innovation at NOAA's Pacific Marine Environmental Laboratory.</media:title>
+   <media:content url="https://www.youtube.com/v/oUKM_UXYNRA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oUKM_UXYNRA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>NOAA’s Pacific Marine Environmental Laboratory (PMEL) is a federal laboratory based in Seattle, Washington, with additional offices in Newport, Oregon. PMEL makes critical observations and conducts groundbreaking research to advance our knowledge of the global ocean and its interactions with the earth, atmosphere, ecosystems, and climate. These observations are used to improve weather and climate predictions, fisheries management, and coastal resilience. PMEL is a global leader in the development and deployment of innovative strategies for ocean observation. 
+
+Visit  PMEL's YouTube channel: https://www.youtube.com/user/NOAAPMEL and the PMEL homepage: https://www.pmel.noaa.gov/ for more great content.</media:description>
+   <media:community>
+    <media:starRating count="89" average="5.00" min="1" max="5"/>
+    <media:statistics views="3765"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VIM3yXoDRX8</id>
+  <yt:videoId>VIM3yXoDRX8</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>One Day at COP28</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VIM3yXoDRX8"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2023-12-13T19:51:50+00:00</published>
+  <updated>2026-09-18T00:16:30+00:00</updated>
+  <media:group>
+   <media:title>One Day at COP28</media:title>
+   <media:content url="https://www.youtube.com/v/VIM3yXoDRX8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VIM3yXoDRX8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>What is it like to spend a day with NOAA at COP28? Watch as some members of the NOAA delegation describe a day in Dubai, and what they hope to achieve during the meeting.</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="965"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Wz4qr0nBuOE</id>
+  <yt:videoId>Wz4qr0nBuOE</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>NOAA's Chief Scientist on Working to Achieve the World's Climate Goals</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Wz4qr0nBuOE"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2023-12-06T19:29:07+00:00</published>
+  <updated>2026-09-18T07:38:14+00:00</updated>
+  <media:group>
+   <media:title>NOAA's Chief Scientist on Working to Achieve the World's Climate Goals</media:title>
+   <media:content url="https://www.youtube.com/v/Wz4qr0nBuOE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Wz4qr0nBuOE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Take a virtual peek inside of the 28th United Nations Climate Change Conference (COP28), and join NOAA Chief Scientist Sarah Kapnick, Ph.D., as she explains the role NOAA's science and research is playing in achieving the world's climate goals.</media:description>
+   <media:community>
+    <media:starRating count="19" average="5.00" min="1" max="5"/>
+    <media:statistics views="680"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_wU2h1rfkyw</id>
+  <yt:videoId>_wU2h1rfkyw</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Tracy Boze: Investigative Support Technician, NOAA Fisheries Office of Law Enforcement</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_wU2h1rfkyw"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2023-11-28T19:36:42+00:00</published>
+  <updated>2026-09-18T07:15:23+00:00</updated>
+  <media:group>
+   <media:title>Tracy Boze: Investigative Support Technician, NOAA Fisheries Office of Law Enforcement</media:title>
+   <media:content url="https://www.youtube.com/v/_wU2h1rfkyw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_wU2h1rfkyw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Tracy is an enrolled citizen of the Tlingit and Haida and Sitka Tribe of Alaska. Native American Heritage Month is important to Tracy because it provides a space to tell stories and learn more about the varied cultures in her community.</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="295"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6KDlSakTlnQ</id>
+  <yt:videoId>6KDlSakTlnQ</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>CDR James Brinkley: Assistant Director (Acting), NOAA Office of Satellite Products and Operations</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6KDlSakTlnQ"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2023-11-28T19:35:14+00:00</published>
+  <updated>2026-09-17T23:26:09+00:00</updated>
+  <media:group>
+   <media:title>CDR James Brinkley: Assistant Director (Acting), NOAA Office of Satellite Products and Operations</media:title>
+   <media:content url="https://www.youtube.com/v/6KDlSakTlnQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6KDlSakTlnQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Commander Brinkley, a member of the Cherokee Nation, thinks of Native American Heritage Month “is a time to celebrate rich and diverse cultures, our histories and acknowledge our ancestors.” James admires Comanche chief Quanah Parker for his conservation efforts.</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="351"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WEgil_xczyQ</id>
+  <yt:videoId>WEgil_xczyQ</yt:videoId>
+  <yt:channelId>UCe9IxQeBttZIYl5c43ycf9g</yt:channelId>
+  <title>Vanessa Tuttle: Research Fisheries Biologist, Northwest Fisheries Science Center</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WEgil_xczyQ"/>
+  <author>
+   <name>noaa</name>
+   <uri>https://www.youtube.com/channel/UCe9IxQeBttZIYl5c43ycf9g</uri>
+  </author>
+  <published>2023-11-28T19:32:44+00:00</published>
+  <updated>2026-09-18T03:30:21+00:00</updated>
+  <media:group>
+   <media:title>Vanessa Tuttle: Research Fisheries Biologist, Northwest Fisheries Science Center</media:title>
+   <media:content url="https://www.youtube.com/v/WEgil_xczyQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WEgil_xczyQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A member of the Peoria Tribes of Indians of Oklahoma, Vanessa not only loves Native American Heritage Month, but respects and enjoys all heritage months. Vanessa deeply admires Native American leader Billy Frank Jr. for his work relating to tribes and fisheries in the U.S.</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="179"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

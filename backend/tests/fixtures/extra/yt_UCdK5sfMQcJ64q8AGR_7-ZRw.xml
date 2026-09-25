@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCdK5sfMQcJ64q8AGR_7-ZRw"/>
+ <id>yt:channel:dK5sfMQcJ64q8AGR_7-ZRw</id>
+ <yt:channelId>dK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+ <title>Copernicus ECMWF</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw"/>
+ <author>
+  <name>Copernicus ECMWF</name>
+  <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+ </author>
+ <published>2015-07-22T12:56:55+00:00</published>
+ <entry>
+  <id>yt:video:Nw2vH8R-334</id>
+  <yt:videoId>Nw2vH8R-334</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>How to use the Climate Data Store (CDS) and the CDS API?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Nw2vH8R-334"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-09-23T14:06:28+00:00</published>
+  <updated>2026-09-23T16:14:10+00:00</updated>
+  <media:group>
+   <media:title>How to use the Climate Data Store (CDS) and the CDS API?</media:title>
+   <media:content url="https://www.youtube.com/v/Nw2vH8R-334?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Nw2vH8R-334/hqdefault.jpg" width="480" height="360"/>
+   <media:description>How to use the Climate Data Store (CDS) and the CDS API? 
+The European Centre for Medium-Range Weather Forecasts operates several Copernicus data stores, offering a wealth of free and open environmental data. In this video, we focus on the Climate Data Store and how to use the Application Programming Interface (API) to download data efficiently.
+
+Visit the CDS: https://cds.climate.copernicus.eu/</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="60"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4CGvJp4MEPM</id>
+  <yt:videoId>4CGvJp4MEPM</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>Climate Atlas - Tutorial video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4CGvJp4MEPM"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-09-11T13:34:54+00:00</published>
+  <updated>2026-09-15T07:36:28+00:00</updated>
+  <media:group>
+   <media:title>Climate Atlas - Tutorial video</media:title>
+   <media:content url="https://www.youtube.com/v/4CGvJp4MEPM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4CGvJp4MEPM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Copernicus Interactive Climate Atlas released by the Copernicus Climate Change Service C3S is a powerful and intuitive interactive tool to explore the past of our climate and the key projections for the future. Let’s have a quick overview of its main features.
+
+Explore the Atlas: https://atlas.climate.copernicus.eu/atlas</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="196"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ekvyoEar984</id>
+  <yt:videoId>ekvyoEar984</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>Voices of CAMS - Richard Engelen, Deputy Director of the Copernicus Atmosphere Monitoring Service</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/ekvyoEar984"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-07-21T09:30:47+00:00</published>
+  <updated>2026-09-15T02:26:28+00:00</updated>
+  <media:group>
+   <media:title>Voices of CAMS - Richard Engelen, Deputy Director of the Copernicus Atmosphere Monitoring Service</media:title>
+   <media:content url="https://www.youtube.com/v/ekvyoEar984?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ekvyoEar984/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Richard Engelen, Deputy Director of the Copernicus Atmosphere Monitoring Service (CAMS), explains how greenhouse gas monitoring will advance with the Copernicus anthropogenic CO2 Monitoring satellite constellation and the expansion of the CAMS system to include the estimation of emissions and natural surface fluxes in a comprehensive close-to-real-time monitoring system.
+
+Read more: https://atmosphere.copernicus.eu/iwggms-building-future-satellite-based-greenhouse-gas-monitoring</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="12"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vOlwmhyCxhQ</id>
+  <yt:videoId>vOlwmhyCxhQ</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>What is the Copernicus Health Hub?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vOlwmhyCxhQ"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-06-12T12:34:11+00:00</published>
+  <updated>2026-09-18T19:10:38+00:00</updated>
+  <media:group>
+   <media:title>What is the Copernicus Health Hub?</media:title>
+   <media:content url="https://www.youtube.com/v/vOlwmhyCxhQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vOlwmhyCxhQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Copernicus Health Hub is a gateway to all Copernicus services that provide past and future indicators of environmental factors that affect human health and well-being.
+
+The Hub offers the resources health professionals, researchers, policymakers and the general public need to help answer key questions on climate, environment and health, from air quality and extreme heat to pollen, UV radiation and climate-related risks.
+
+Visit the Copernicus Health Hub and discover how it could help build a healthier future for us all: https://health.hub.copernicus.eu/</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="138"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YlnjSLERcXc</id>
+  <yt:videoId>YlnjSLERcXc</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>9th C3S General Assembly | Copernicus June 2026 - Day 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YlnjSLERcXc"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-06-05T23:19:01+00:00</published>
+  <updated>2026-09-21T07:30:30+00:00</updated>
+  <media:group>
+   <media:title>9th C3S General Assembly | Copernicus June 2026 - Day 3</media:title>
+   <media:content url="https://www.youtube.com/v/YlnjSLERcXc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YlnjSLERcXc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Website : 
+https://climate.copernicus.eu/9th-c3s-general-assembly
+
+Survey:
+https://adriacongrex.online/c3s-ga-3-5-june-2026-budapest-satisfaction-survey/</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="399"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Y_yQHhdp_A8</id>
+  <yt:videoId>Y_yQHhdp_A8</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>9th C3S General Assembly | Copernicus June 2026 - Day 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Y_yQHhdp_A8"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-06-04T16:06:08+00:00</published>
+  <updated>2026-07-07T09:51:39+00:00</updated>
+  <media:group>
+   <media:title>9th C3S General Assembly | Copernicus June 2026 - Day 2</media:title>
+   <media:content url="https://www.youtube.com/v/Y_yQHhdp_A8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Y_yQHhdp_A8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Website : 
+https://climate.copernicus.eu/9th-c3s-general-assembly
+
+Survey:
+https://adriacongrex.online/c3s-ga-3-5-june-2026-budapest-satisfaction-survey/</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="681"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1TgmCTyLPVM</id>
+  <yt:videoId>1TgmCTyLPVM</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>9th C3S General Assembly | Copernicus June 2026 - Day 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1TgmCTyLPVM"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-06-04T04:15:24+00:00</published>
+  <updated>2026-09-18T03:38:25+00:00</updated>
+  <media:group>
+   <media:title>9th C3S General Assembly | Copernicus June 2026 - Day 1</media:title>
+   <media:content url="https://www.youtube.com/v/1TgmCTyLPVM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1TgmCTyLPVM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Website : 
+https://climate.copernicus.eu/9th-c3s-general-assembly
+
+Survey:
+https://adriacongrex.online/c3s-ga-3-5-june-2026-budapest-satisfaction-survey</media:description>
+   <media:community>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="669"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:I_W1Yq0EdAk</id>
+  <yt:videoId>I_W1Yq0EdAk</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>Ask a Scientist - European State of the Climate 2025</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/I_W1Yq0EdAk"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-05-06T14:22:50+00:00</published>
+  <updated>2026-09-11T20:21:44+00:00</updated>
+  <media:group>
+   <media:title>Ask a Scientist - European State of the Climate 2025</media:title>
+   <media:content url="https://www.youtube.com/v/I_W1Yq0EdAk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/I_W1Yq0EdAk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this edition of Ask a Scientist, Rebecca Emerton, Senior Scientist at the European Centre for Medium-Range Weather Forecasts (ECMWF) and Lead Editor of the European State of the Climate 2025, shares her perspective on the report.
+
+In this interview, she reflects on the finding that surprised her most, the result that deserves closer attention, and how the report can help everyone make sense of Europe's changing climate.
+
+Published jointly by the Copernicus Climate Change Service (C3S), implemented by ECMWF, and the World Meteorological Organization (WMO), #ESOTC2025 offers a clear overview of how Europe’s climate is changing and why that matters for everyday decisions, policy making and long-term climate resilience.
+
+🌍 Explore the report: https://climate.copernicus.eu/esotc/2025</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="31"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SxsT9cKe_kE</id>
+  <yt:videoId>SxsT9cKe_kE</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>European State of the Climate 2025 | Media Briefing</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SxsT9cKe_kE"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-04-29T09:17:11+00:00</published>
+  <updated>2026-09-09T21:48:45+00:00</updated>
+  <media:group>
+   <media:title>European State of the Climate 2025 | Media Briefing</media:title>
+   <media:content url="https://www.youtube.com/v/SxsT9cKe_kE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SxsT9cKe_kE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The annual European State of the Climate (ESOTC) report is jointly published by the Copernicus Climate Change Service (C3S), implemented by ECMWF, and the World Meteorological Organization (WMO).
+
+The ESOTC analyses climate conditions in Europe, covering key variables, events and their impacts, and a discussion of climate policy and action – this year focusing on biodiversity.
+
+Explore the report: https://climate.copernicus.eu/esotc/2025
+
+00:00:00 - Welcome by Jeremy Wilks (moderator)
+00:01:55 – Florian Pappenberger (Director-General, ECMWF) and Celeste Saulo (Secretary-General, WMO)
+00:11:08 - Mauro Facchini (Head of Earth Observation, EC) and Dušan Chrenek (Principal Adviser, EC)
+00:22:19 - Samantha Burgess (Strategic Lead on Climate, ECMWF)
+00:43:07 - Claire Scannell (Principal Meteorological Officer, Met Eireann)
+00:49:31 - Q&amp;A
+01:30:28 - Closing</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="389"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:r12Q_6Vb1KA</id>
+  <yt:videoId>r12Q_6Vb1KA</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>What is the Copernicus Climate Change Service? - C3S</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=r12Q_6Vb1KA"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-02-23T09:35:22+00:00</published>
+  <updated>2026-09-11T14:32:25+00:00</updated>
+  <media:group>
+   <media:title>What is the Copernicus Climate Change Service? - C3S</media:title>
+   <media:content url="https://www.youtube.com/v/r12Q_6Vb1KA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/r12Q_6Vb1KA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Copernicus Climate Change Service (C3S) supports society by providing authoritative information about the past, present and future climate in Europe and the rest of the World. 
+The C3S mission is to support adaptation and mitigation policies of the European Union by providing consistent and authoritative information about climate change. We offer free and open access to climate data and tools based on the best available science. We listen to our users and endeavour to help them meet their goals in dealing with the impacts of climate change.
+
+Discover more: https://climate.copernicus.eu/</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="318"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ATyMo8saSdk</id>
+  <yt:videoId>ATyMo8saSdk</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>Voices of CAMS - Anna Kampouri, researchers at National Observatory of Athens</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/ATyMo8saSdk"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-01-30T13:47:17+00:00</published>
+  <updated>2026-09-15T14:24:06+00:00</updated>
+  <media:group>
+   <media:title>Voices of CAMS - Anna Kampouri, researchers at National Observatory of Athens</media:title>
+   <media:content url="https://www.youtube.com/v/ATyMo8saSdk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ATyMo8saSdk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Anna Kampoyri from the National Observatory of Athens talks about common air quality issues in Greece and how they uses CAMS data for the AtmoHub platform, enabling all people to better understand how changes in air quality impact their health.
+
+Learn more: https://atmosphere.copernicus.eu/greece</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="74"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NiOvgbWqVyo</id>
+  <yt:videoId>NiOvgbWqVyo</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>Voices of CAMS - Cecile Cazalet and Vincent Guidard, researchers at Météo-France</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/NiOvgbWqVyo"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-01-20T08:24:30+00:00</published>
+  <updated>2026-09-16T04:23:25+00:00</updated>
+  <media:group>
+   <media:title>Voices of CAMS - Cecile Cazalet and Vincent Guidard, researchers at Météo-France</media:title>
+   <media:content url="https://www.youtube.com/v/NiOvgbWqVyo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NiOvgbWqVyo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Listen to Cécile Cazalet and Dr Vincent Guidard from Météo-France share what’s next for #CopernicusAtmosphere regional air quality products.
+
+In this video, they explain the impact of desert dust and particles from biomass burning and how they affect not only air quality, but also solar energy production and cloud formation.
+
+They also highlight key priorities for the coming years: increasing the spatial resolution of forecasts, strengthening the use of new satellite observations, and applying artificial intelligence and machine learning to support future developments in atmospheric monitoring.
+
+Watch the video.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="155"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pj4IgqJoNxo</id>
+  <yt:videoId>pj4IgqJoNxo</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>2025 was the third warmest year on record | Global Climate Highlights 2025 press conference</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pj4IgqJoNxo"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-01-14T11:36:36+00:00</published>
+  <updated>2026-09-11T03:14:58+00:00</updated>
+  <media:group>
+   <media:title>2025 was the third warmest year on record | Global Climate Highlights 2025 press conference</media:title>
+   <media:content url="https://www.youtube.com/v/pj4IgqJoNxo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pj4IgqJoNxo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Global Climate Highlights 2025 report provides authoritative climate data and concise insight on a global scale about 2025's climate conditions, covering surface and sea surface temperature, heat stress, sea ice extent in the Arctic and Antarctic, among others.
+
+Explore the interactive summary and full report: https://climate.copernicus.eu/global-climate-highlights-2025
+
+00:00:00 - Welcome by Jeremy Wilks, media briefing moderator
+00:01:40 – Florian Pappenberger (Director-General, ECMWF)
+00:04:30 - Mauro Facchini (Head of Earth Observation at the Directorate General for Defence Industry and Space, European Commission)
+00:09:45 - Carlo Buontempo (Director, Copernicus Climate Change Service, ECMWF) and Laurence Rouil (Director, Copernicus Atmosphere Monitoring Service, ECMWF)
+00:17:45 - Samantha Burgess (Strategic Lead on Climate, ECMWF)
+00:34:15 - Q&amp;A
+01:27:54 - Closing</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="739"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:f9XE1BgOHVQ</id>
+  <yt:videoId>f9XE1BgOHVQ</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>Voices of CAMS - Michael Gauss &amp; Augustin Mortier, researchers @ Norwegian Meteorological Institute</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=f9XE1BgOHVQ"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2026-01-08T09:15:58+00:00</published>
+  <updated>2026-09-10T04:41:29+00:00</updated>
+  <media:group>
+   <media:title>Voices of CAMS - Michael Gauss &amp; Augustin Mortier, researchers @ Norwegian Meteorological Institute</media:title>
+   <media:content url="https://www.youtube.com/v/f9XE1BgOHVQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/f9XE1BgOHVQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>How do CAMS regional models turn vast datasets into daily air quality insights? Hear from Michael Gauss and Augustin Mortier at the Norwegian Meteorological Institute on evaluation, aerosol alerts and user-driven reporting. 
+
+#CopernicusAtmosphere</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="45"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:F4CTOz-79bg</id>
+  <yt:videoId>F4CTOz-79bg</yt:videoId>
+  <yt:channelId>UCdK5sfMQcJ64q8AGR_7-ZRw</yt:channelId>
+  <title>Understanding Climate Data - Trailer 2025</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=F4CTOz-79bg"/>
+  <author>
+   <name>Copernicus ECMWF</name>
+   <uri>https://www.youtube.com/channel/UCdK5sfMQcJ64q8AGR_7-ZRw</uri>
+  </author>
+  <published>2025-12-19T11:34:01+00:00</published>
+  <updated>2026-09-09T21:27:44+00:00</updated>
+  <media:group>
+   <media:title>Understanding Climate Data - Trailer 2025</media:title>
+   <media:content url="https://www.youtube.com/v/F4CTOz-79bg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/F4CTOz-79bg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Copernicus Climate Change Service (C3S) is launching a series of three FREE online short courses to help you find, interpret and use climate data confidently in your field.  
+ 
+Whether you are in finance, city planning, agriculture, energy or other sectors, these courses will help you turn #C3S climate data into actionable knowledge.  
+ 
+More info and registration: https://climate.copernicus.eu/online-course-understanding-climate-data
+
+Learn how: 
+⚡ Energy companies leverage C3S data to forecast solar and wind resources, optimise power generation and plan for climate-related supply fluctuations. 
+🌾 Farmers use C3S rainfall and temperature forecasts to plan crop calendars and reduce losses.
+🏙️ Urban planners integrate heatwave and flood risk data into city design.
+🏦 Financial institutions rely on indicators to assess climate risks in investments and insurance.
+
+#CopernicusClimate</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="302"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

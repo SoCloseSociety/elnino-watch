@@ -1,0 +1,113 @@
+{
+ "generated_at": "2026-09-25T13:06:21+00:00",
+ "items": [
+  {
+   "myth": "El Nino means drought everywhere.",
+   "fact": "El Nino shifts rain: some regions get drier (Indonesia, Thailand, Australia), others wetter (Peru, Ecuador, southern Brazil). And even in the dry regions, it is a tilt of the odds.",
+   "topics": [
+    {
+     "id": "teleconnections",
+     "title": "Teleconnections"
+    }
+   ]
+  },
+  {
+   "myth": "El Nino means no floods this year.",
+   "fact": "Samui's northeast monsoon still arrives in October-January, and single heavy-rain events and storms still happen. El Nino does not prevent floods.",
+   "topics": [
+    {
+     "id": "factor_flood",
+     "title": "Factor: heavy rain / flooding"
+    },
+    {
+     "id": "samui_seasons",
+     "title": "Koh Samui's seasons"
+    }
+   ]
+  },
+  {
+   "myth": "El Nino is caused by climate change.",
+   "fact": "ENSO is a natural cycle that existed long before modern warming. How climate change alters ENSO is still an open research question. The warmer background ocean is, however, why NOAA now uses RONI.",
+   "topics": [
+    {
+     "id": "enso",
+     "title": "ENSO (El Nino-Southern Oscillation)"
+    },
+    {
+     "id": "roni",
+     "title": "RONI (Relative Oceanic Nino Index)"
+    }
+   ]
+  },
+  {
+   "myth": "A strong El Nino guarantees a disaster.",
+   "fact": "Stronger events make the usual impacts more likely, not certain. NOAA's own words for 2026: impacts are more likely \"though not guaranteed\".",
+   "topics": [
+    {
+     "id": "strength_categories",
+     "title": "Weak, moderate, strong and \"super\" El Nino"
+    },
+    {
+     "id": "probability",
+     "title": "Reading a forecast probability"
+    }
+   ]
+  },
+  {
+   "myth": "If the sea anomaly is +1.8 °C, the sea near Samui is 1.8 °C warmer.",
+   "fact": "The ONI measures a box of the central-eastern Pacific, thousands of kilometres away. Local sea temperature around Samui is a separate measurement (see the SST layers and Coral Reef Watch).",
+   "topics": [
+    {
+     "id": "nino34",
+     "title": "Nino 3.4"
+    },
+    {
+     "id": "anomaly",
+     "title": "Anomaly"
+    },
+    {
+     "id": "layer_sst_anomaly",
+     "title": "Layer: sea surface temperature anomaly"
+    }
+   ]
+  },
+  {
+   "myth": "No data means no problem.",
+   "fact": "This app treats missing or stale data as unknown, never as safe. An \"Unknown\" level asks you to check official sources directly.",
+   "topics": [
+    {
+     "id": "data_coverage",
+     "title": "Data coverage"
+    },
+    {
+     "id": "unknown_level",
+     "title": "Unknown level (\"at least ...\")"
+    }
+   ]
+  },
+  {
+   "myth": "El Nino peaks at Christmas, so by January it is over.",
+   "fact": "The ocean peak is around November-January, but the effects on land often come later. For Thailand, the dry season after the peak (February-April) is usually when drought and heat hurt most.",
+   "topics": [
+    {
+     "id": "enso_lifecycle",
+     "title": "Typical El Nino lifecycle"
+    }
+   ]
+  },
+  {
+   "myth": "Lots of news about drought means the water is running out on Samui.",
+   "fact": "Keyword counts mix old stories, other places and repeats. The app gives news little weight and confirms a water crisis only with rain data plus local reports or PWA notices.",
+   "topics": [
+    {
+     "id": "news_signals",
+     "title": "News and social signals"
+    },
+    {
+     "id": "factor_news",
+     "title": "Factor: media and social signal"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+.pytest_cache/
+
+# Runtime data (SQLite DB, WAL, logs) -- never commit
+data/*
+!data/.gitkeep
+
+# Secrets and local settings -- never commit
+.env
+.env.*
+!ops/deploy/env.example
+frontend/.env.local
+*.pem.key
+*.key
+
+# Node / build output
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

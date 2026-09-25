@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><stations created="2026-09-24T12:10:02UTC" count="1354">
+  <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
+  <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="32303" lat="5" lon="-95" elev="0" name="5N 95W" owner="NDBC" pgm="TAO" type="tao"/>
+  <station id="32304" lat="-5" lon="-95" elev="0" name="5S 95W" owner="NDBC" pgm="TAO" type="tao"/>
+  <station id="51311" lat="0" lon="-140" elev="0" name="0 140W" owner="NDBC" pgm="TAO" type="tao"/>
+</stations>

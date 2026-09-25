@@ -1,0 +1,65 @@
+[
+ {
+  "id": "41002",
+  "name": "SOUTH HATTERAS - 225 NM South of Cape Hatteras",
+  "lat": 31.743,
+  "lng": -74.955,
+  "img": "Z24A_2026_09_24_1310.jpg",
+  "width": 2880,
+  "height": 300
+ },
+ {
+  "id": "46006",
+  "name": "SOUTHEAST PAPA - 600NM West of Eureka, CA",
+  "lat": 40.73,
+  "lng": -137.42,
+  "img": "W67A_2026_09_24_1310.jpg",
+  "width": 2880,
+  "height": 300
+ },
+ {
+  "id": "46028",
+  "name": "CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA",
+  "lat": 35.763,
+  "lng": -121.9,
+  "img": null,
+  "width": null,
+  "height": null
+ },
+ {
+  "id": "46070",
+  "name": "SOUTHWEST BERING SEA - 142NM NNE OF ATTU IS, AK",
+  "lat": 55.048,
+  "lng": 175.246,
+  "img": null,
+  "width": null,
+  "height": null
+ },
+ {
+  "id": "46071",
+  "name": "WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK ",
+  "lat": 51.035,
+  "lng": 179.808,
+  "img": "W58A_2026_09_24_1310.jpg",
+  "width": 2880,
+  "height": 300
+ },
+ {
+  "id": "51002",
+  "name": "SOUTHWEST HAWAII - 215NM SSW of Hilo, HI",
+  "lat": 17.07,
+  "lng": -157.755,
+  "img": "W24A_2026_09_24_1310.jpg",
+  "width": 2880,
+  "height": 300
+ },
+ {
+  "id": "51003",
+  "name": "WESTERN  HAWAII - 205 NM SW of Honolulu, HI",
+  "lat": 19.151,
+  "lng": -160.617,
+  "img": "Z55A_2026_09_24_1310.jpg",
+  "width": 2880,
+  "height": 300
+ }
+]

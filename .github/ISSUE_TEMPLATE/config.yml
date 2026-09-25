@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Live site
+    url: https://elnino.soclose.co
+    about: The public instance (read-only; visitors cannot trigger source runs).
+  - name: Security report
+    url: https://github.com/SoCloseSociety/elnino-watch/security/policy
+    about: Please report vulnerabilities privately, not in a public issue.
+  - name: How the data is collected and licensed
+    url: https://github.com/SoCloseSociety/elnino-watch/blob/main/docs/DATA_SOURCES.md
+    about: Every collector, its provider, polling interval and terms.

@@ -1,0 +1,13 @@
+# /etc/logrotate.d/elnino-watch -- installed by ops/deploy/first_setup.sh
+# systemd keeps the file open (StandardOutput=append:), hence copytruncate.
+/var/log/elnino-watch.log {
+    daily
+    rotate 14
+    maxsize 50M
+    compress
+    delaycompress
+    missingok
+    notifempty
+    copytruncate
+    su root root
+}
