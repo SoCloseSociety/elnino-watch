@@ -193,6 +193,9 @@ export default function Layout() {
         <main id="main" tabIndex={-1} className={`outline-none min-h-0 flex-1 ${fullBleed ? 'relative overflow-hidden' : 'relative overflow-y-auto px-3 pt-3 pb-6 md:px-5 md:pt-4 2xl:px-8'}`}>
           <Outlet />
         </main>
+        <footer className="no-print shrink-0 border-t border-line bg-surface px-3 py-1 text-center text-[10.5px] leading-snug text-ink-3 md:px-5 md:text-right">
+          Developed by <a href="https://soclose.co" target="_blank" rel="noopener" className="underline decoration-line-strong underline-offset-2 hover:text-ink">SoClose Pte. Ltd.</a>, Singapore
+        </footer>
       </div>
       <HelpDrawer />
       <Tour />
